@@ -48,9 +48,14 @@ function sidebarLink($href, $icon, $text, $mode) {
     </div>
     <?php
     echo sidebarLink('ml_management.php', 'bi-cpu', 'ML Management', $mode);
-    echo sidebarLink('../kasir/prediksi_penjualan.php', 'bi-graph-up-arrow', 'Prediksi Penjualan', $mode);
-    echo sidebarLink('../dokter/ai_assistant.php', 'bi-capsule', 'AI Medical Assistant', $mode);
-    echo sidebarLink('../user/prediksi_layanan.php', 'bi-heart-pulse', 'Prediksi Layanan', $mode);
+    echo sidebarLink('ml_preview.php', 'bi-eye', 'Preview All Roles', $mode);
+    ?>
+    <hr class="text-light my-2">
+    <div class="text-muted px-3 py-1" style="font-size: 0.75rem;">Direct Access:</div>
+    <?php
+    echo sidebarLink('../kasir/prediksi_penjualan.php', 'bi-graph-up-arrow', 'Kasir View', $mode);
+    echo sidebarLink('../dokter/ai_assistant.php', 'bi-capsule', 'Dokter View', $mode);
+    echo sidebarLink('../user/prediksi_layanan.php', 'bi-heart-pulse', 'User View', $mode);
     ?>
   </div>
 </div>
