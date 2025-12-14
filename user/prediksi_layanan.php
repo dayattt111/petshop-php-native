@@ -9,12 +9,12 @@ require_once __DIR__ . '/../ml_prediction/PredictionService.php';
 require_once __DIR__ . '/../config/koneksi.php';
 
 // Check if user is logged in
-if (!isset($_SESSION['username']) || $_SESSION['level'] !== 'user') {
+if (!isset($_SESSION['username_212238']) || $_SESSION['role_212238'] !== 'user') {
     header('Location: ../login.php');
     exit;
 }
 
-$username = $_SESSION['username'];
+$username = $_SESSION['nama_212238'];
 
 // Sample pet data - sesuai dataset Makassar
 $petData = [

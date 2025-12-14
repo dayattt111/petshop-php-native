@@ -9,7 +9,7 @@ require_once __DIR__ . '/../ml_prediction/PredictionService.php';
 require_once __DIR__ . '/../config/koneksi.php';
 
 // Check if kasir is logged in
-if (!isset($_SESSION['username']) || $_SESSION['level'] !== 'kasir') {
+if (!isset($_SESSION['username_212238']) || $_SESSION['role_212238'] !== 'kasir') {
     header('Location: ../login.php');
     exit;
 }

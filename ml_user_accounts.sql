@@ -1,35 +1,35 @@
 -- ============================================================================
 -- XBOXPETSHOP - USER ACCOUNTS SQL
 -- Insert user untuk setiap role: Admin, Dokter, Kasir, User
--- Password TIDAK dienkripsi (plain text) untuk development/testing
+-- Menggunakan table users_212238 dengan struktur lengkap
 -- ============================================================================
 
--- Hapus data lama jika ada (optional)
--- DELETE FROM user WHERE username IN ('admin', 'dokter', 'kasir', 'user_pelanggan');
+-- Hapus data lama jika ada
+DELETE FROM users_212238 WHERE id_212238 IN ('ML_ADMIN', 'ML_DOKTER', 'ML_KASIR', 'ML_USER');
 
 -- ============================================================================
 -- 1. ADMIN ACCOUNT
 -- ============================================================================
-INSERT INTO user (username, password, nama_lengkap, level) 
-VALUES ('admin', 'admin123', 'Administrator Xboxpetshop', 'admin');
+INSERT INTO users_212238 (id_212238, nama_212238, username_212238, password_212238, password_plain_212238, email_212238, telepon_212238, foto_212238, role_212238) 
+VALUES ('ML_ADMIN', 'Administrator ML Xboxpetshop', 'admin_ml', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin123', 'admin_ml@xboxpetshop.com', '08111111111', 'default.png', 'admin');
 
 -- ============================================================================
 -- 2. DOKTER ACCOUNT
 -- ============================================================================
-INSERT INTO user (username, password, nama_lengkap, level) 
-VALUES ('dokter', 'dokter123', 'Dr. Ahmad Veterinarian', 'dokter');
+INSERT INTO users_212238 (id_212238, nama_212238, username_212238, password_212238, password_plain_212238, email_212238, telepon_212238, foto_212238, role_212238) 
+VALUES ('ML_DOKTER', 'Dr. Ahmad ML Veterinarian', 'dokter_ml', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'dokter123', 'dokter_ml@xboxpetshop.com', '08222222222', 'default.png', 'dokter');
 
 -- ============================================================================
 -- 3. KASIR ACCOUNT
 -- ============================================================================
-INSERT INTO user (username, password, nama_lengkap, level) 
-VALUES ('kasir', 'kasir123', 'Sari Kasir Petshop', 'kasir');
+INSERT INTO users_212238 (id_212238, nama_212238, username_212238, password_212238, password_plain_212238, email_212238, telepon_212238, foto_212238, role_212238) 
+VALUES ('ML_KASIR', 'Sari Kasir ML Petshop', 'kasir_ml', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'kasir123', 'kasir_ml@xboxpetshop.com', '08333333333', 'default.png', 'kasir');
 
 -- ============================================================================
 -- 4. USER/PELANGGAN ACCOUNT
 -- ============================================================================
-INSERT INTO user (username, password, nama_lengkap, level) 
-VALUES ('user_pelanggan', 'user123', 'Budi Pelanggan', 'user');
+INSERT INTO users_212238 (id_212238, nama_212238, username_212238, password_212238, password_plain_212238, email_212238, telepon_212238, foto_212238, role_212238) 
+VALUES ('ML_USER', 'Budi Pelanggan ML', 'user_ml', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'user123', 'user_ml@xboxpetshop.com', '08444444444', 'default.png', 'user');
 
 -- ============================================================================
 -- ALTERNATIF: Jika tabel user memiliki field tambahan
@@ -71,7 +71,7 @@ ORDER BY
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 1. ADMIN                                                            │
 ├─────────────────────────────────────────────────────────────────────┤
-│    Username: admin                                                  │
+│    Username: admin_ml                                               │
 │    Password: admin123                                               │
 │    Access:   - ML Model Management                                  │
 │              - View Accuracy & Feature Importance                   │
@@ -83,7 +83,7 @@ ORDER BY
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 2. DOKTER                                                           │
 ├─────────────────────────────────────────────────────────────────────┤
-│    Username: dokter                                                 │
+│    Username: dokter_ml                                              │
 │    Password: dokter123                                              │
 │    Access:   - AI Medical Assistant                                 │
 │              - Validate AI Predictions                              │
@@ -95,7 +95,7 @@ ORDER BY
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 3. KASIR                                                            │
 ├─────────────────────────────────────────────────────────────────────┤
-│    Username: kasir                                                  │
+│    Username: kasir_ml                                               │
 │    Password: kasir123                                               │
 │    Access:   - Sales AI Assistant                                   │
 │              - Upselling Opportunities                              │
@@ -107,7 +107,7 @@ ORDER BY
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 4. USER/PELANGGAN                                                   │
 ├─────────────────────────────────────────────────────────────────────┤
-│    Username: user_pelanggan                                         │
+│    Username: user_ml                                                │
 │    Password: user123                                                │
 │    Access:   - Service Recommendations                              │
 │              - Pet Care Reminders                                   │
