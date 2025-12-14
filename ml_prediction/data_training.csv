@@ -1,0 +1,51 @@
+Jenis Hewan,Ras,Berat Badan (Kg),Usia (Bulan),Frekuensi Kunjungan,Layanan Sering,Layanan Terakhir,Jenis Pakan,Merek Pakan,Hari Sejak Kunjungan,Kebutuhan Layanan Berikutnya
+Kucing,Persia,4.5,18,5,Grooming,Grooming,Whiskas Premium,Whiskas,30,Grooming
+Anjing,Golden Retriever,25,60,8,Grooming,Grooming,Pedigree Adult,Pedigree,45,Grooming
+Kucing,Anggora,3.5,24,3,Vaksinasi,Vaksinasi,Royal Canin,Royal Canin,90,Vaksinasi
+Anjing,Bulldog,22,36,2,Pengobatan,Pengobatan,Pro Plan,Purina,60,Pengobatan
+Kucing,Domestik,4,12,6,Grooming,Grooming,Me-O,Me-O,15,Grooming
+Anjing,Poodle,8,48,4,Grooming,Vaksinasi,Royal Canin,Royal Canin,120,Vaksinasi
+Kucing,Persia,5,30,7,Grooming,Grooming,Royal Canin,Royal Canin,20,Grooming
+Anjing,Beagle,12,72,5,Vaksinasi,Pengobatan,Pedigree,Pedigree,180,Vaksinasi
+Kucing,Siamese,3.8,15,3,Grooming,Grooming,Whiskas,Whiskas,25,Grooming
+Anjing,Labrador,28,84,9,Pet Hotel,Pet Hotel,Pro Plan,Purina,200,Pet Hotel
+Kucing,Maine Coon,6.5,36,4,Pengobatan,Grooming,Royal Canin,Royal Canin,90,Vaksinasi
+Anjing,Shih Tzu,6,24,8,Grooming,Grooming,Pedigree,Pedigree,30,Grooming
+Kucing,Domestik,3.2,8,2,Vaksinasi,Vaksinasi,Me-O,Me-O,60,Vaksinasi
+Anjing,German Shepherd,32,96,6,Pengobatan,Vaksinasi,Pro Plan,Purina,150,Pengobatan
+Kucing,Scottish Fold,4.2,20,5,Grooming,Grooming,Royal Canin,Royal Canin,35,Grooming
+Anjing,Chihuahua,3,40,3,Pet Hotel,Grooming,Pedigree,Pedigree,90,Pet Hotel
+Kucing,Ragdoll,5.5,28,6,Grooming,Grooming,Whiskas Premium,Whiskas,20,Grooming
+Anjing,Husky,23,52,7,Pet Hotel,Pet Hotel,Pro Plan,Purina,180,Pet Hotel
+Kucing,British Shorthair,4.8,22,4,Vaksinasi,Grooming,Royal Canin,Royal Canin,95,Vaksinasi
+Anjing,Doberman,30,68,5,Pengobatan,Pengobatan,Pedigree Adult,Pedigree,120,Pengobatan
+Kucing,Persia,4.3,16,7,Grooming,Grooming,Me-O,Me-O,18,Grooming
+Anjing,Boxer,26,44,6,Vaksinasi,Grooming,Pro Plan,Purina,110,Vaksinasi
+Kucing,Anggora,3.9,26,3,Grooming,Vaksinasi,Whiskas,Whiskas,85,Vaksinasi
+Anjing,Pug,7,32,8,Grooming,Grooming,Royal Canin,Royal Canin,28,Grooming
+Kucing,Domestik,3.5,10,2,Vaksinasi,Vaksinasi,Me-O,Me-O,50,Vaksinasi
+Anjing,Maltese,4,20,9,Grooming,Grooming,Pedigree,Pedigree,22,Grooming
+Kucing,Persian,5.2,34,5,Pet Hotel,Grooming,Royal Canin,Royal Canin,140,Pet Hotel
+Anjing,Rottweiler,35,80,4,Pengobatan,Pengobatan,Pro Plan,Purina,160,Pengobatan
+Kucing,Siamese,3.6,14,4,Grooming,Grooming,Whiskas,Whiskas,27,Grooming
+Anjing,Dachshund,9,38,5,Vaksinasi,Grooming,Pedigree,Pedigree,100,Vaksinasi
+Kucing,Maine Coon,7,42,6,Grooming,Pet Hotel,Royal Canin,Royal Canin,32,Grooming
+Anjing,Akita,29,76,3,Pet Hotel,Vaksinasi,Pro Plan,Purina,190,Pet Hotel
+Kucing,Bengal,4.4,19,7,Grooming,Grooming,Whiskas Premium,Whiskas,21,Grooming
+Anjing,Cocker Spaniel,14,46,8,Grooming,Grooming,Pedigree,Pedigree,25,Grooming
+Kucing,Ragdoll,5.8,31,4,Vaksinasi,Grooming,Royal Canin,Royal Canin,88,Vaksinasi
+Anjing,Border Collie,18,54,6,Pet Hotel,Pet Hotel,Pro Plan,Purina,175,Pet Hotel
+Kucing,Scottish Fold,4.1,17,5,Grooming,Grooming,Me-O,Me-O,29,Grooming
+Anjing,Schnauzer,11,29,7,Grooming,Grooming,Royal Canin,Royal Canin,24,Grooming
+Kucing,British Shorthair,4.9,25,3,Pengobatan,Vaksinasi,Whiskas,Whiskas,105,Pengobatan
+Anjing,Great Dane,40,90,5,Pengobatan,Pet Hotel,Pro Plan,Purina,145,Pengobatan
+Kucing,Domestik,3.3,9,2,Vaksinasi,Vaksinasi,Me-O,Me-O,55,Vaksinasi
+Anjing,Yorkshire Terrier,3.5,27,9,Grooming,Grooming,Pedigree,Pedigree,19,Grooming
+Kucing,Persia,4.6,21,6,Grooming,Grooming,Royal Canin,Royal Canin,26,Grooming
+Anjing,Samoyed,22,58,7,Pet Hotel,Grooming,Pro Plan,Purina,165,Pet Hotel
+Kucing,Siamese,3.7,13,4,Grooming,Grooming,Whiskas,Whiskas,31,Grooming
+Anjing,Bulldog Prancis,13,35,5,Vaksinasi,Grooming,Pedigree,Pedigree,92,Vaksinasi
+Kucing,Maine Coon,6.8,39,5,Pet Hotel,Grooming,Royal Canin,Royal Canin,135,Pet Hotel
+Anjing,Shiba Inu,10,49,4,Vaksinasi,Vaksinasi,Pro Plan,Purina,115,Vaksinasi
+Kucing,Anggora,4,23,6,Grooming,Grooming,Whiskas Premium,Whiskas,23,Grooming
+Anjing,Bernese Mountain,38,85,3,Pengobatan,Pengobatan,Pro Plan,Purina,155,Pengobatan
