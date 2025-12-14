@@ -165,6 +165,12 @@ class PredictionService {
                 'action' => 'Booking Grooming',
                 'icon' => '✂️'
             ],
+            'Veterinary' => [
+                'title' => '⚕️ Pemeriksaan Veterinary',
+                'message' => 'Saatnya check-up kesehatan atau perawatan medis. Jaga kesehatan hewan kesayangan Anda!',
+                'action' => 'Jadwalkan Pemeriksaan',
+                'icon' => '🏥'
+            ],
             'Vaksinasi' => [
                 'title' => '💉 Jangan Lupa Vaksinasi!',
                 'message' => 'Sudah waktunya vaksinasi untuk melindungi hewan peliharaan dari penyakit. Kesehatan adalah prioritas!',
@@ -236,6 +242,16 @@ class PredictionService {
                     'Sisir & Gunting Kuku' => 'Rp 50.000'
                 ],
                 'promo' => 'Diskon 20% untuk paket grooming + pembelian pakan!'
+            ],
+            'Veterinary' => [
+                'main_service' => 'Veterinary Check-up',
+                'price_estimate' => 'Rp 100.000 - 400.000',
+                'upsell_items' => [
+                    'Paket Vaksinasi Lengkap' => 'Rp 250.000',
+                    'Sterilisasi' => 'Rp 500.000',
+                    'Vitamin & Suplemen' => 'Rp 85.000'
+                ],
+                'promo' => 'Gratis konsultasi + diskon 15% untuk paket lengkap!'
             ],
             'Vaksinasi' => [
                 'main_service' => 'Vaksinasi',

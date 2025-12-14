@@ -38,11 +38,11 @@ $accuracy = $model->calculateAccuracy($data, $labels);
 echo "Training Accuracy: " . round($accuracy, 2) . "%\n\n";
 
 // Test 2: Petshop Data (if CSV exists)
-if (file_exists(__DIR__ . '/Dataset_Hewan_Petshop_Makassar_2024.csv')) {
+if (file_exists(__DIR__ . '/Dataset_Hewan_Petshop_Processed.csv')) {
     echo "[Test 2] Petshop Data Training\n";
     
     $preprocessor = new DataPreprocessor();
-    $preprocessor->loadCSV(__DIR__ . '/Dataset_Hewan_Petshop_Makassar_2024.csv', true);
+    $preprocessor->loadCSV(__DIR__ . '/Dataset_Hewan_Petshop_Processed.csv', true);
     
     echo "Loaded " . count($preprocessor->getData()) . " samples\n";
     
@@ -75,7 +75,7 @@ if (file_exists(__DIR__ . '/Dataset_Hewan_Petshop_Makassar_2024.csv')) {
     // Test prediction
     $testPet = [
         'Kucing', 'Persia', 'Normal', 'Remaja', 'Sering', 
-        'Grooming', 'Grooming', 'Whiskas Premium', 'Whiskas', '30'
+        'Grooming', 'Grooming', 'Kering', 'Whiskas', '30'
     ];
     
     $result = $model2->predictWithConfidence($testPet);

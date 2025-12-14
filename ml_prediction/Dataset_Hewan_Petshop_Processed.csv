@@ -1,0 +1,501 @@
+"Jenis Hewan",Ras,"Berat Badan (Kg)","Usia (Bulan)","Frekuensi Kunjungan","Layanan Sering","Layanan Terakhir","Jenis Pakan","Merek Pakan","Hari Sejak Kunjungan","Kebutuhan Layanan Berikutnya"
+Kucing,"Maine Coon",3.6,18,2,Grooming,"Pet Hotel",Kering,OriCat,341,Grooming
+Kucing,Persia,6.1,60,3,Veterinary,Veterinary,Kering,Whiskas,240,Veterinary
+Kucing,"Scottish Fold",2.8,19,2,Veterinary,"Pet Hotel",Kering,"Royal Canin",240,Veterinary
+Kucing,Sphynx,5.8,84,1,Veterinary,"Pet Hotel",Basah,"Royal Canin",62,Veterinary
+Kucing,"Scottish Fold",3.8,24,1,Veterinary,Grooming,Basah,Me-O,309,Veterinary
+Kucing,"Maine Coon",5.7,108,3,"Pet Hotel",Veterinary,Basah,Friskies,208,Veterinary
+Kucing,Persia,5.7,7,0.3,Grooming,"Pet Hotel",Basah,Equilibrio,317,Veterinary
+Kucing,Persia,5.3,16,2,Veterinary,Veterinary,Basah,Friskies,174,Veterinary
+Kucing,"Maine Coon",5.6,18,0.3,"Pet Hotel","Pet Hotel",Kering,OriCat,24,"Pet Hotel"
+Kucing,Sphynx,7.4,72,3,Veterinary,"Pet Hotel",Basah,"Royal Canin",70,Veterinary
+Kucing,Sphynx,5.2,84,1,Veterinary,Veterinary,Kering,"Royal Canin",84,Veterinary
+Kucing,"Maine Coon",7.8,13,0.3,Grooming,Grooming,Basah,OriCat,24,Grooming
+Kucing,Anggora,6.2,19,0.3,Grooming,Grooming,Basah,Equilibrio,332,Grooming
+Kucing,"British Shorthair",7.9,96,2,"Pet Hotel",Veterinary,Basah,Equilibrio,7,Veterinary
+Kucing,Sphynx,7.6,48,0.3,Veterinary,Veterinary,Kering,Me-O,156,Veterinary
+Kucing,"Scottish Fold",4.6,24,2,Veterinary,"Pet Hotel",Kering,Whiskas,141,Veterinary
+Kucing,"Maine Coon",4.3,9,3,Veterinary,Veterinary,Basah,"Royal Canin",323,Veterinary
+Kucing,Persia,3.2,6,2,Veterinary,"Pet Hotel",Basah,OriCat,277,Veterinary
+Kucing,"Scottish Fold",6.8,120,3,Grooming,"Pet Hotel",Kering,OriCat,63,Grooming
+Kucing,Anggora,7.7,6,2,"Pet Hotel",Grooming,Basah,"Royal Canin",164,"Pet Hotel"
+Kucing,"Scottish Fold",2,108,2,"Pet Hotel","Pet Hotel",Kering,Me-O,231,"Pet Hotel"
+Kucing,Sphynx,6.1,23,3,Grooming,Veterinary,Basah,Equilibrio,83,Grooming
+Kucing,Persia,5.6,17,2,"Pet Hotel","Pet Hotel",Kering,Equilibrio,203,"Pet Hotel"
+Kucing,Anggora,6,120,3,Veterinary,Grooming,Basah,Friskies,337,Grooming
+Kucing,Anggora,3.5,24,1,Grooming,"Pet Hotel",Kering,Whiskas,97,Grooming
+Kucing,"British Shorthair",6.4,72,0.3,Veterinary,"Pet Hotel",Kering,"Royal Canin",231,Veterinary
+Kucing,"British Shorthair",4.7,36,2,Veterinary,"Pet Hotel",Basah,Me-O,122,Veterinary
+Kucing,Anggora,3.5,12,3,"Pet Hotel",Veterinary,Basah,Friskies,150,Veterinary
+Kucing,Anggora,3.2,20,0.3,Grooming,Veterinary,Basah,Whiskas,308,Veterinary
+Kucing,"Scottish Fold",4.3,60,1,Veterinary,Veterinary,Kering,Me-O,344,Veterinary
+Kucing,Sphynx,3.2,6,0.3,Grooming,Grooming,Kering,Whiskas,74,Veterinary
+Kucing,"British Shorthair",7.4,10,0.3,Veterinary,"Pet Hotel",Basah,Me-O,288,Veterinary
+Kucing,Persia,7.6,72,3,Grooming,Grooming,Kering,Equilibrio,0,Grooming
+Kucing,Sphynx,3.7,14,1,Veterinary,"Pet Hotel",Kering,"Royal Canin",42,"Pet Hotel"
+Kucing,"Scottish Fold",6.3,24,0.3,"Pet Hotel",Grooming,Basah,Friskies,343,"Pet Hotel"
+Kucing,Sphynx,6.2,21,3,Grooming,"Pet Hotel",Basah,Whiskas,42,Grooming
+Kucing,Persia,3.2,84,2,Veterinary,Grooming,Basah,OriCat,150,Grooming
+Kucing,Anggora,7.4,19,1,"Pet Hotel","Pet Hotel",Basah,"Royal Canin",133,"Pet Hotel"
+Kucing,Sphynx,3.3,21,1,"Pet Hotel",Grooming,Kering,Equilibrio,224,"Pet Hotel"
+Kucing,Anggora,5.3,11,0.3,Veterinary,Veterinary,Basah,Whiskas,100,Veterinary
+Kucing,"Scottish Fold",5,20,3,"Pet Hotel",Grooming,Kering,Friskies,222,"Pet Hotel"
+Kucing,"British Shorthair",6.8,120,0.3,Veterinary,"Pet Hotel",Kering,Me-O,247,Veterinary
+Kucing,Sphynx,3.1,60,0.3,Grooming,"Pet Hotel",Kering,Whiskas,288,Grooming
+Kucing,"Scottish Fold",4.9,108,1,Veterinary,Veterinary,Kering,OriCat,13,Veterinary
+Kucing,Persia,3.9,8,2,Veterinary,Veterinary,Kering,Me-O,63,Veterinary
+Kucing,Sphynx,6.4,22,3,Grooming,Veterinary,Basah,"Royal Canin",31,Grooming
+Kucing,Anggora,6.7,10,1,Veterinary,Grooming,Basah,Friskies,181,Veterinary
+Kucing,"Maine Coon",6.8,72,2,Grooming,Grooming,Kering,"Royal Canin",178,Grooming
+Kucing,"Scottish Fold",2.1,72,3,Veterinary,Grooming,Kering,Equilibrio,61,Grooming
+Kucing,"Maine Coon",7.4,120,2,Veterinary,Grooming,Basah,Equilibrio,9,Grooming
+Kucing,"Maine Coon",4.8,22,3,Grooming,Veterinary,Kering,Equilibrio,181,Veterinary
+Kucing,"Maine Coon",4,108,3,Veterinary,Grooming,Basah,"Royal Canin",300,Grooming
+Kucing,"British Shorthair",2.8,36,2,Veterinary,Grooming,Kering,Friskies,7,Grooming
+Kucing,Anggora,6.1,7,2,Veterinary,Grooming,Basah,Whiskas,164,Veterinary
+Kucing,Persia,5.2,36,3,Grooming,"Pet Hotel",Basah,OriCat,12,Grooming
+Kucing,"Scottish Fold",5,36,3,Grooming,"Pet Hotel",Basah,Equilibrio,63,Grooming
+Kucing,"Scottish Fold",4.8,72,3,"Pet Hotel",Veterinary,Kering,OriCat,3,Veterinary
+Kucing,"Scottish Fold",5.4,72,3,"Pet Hotel",Veterinary,Basah,Equilibrio,59,"Pet Hotel"
+Kucing,"Maine Coon",5.2,9,2,Veterinary,Grooming,Kering,Friskies,325,Veterinary
+Kucing,Persia,4.6,6,1,"Pet Hotel",Grooming,Kering,Friskies,343,"Pet Hotel"
+Kucing,"British Shorthair",7.2,24,3,Veterinary,"Pet Hotel",Basah,Me-O,68,Veterinary
+Kucing,Anggora,2.4,8,2,"Pet Hotel",Grooming,Kering,Whiskas,333,"Pet Hotel"
+Kucing,Anggora,5.1,48,3,Veterinary,Grooming,Kering,OriCat,63,Grooming
+Kucing,"British Shorthair",4.1,19,1,Veterinary,Veterinary,Basah,OriCat,8,Veterinary
+Kucing,"Maine Coon",3.6,9,3,Grooming,Grooming,Kering,Friskies,141,Grooming
+Kucing,Persia,5.6,60,3,Veterinary,"Pet Hotel",Basah,Me-O,338,Veterinary
+Kucing,"British Shorthair",7.2,10,2,"Pet Hotel",Grooming,Basah,Equilibrio,197,"Pet Hotel"
+Kucing,Sphynx,3.6,60,2,"Pet Hotel","Pet Hotel",Basah,Whiskas,97,"Pet Hotel"
+Kucing,"Scottish Fold",7,108,3,Veterinary,Grooming,Kering,OriCat,186,Grooming
+Kucing,"British Shorthair",7.9,72,0.3,Grooming,Grooming,Basah,Whiskas,10,Grooming
+Kucing,"British Shorthair",5.9,96,2,"Pet Hotel",Veterinary,Basah,Me-O,333,Veterinary
+Kucing,Persia,5.4,72,1,"Pet Hotel","Pet Hotel",Kering,Equilibrio,258,"Pet Hotel"
+Kucing,Persia,7,120,3,Grooming,Veterinary,Kering,Whiskas,67,Grooming
+Kucing,"British Shorthair",2.5,20,2,Grooming,Veterinary,Kering,Equilibrio,219,Veterinary
+Kucing,Persia,7.3,11,2,"Pet Hotel",Veterinary,Basah,"Royal Canin",151,Veterinary
+Kucing,"British Shorthair",7.3,36,1,Veterinary,Veterinary,Kering,"Royal Canin",226,Veterinary
+Kucing,Persia,6.8,72,1,Grooming,Grooming,Basah,Me-O,33,Grooming
+Kucing,"Scottish Fold",4.4,120,3,Veterinary,Grooming,Kering,Me-O,131,Grooming
+Kucing,Persia,7.1,120,0.3,"Pet Hotel",Grooming,Basah,Friskies,333,"Pet Hotel"
+Kucing,"Maine Coon",7.2,24,0.3,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",89,"Pet Hotel"
+Kucing,"Scottish Fold",3.1,72,3,Grooming,"Pet Hotel",Basah,"Royal Canin",179,Grooming
+Kucing,"Maine Coon",7.2,13,0.3,Grooming,"Pet Hotel",Kering,Friskies,140,Grooming
+Kucing,Sphynx,7.8,21,2,"Pet Hotel",Grooming,Kering,Me-O,177,"Pet Hotel"
+Kucing,Sphynx,4.6,8,3,Veterinary,"Pet Hotel",Kering,Whiskas,294,Veterinary
+Kucing,Persia,3.6,60,0.3,Grooming,Veterinary,Kering,Friskies,68,Grooming
+Kucing,"Scottish Fold",7.4,18,2,Veterinary,"Pet Hotel",Basah,Equilibrio,311,Veterinary
+Kucing,"British Shorthair",5.6,15,2,"Pet Hotel",Veterinary,Kering,Friskies,223,Veterinary
+Kucing,Anggora,5.1,84,2,Grooming,Veterinary,Basah,Me-O,68,Grooming
+Kucing,Persia,2.4,84,3,"Pet Hotel","Pet Hotel",Kering,OriCat,69,"Pet Hotel"
+Kucing,"Maine Coon",7.3,96,0.3,Grooming,Veterinary,Basah,OriCat,56,Grooming
+Kucing,"Scottish Fold",3.1,48,3,Grooming,"Pet Hotel",Kering,OriCat,58,Grooming
+Kucing,Persia,5.3,10,0.3,"Pet Hotel","Pet Hotel",Basah,"Royal Canin",127,"Pet Hotel"
+Kucing,Persia,6.3,36,0.3,Grooming,Veterinary,Kering,OriCat,21,Veterinary
+Kucing,Anggora,3.3,24,1,"Pet Hotel","Pet Hotel",Basah,Equilibrio,187,"Pet Hotel"
+Kucing,Anggora,4.8,108,2,"Pet Hotel","Pet Hotel",Basah,Equilibrio,98,"Pet Hotel"
+Kucing,Sphynx,4.7,20,2,Grooming,"Pet Hotel",Basah,Whiskas,11,Grooming
+Kucing,Persia,2.4,23,1,"Pet Hotel",Grooming,Kering,Equilibrio,37,Grooming
+Kucing,Anggora,5.1,60,3,Veterinary,Veterinary,Kering,Equilibrio,201,Veterinary
+Kucing,"Scottish Fold",4.9,48,3,"Pet Hotel","Pet Hotel",Kering,Equilibrio,165,"Pet Hotel"
+Kucing,"Scottish Fold",4.8,18,0.3,"Pet Hotel",Grooming,Basah,Equilibrio,13,Grooming
+Kucing,"Scottish Fold",4.1,19,1,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",167,"Pet Hotel"
+Kucing,"Maine Coon",6.8,6,3,"Pet Hotel",Veterinary,Basah,Whiskas,182,Veterinary
+Kucing,Sphynx,5.1,14,1,"Pet Hotel",Grooming,Basah,Me-O,249,"Pet Hotel"
+Kucing,Sphynx,2.3,20,0.3,"Pet Hotel","Pet Hotel",Basah,OriCat,160,"Pet Hotel"
+Kucing,Persia,7.8,23,2,Grooming,Grooming,Basah,Friskies,100,Grooming
+Kucing,Persia,4.5,48,0.3,Grooming,Veterinary,Kering,Equilibrio,32,Veterinary
+Kucing,Persia,3.7,72,3,Veterinary,Veterinary,Kering,"Royal Canin",234,Veterinary
+Kucing,Persia,3.5,22,3,Grooming,"Pet Hotel",Kering,Equilibrio,29,Grooming
+Kucing,Persia,6.2,24,2,"Pet Hotel",Grooming,Basah,Friskies,283,"Pet Hotel"
+Kucing,"Maine Coon",7.3,96,3,Grooming,Veterinary,Kering,"Royal Canin",94,Veterinary
+Kucing,"Scottish Fold",3.2,9,2,"Pet Hotel","Pet Hotel",Basah,Friskies,175,"Pet Hotel"
+Kucing,"Maine Coon",2.9,120,0.3,"Pet Hotel",Grooming,Basah,Friskies,177,"Pet Hotel"
+Kucing,Persia,6.4,21,0.3,Veterinary,"Pet Hotel",Basah,"Royal Canin",194,Veterinary
+Kucing,Persia,4.5,72,0.3,Grooming,Veterinary,Kering,OriCat,142,Veterinary
+Kucing,"Maine Coon",4.2,24,0.3,"Pet Hotel","Pet Hotel",Kering,Equilibrio,12,"Pet Hotel"
+Kucing,Persia,4.4,6,2,"Pet Hotel",Grooming,Basah,OriCat,144,"Pet Hotel"
+Kucing,"Maine Coon",3.6,72,1,Grooming,Grooming,Basah,Equilibrio,175,Grooming
+Kucing,Sphynx,6.8,11,3,Veterinary,"Pet Hotel",Basah,Equilibrio,339,Veterinary
+Kucing,Persia,2.1,108,2,Veterinary,Veterinary,Basah,"Royal Canin",212,Veterinary
+Kucing,Anggora,6.1,84,0.3,Grooming,Veterinary,Basah,"Royal Canin",343,Veterinary
+Kucing,Anggora,6.2,24,0.3,Grooming,Grooming,Kering,"Royal Canin",188,Grooming
+Kucing,"British Shorthair",2,24,1,Veterinary,Grooming,Basah,OriCat,117,Veterinary
+Kucing,Anggora,6.6,6,2,"Pet Hotel",Grooming,Basah,Friskies,43,Veterinary
+Kucing,"Scottish Fold",5.9,60,1,"Pet Hotel","Pet Hotel",Kering,Friskies,209,"Pet Hotel"
+Kucing,Persia,5.8,6,2,Grooming,Grooming,Basah,Me-O,162,Grooming
+Kucing,"British Shorthair",7.8,72,3,"Pet Hotel",Veterinary,Basah,Equilibrio,326,Veterinary
+Kucing,Persia,6.1,36,0.3,Grooming,Grooming,Basah,OriCat,69,Grooming
+Kucing,"Maine Coon",2.5,22,3,"Pet Hotel",Grooming,Basah,Whiskas,310,"Pet Hotel"
+Kucing,Sphynx,5.4,36,1,"Pet Hotel",Veterinary,Kering,Whiskas,253,Veterinary
+Kucing,Persia,6.3,14,3,Grooming,"Pet Hotel",Basah,Equilibrio,142,Grooming
+Kucing,Sphynx,3.5,11,0.3,"Pet Hotel",Grooming,Kering,OriCat,8,Grooming
+Kucing,Persia,5.2,108,0.3,"Pet Hotel",Veterinary,Kering,Equilibrio,143,Veterinary
+Kucing,"Scottish Fold",4.8,15,0.3,Grooming,"Pet Hotel",Kering,Friskies,81,Grooming
+Kucing,"Scottish Fold",7,96,2,Grooming,Grooming,Kering,OriCat,155,Grooming
+Kucing,"Scottish Fold",4.3,60,0.3,Veterinary,"Pet Hotel",Kering,Me-O,157,Veterinary
+Kucing,"British Shorthair",3.1,96,0.3,Grooming,"Pet Hotel",Kering,"Royal Canin",285,Grooming
+Kucing,Anggora,3.2,84,1,Veterinary,"Pet Hotel",Basah,Whiskas,62,Veterinary
+Kucing,"Maine Coon",6.3,9,1,Veterinary,Veterinary,Basah,Whiskas,188,Veterinary
+Kucing,"Maine Coon",6.3,108,0.3,Veterinary,Veterinary,Basah,OriCat,282,Veterinary
+Kucing,"British Shorthair",6.2,18,3,"Pet Hotel",Grooming,Kering,Equilibrio,208,"Pet Hotel"
+Kucing,Sphynx,4.3,36,3,Grooming,Grooming,Basah,Equilibrio,109,Grooming
+Kucing,"Scottish Fold",7.3,21,0.3,"Pet Hotel",Veterinary,Basah,OriCat,327,Veterinary
+Kucing,"British Shorthair",4.3,14,2,Veterinary,"Pet Hotel",Kering,"Royal Canin",24,"Pet Hotel"
+Kucing,Persia,3.8,13,3,Grooming,Veterinary,Kering,Equilibrio,297,Veterinary
+Kucing,"Maine Coon",6.3,10,0.3,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",109,"Pet Hotel"
+Kucing,Anggora,4.4,15,0.3,Grooming,Grooming,Kering,Me-O,30,Grooming
+Kucing,"Scottish Fold",6,17,3,"Pet Hotel",Veterinary,Basah,Friskies,335,Veterinary
+Kucing,"Maine Coon",5.9,48,3,"Pet Hotel",Grooming,Basah,Friskies,216,"Pet Hotel"
+Kucing,Anggora,2.3,7,3,Grooming,"Pet Hotel",Basah,Friskies,73,Grooming
+Kucing,"Scottish Fold",7.4,96,3,Grooming,"Pet Hotel",Basah,"Royal Canin",73,Grooming
+Kucing,Sphynx,3.9,60,0.3,Veterinary,Grooming,Basah,Friskies,204,Veterinary
+Kucing,"Scottish Fold",3.4,84,2,Grooming,Grooming,Basah,"Royal Canin",54,Grooming
+Kucing,Persia,2.9,9,1,Veterinary,Veterinary,Kering,Whiskas,109,Veterinary
+Kucing,"Scottish Fold",5.6,96,2,Grooming,Grooming,Kering,Me-O,150,Grooming
+Kucing,"Maine Coon",6.7,7,3,Veterinary,Veterinary,Kering,Friskies,197,Veterinary
+Kucing,Sphynx,2.1,17,0.3,Veterinary,Grooming,Kering,Equilibrio,243,Veterinary
+Kucing,Anggora,6.7,14,1,Veterinary,"Pet Hotel",Basah,Friskies,215,Veterinary
+Kucing,"British Shorthair",6.8,48,2,Grooming,Grooming,Basah,"Royal Canin",12,Grooming
+Kucing,"Maine Coon",7.9,20,2,"Pet Hotel",Grooming,Kering,OriCat,69,"Pet Hotel"
+Kucing,Anggora,7.4,13,0.3,Veterinary,"Pet Hotel",Kering,OriCat,2,"Pet Hotel"
+Kucing,"British Shorthair",4.1,17,0.3,Grooming,Veterinary,Basah,Me-O,239,Veterinary
+Kucing,Persia,7.9,20,1,Veterinary,Grooming,Basah,Me-O,6,Grooming
+Kucing,Anggora,3.6,48,0.3,Grooming,Veterinary,Kering,OriCat,64,Grooming
+Kucing,Persia,5.6,13,0.3,"Pet Hotel",Grooming,Kering,"Royal Canin",105,"Pet Hotel"
+Kucing,"Maine Coon",4.9,72,0.3,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",7,"Pet Hotel"
+Kucing,Anggora,4.1,108,2,Veterinary,Veterinary,Kering,Friskies,231,Veterinary
+Kucing,Sphynx,6.9,120,2,Veterinary,Veterinary,Basah,OriCat,212,Veterinary
+Kucing,"Maine Coon",5.5,24,3,Veterinary,Veterinary,Basah,"Royal Canin",283,Veterinary
+Kucing,"British Shorthair",2.9,72,3,"Pet Hotel",Veterinary,Kering,OriCat,145,Veterinary
+Kucing,Anggora,4.6,9,2,Veterinary,"Pet Hotel",Basah,Equilibrio,98,Veterinary
+Kucing,"Scottish Fold",6.7,11,3,Veterinary,Grooming,Basah,"Royal Canin",55,Veterinary
+Kucing,Persia,3.5,13,0.3,Grooming,Grooming,Basah,"Royal Canin",195,Grooming
+Kucing,"British Shorthair",2.8,60,0.3,Veterinary,Grooming,Kering,Equilibrio,62,Veterinary
+Kucing,Anggora,6.5,18,1,"Pet Hotel",Veterinary,Kering,Me-O,273,Veterinary
+Kucing,"Maine Coon",5.1,108,1,Veterinary,Grooming,Kering,Equilibrio,225,Veterinary
+Kucing,"Scottish Fold",5.6,7,3,Grooming,"Pet Hotel",Kering,Equilibrio,186,Grooming
+Kucing,Sphynx,5.2,17,1,Veterinary,Grooming,Basah,Whiskas,129,Veterinary
+Kucing,"Scottish Fold",3.1,72,3,Veterinary,"Pet Hotel",Kering,"Royal Canin",297,Veterinary
+Kucing,Persia,3.2,48,2,Grooming,Veterinary,Kering,Me-O,163,Veterinary
+Kucing,"British Shorthair",4.7,96,3,Grooming,Veterinary,Kering,Equilibrio,326,Veterinary
+Kucing,"British Shorthair",4.1,12,2,Grooming,Veterinary,Basah,OriCat,212,Veterinary
+Kucing,"Maine Coon",5.4,18,1,"Pet Hotel","Pet Hotel",Basah,Me-O,111,"Pet Hotel"
+Kucing,"Scottish Fold",3.2,15,2,Veterinary,"Pet Hotel",Kering,Me-O,265,Veterinary
+Kucing,"British Shorthair",5.2,120,0.3,Veterinary,"Pet Hotel",Kering,Me-O,301,Veterinary
+Kucing,"Maine Coon",3.5,120,3,Grooming,Grooming,Kering,Whiskas,335,Grooming
+Kucing,Anggora,5.7,36,1,"Pet Hotel",Veterinary,Kering,Friskies,3,Veterinary
+Kucing,Sphynx,7.5,36,3,Grooming,Grooming,Basah,Equilibrio,308,Grooming
+Kucing,Persia,4.7,6,0.3,"Pet Hotel",Veterinary,Kering,Me-O,276,Veterinary
+Kucing,"Maine Coon",5.4,24,2,Veterinary,Veterinary,Kering,Me-O,35,Veterinary
+Kucing,Sphynx,4.7,36,3,Veterinary,Grooming,Kering,OriCat,176,Grooming
+Kucing,Persia,7.9,12,1,Grooming,Veterinary,Kering,Friskies,97,Veterinary
+Kucing,Anggora,2.9,14,0.3,"Pet Hotel",Veterinary,Kering,Friskies,291,Veterinary
+Kucing,Anggora,3,96,3,"Pet Hotel",Veterinary,Kering,Friskies,214,Veterinary
+Kucing,"British Shorthair",7.7,84,0.3,"Pet Hotel",Veterinary,Kering,Me-O,342,Veterinary
+Kucing,"British Shorthair",2.2,108,0.3,Veterinary,Veterinary,Kering,Friskies,211,Veterinary
+Kucing,"Maine Coon",6.5,6,2,Veterinary,Grooming,Basah,Whiskas,95,Veterinary
+Kucing,"Maine Coon",4.6,96,0.3,"Pet Hotel",Grooming,Kering,Me-O,332,"Pet Hotel"
+Kucing,"Maine Coon",6.9,96,3,Veterinary,Grooming,Kering,OriCat,258,Grooming
+Kucing,"Scottish Fold",6.9,19,1,"Pet Hotel",Veterinary,Kering,Equilibrio,278,Veterinary
+Kucing,"British Shorthair",2.2,84,2,Veterinary,Grooming,Kering,Equilibrio,228,Grooming
+Kucing,"Scottish Fold",7.2,84,3,Veterinary,"Pet Hotel",Basah,OriCat,208,Veterinary
+Kucing,Anggora,5.5,8,3,Grooming,"Pet Hotel",Basah,OriCat,38,Grooming
+Kucing,Sphynx,5.4,60,3,"Pet Hotel","Pet Hotel",Basah,"Royal Canin",233,"Pet Hotel"
+Kucing,Persia,4.6,20,2,"Pet Hotel",Grooming,Kering,OriCat,131,"Pet Hotel"
+Kucing,"British Shorthair",3.3,36,2,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",308,"Pet Hotel"
+Kucing,Sphynx,2.5,72,0.3,"Pet Hotel",Grooming,Basah,"Royal Canin",341,"Pet Hotel"
+Kucing,Sphynx,6,120,1,Veterinary,Veterinary,Kering,"Royal Canin",4,Veterinary
+Kucing,Anggora,5.2,120,1,Veterinary,Veterinary,Basah,OriCat,17,Veterinary
+Kucing,"Scottish Fold",3.2,8,3,"Pet Hotel",Veterinary,Kering,"Royal Canin",342,Veterinary
+Kucing,"British Shorthair",7.9,72,3,"Pet Hotel",Veterinary,Basah,Me-O,197,Veterinary
+Kucing,Persia,4.2,17,0.3,Veterinary,Grooming,Basah,Equilibrio,41,Grooming
+Kucing,"Scottish Fold",7.7,17,2,"Pet Hotel",Grooming,Basah,OriCat,347,"Pet Hotel"
+Kucing,Persia,4,13,0.3,Veterinary,"Pet Hotel",Basah,Friskies,223,Veterinary
+Kucing,Sphynx,5.5,48,3,Veterinary,"Pet Hotel",Kering,Equilibrio,71,Veterinary
+Kucing,Sphynx,6.4,96,2,Veterinary,Veterinary,Basah,Equilibrio,132,Veterinary
+Kucing,"British Shorthair",7.6,72,1,"Pet Hotel","Pet Hotel",Kering,Friskies,193,"Pet Hotel"
+Kucing,"British Shorthair",5,24,2,Veterinary,Veterinary,Basah,Me-O,318,Veterinary
+Kucing,"Scottish Fold",6.1,14,1,Veterinary,Veterinary,Basah,Whiskas,78,Veterinary
+Kucing,Anggora,7.1,12,1,Veterinary,Grooming,Kering,Me-O,196,Veterinary
+Kucing,Persia,7.5,36,2,Veterinary,Veterinary,Kering,Whiskas,201,Veterinary
+Kucing,"Maine Coon",4,15,1,Veterinary,"Pet Hotel",Basah,OriCat,178,Veterinary
+Kucing,"British Shorthair",4,24,1,Grooming,Veterinary,Basah,Equilibrio,213,Veterinary
+Kucing,Persia,2.9,7,2,Grooming,Veterinary,Kering,Friskies,151,Veterinary
+Kucing,Sphynx,4.3,10,0.3,Veterinary,Veterinary,Kering,Whiskas,349,Veterinary
+Kucing,"British Shorthair",5.6,11,2,Grooming,Grooming,Basah,Whiskas,135,Grooming
+Kucing,Persia,7.2,11,1,Grooming,"Pet Hotel",Basah,Equilibrio,74,Veterinary
+Kucing,Sphynx,3,24,1,Grooming,"Pet Hotel",Kering,Equilibrio,228,Grooming
+Kucing,Anggora,5.8,20,0.3,Grooming,Grooming,Kering,"Royal Canin",234,Grooming
+Kucing,"Scottish Fold",7.8,96,2,"Pet Hotel","Pet Hotel",Kering,Whiskas,181,"Pet Hotel"
+Kucing,"Scottish Fold",2.3,60,1,Veterinary,"Pet Hotel",Basah,Me-O,12,"Pet Hotel"
+Kucing,Anggora,5.3,15,1,Veterinary,Grooming,Basah,OriCat,178,Veterinary
+Kucing,Sphynx,6.1,120,3,Grooming,Veterinary,Kering,Equilibrio,251,Veterinary
+Kucing,Sphynx,6.9,21,1,Veterinary,Veterinary,Basah,OriCat,5,Veterinary
+Kucing,Sphynx,6.9,96,2,Grooming,Veterinary,Basah,Whiskas,225,Veterinary
+Kucing,"Maine Coon",7.9,18,3,"Pet Hotel",Grooming,Basah,Whiskas,32,Grooming
+Kucing,"Scottish Fold",5.1,13,2,"Pet Hotel","Pet Hotel",Basah,OriCat,91,"Pet Hotel"
+Kucing,Sphynx,7.4,10,2,Veterinary,Grooming,Kering,Whiskas,8,Grooming
+Kucing,Sphynx,4.5,24,3,"Pet Hotel",Grooming,Kering,Equilibrio,56,Grooming
+Kucing,"Scottish Fold",2.4,8,2,Veterinary,Grooming,Basah,Whiskas,323,Veterinary
+Kucing,"Maine Coon",7.8,18,3,Veterinary,Grooming,Kering,Equilibrio,252,Grooming
+Kucing,Sphynx,3.5,21,3,"Pet Hotel","Pet Hotel",Basah,Friskies,134,"Pet Hotel"
+Kucing,"British Shorthair",7.6,14,2,Grooming,Grooming,Kering,"Royal Canin",312,Grooming
+Kucing,Sphynx,6,12,3,Veterinary,Grooming,Basah,Equilibrio,323,Grooming
+Kucing,"Maine Coon",2.8,108,1,Grooming,Grooming,Kering,OriCat,184,Grooming
+Kucing,Sphynx,3.1,23,2,"Pet Hotel",Veterinary,Basah,Friskies,125,Veterinary
+Kucing,Sphynx,3.9,11,2,"Pet Hotel","Pet Hotel",Basah,Equilibrio,128,"Pet Hotel"
+Kucing,"British Shorthair",5.3,120,3,Veterinary,"Pet Hotel",Basah,OriCat,99,Veterinary
+Kucing,"Maine Coon",2.3,120,3,Grooming,Grooming,Basah,Equilibrio,113,Grooming
+Kucing,Persia,6.7,24,0.3,Grooming,Veterinary,Basah,Friskies,23,Veterinary
+Kucing,"Scottish Fold",6.2,24,1,Grooming,Veterinary,Basah,Equilibrio,98,Veterinary
+Kucing,Sphynx,3,108,2,"Pet Hotel",Grooming,Kering,Friskies,101,"Pet Hotel"
+Kucing,Persia,7.8,17,2,Veterinary,Grooming,Basah,Whiskas,141,Grooming
+Kucing,"Scottish Fold",4.9,108,0.3,Grooming,"Pet Hotel",Kering,Friskies,75,Grooming
+Kucing,Persia,6.4,23,3,Veterinary,"Pet Hotel",Kering,Equilibrio,156,Veterinary
+Kucing,"British Shorthair",2.7,6,0.3,Veterinary,"Pet Hotel",Basah,Me-O,194,Veterinary
+Kucing,"Scottish Fold",4.9,108,2,Grooming,Veterinary,Basah,Whiskas,301,Veterinary
+Kucing,"British Shorthair",6.4,7,1,Grooming,"Pet Hotel",Kering,Me-O,133,Veterinary
+Kucing,Anggora,7.6,60,2,Grooming,Veterinary,Basah,"Royal Canin",291,Veterinary
+Kucing,"Maine Coon",3.4,84,0.3,"Pet Hotel","Pet Hotel",Basah,Whiskas,58,"Pet Hotel"
+Kucing,"British Shorthair",3.3,12,0.3,Grooming,"Pet Hotel",Kering,Equilibrio,329,Grooming
+Kucing,Persia,6.7,48,0.3,Grooming,"Pet Hotel",Kering,Equilibrio,31,"Pet Hotel"
+Kucing,"British Shorthair",3.5,84,3,"Pet Hotel","Pet Hotel",Basah,"Royal Canin",11,"Pet Hotel"
+Kucing,"Maine Coon",2.7,108,1,Grooming,Veterinary,Basah,Friskies,2,Veterinary
+Kucing,"Maine Coon",7.8,108,1,"Pet Hotel",Grooming,Kering,Me-O,313,"Pet Hotel"
+Kucing,"Maine Coon",5.9,9,2,Grooming,"Pet Hotel",Basah,Whiskas,262,Grooming
+Kucing,Anggora,6.7,24,0.3,"Pet Hotel",Grooming,Kering,Equilibrio,272,"Pet Hotel"
+Kucing,"Maine Coon",4.8,13,0.3,Veterinary,Veterinary,Basah,Equilibrio,25,Veterinary
+Kucing,"British Shorthair",7.9,72,1,Grooming,"Pet Hotel",Basah,Friskies,126,Grooming
+Kucing,Anggora,6.9,72,3,"Pet Hotel",Veterinary,Kering,"Royal Canin",233,Veterinary
+Kucing,Anggora,2.8,72,2,"Pet Hotel","Pet Hotel",Kering,Me-O,5,"Pet Hotel"
+Kucing,Sphynx,2.9,6,2,Grooming,Grooming,Basah,Whiskas,111,Grooming
+Kucing,"Maine Coon",4.8,84,3,Grooming,"Pet Hotel",Basah,Equilibrio,241,Grooming
+Kucing,Anggora,6.5,14,0.3,Grooming,Veterinary,Basah,Equilibrio,201,Veterinary
+Kucing,Sphynx,2.3,120,3,"Pet Hotel",Grooming,Kering,Whiskas,135,"Pet Hotel"
+Kucing,"Scottish Fold",7.6,10,0.3,"Pet Hotel",Grooming,Basah,"Royal Canin",59,Veterinary
+Kucing,Persia,7.1,18,0.3,"Pet Hotel","Pet Hotel",Basah,"Royal Canin",94,"Pet Hotel"
+Kucing,Anggora,6.8,24,3,Grooming,"Pet Hotel",Basah,OriCat,61,Grooming
+Kucing,"Scottish Fold",6.3,19,3,"Pet Hotel",Grooming,Basah,Friskies,9,Grooming
+Kucing,Sphynx,5.1,72,1,Grooming,"Pet Hotel",Kering,Equilibrio,28,"Pet Hotel"
+Kucing,Sphynx,4.8,12,3,Grooming,"Pet Hotel",Basah,OriCat,149,Grooming
+Kucing,Anggora,7.8,120,3,Grooming,Grooming,Kering,Friskies,53,Grooming
+Kucing,"Maine Coon",4.7,108,2,Grooming,Veterinary,Basah,"Royal Canin",298,Veterinary
+Kucing,"British Shorthair",5.8,16,0.3,Veterinary,Veterinary,Kering,OriCat,252,Veterinary
+Kucing,Persia,7.3,84,2,Veterinary,Grooming,Basah,Whiskas,243,Grooming
+Kucing,"Scottish Fold",7.7,108,3,Veterinary,Grooming,Kering,OriCat,343,Grooming
+Kucing,Sphynx,7.8,9,2,Veterinary,"Pet Hotel",Kering,OriCat,307,Veterinary
+Kucing,"Scottish Fold",2.1,17,1,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",40,"Pet Hotel"
+Kucing,"British Shorthair",4.9,20,3,Grooming,Veterinary,Kering,Whiskas,152,Veterinary
+Kucing,"Maine Coon",3.4,22,0.3,"Pet Hotel",Grooming,Kering,Me-O,86,"Pet Hotel"
+Kucing,Sphynx,7.7,36,3,"Pet Hotel",Grooming,Basah,OriCat,149,"Pet Hotel"
+Kucing,"Maine Coon",3.3,24,3,Grooming,Grooming,Kering,Friskies,17,Grooming
+Kucing,Anggora,4.2,18,3,"Pet Hotel",Grooming,Kering,Me-O,174,"Pet Hotel"
+Kucing,Sphynx,4.5,96,0.3,"Pet Hotel","Pet Hotel",Kering,Equilibrio,93,"Pet Hotel"
+Kucing,"Maine Coon",3.1,72,0.3,Veterinary,"Pet Hotel",Basah,OriCat,37,"Pet Hotel"
+Kucing,"British Shorthair",3.7,36,3,"Pet Hotel",Veterinary,Kering,Me-O,252,Veterinary
+Kucing,Anggora,7.3,96,1,Grooming,Grooming,Kering,Me-O,228,Grooming
+Kucing,Anggora,5.6,8,0.3,Veterinary,Veterinary,Kering,OriCat,8,Veterinary
+Kucing,"Scottish Fold",2.4,21,1,"Pet Hotel","Pet Hotel",Kering,Me-O,92,"Pet Hotel"
+Kucing,Sphynx,6.6,48,1,Veterinary,Veterinary,Kering,OriCat,24,Veterinary
+Kucing,Persia,5,84,1,Grooming,Grooming,Basah,"Royal Canin",306,Grooming
+Kucing,"British Shorthair",5.9,14,1,Veterinary,"Pet Hotel",Basah,Equilibrio,176,Veterinary
+Kucing,Persia,4.8,15,2,"Pet Hotel","Pet Hotel",Kering,Friskies,234,"Pet Hotel"
+Kucing,"Maine Coon",2.6,8,1,Veterinary,Veterinary,Basah,Friskies,38,Veterinary
+Kucing,"Scottish Fold",5.4,23,3,Veterinary,Veterinary,Kering,"Royal Canin",220,Veterinary
+Kucing,Persia,4.6,12,1,"Pet Hotel","Pet Hotel",Kering,Equilibrio,60,"Pet Hotel"
+Kucing,"British Shorthair",3.2,36,3,Grooming,Veterinary,Basah,Me-O,122,Veterinary
+Kucing,Sphynx,2.9,84,2,Grooming,Grooming,Kering,Equilibrio,119,Grooming
+Kucing,"Maine Coon",5.1,12,0.3,Veterinary,Grooming,Kering,Whiskas,307,Veterinary
+Kucing,"Scottish Fold",4.6,96,2,"Pet Hotel",Veterinary,Basah,OriCat,203,Veterinary
+Kucing,"Scottish Fold",3.9,60,0.3,Veterinary,Grooming,Kering,Friskies,325,Veterinary
+Kucing,Persia,4.5,22,1,Veterinary,"Pet Hotel",Kering,OriCat,343,Veterinary
+Kucing,Sphynx,4.7,108,3,Veterinary,Grooming,Kering,Friskies,212,Grooming
+Kucing,Persia,3.3,23,3,"Pet Hotel","Pet Hotel",Basah,OriCat,98,"Pet Hotel"
+Kucing,Sphynx,6,17,3,"Pet Hotel",Veterinary,Kering,Friskies,164,Veterinary
+Kucing,Sphynx,4.8,6,1,Veterinary,Veterinary,Kering,Me-O,85,Veterinary
+Kucing,Sphynx,7.6,19,0.3,Grooming,Grooming,Basah,Equilibrio,329,Grooming
+Kucing,Sphynx,3.8,96,2,Grooming,"Pet Hotel",Basah,Equilibrio,109,Grooming
+Kucing,Sphynx,2.9,96,1,Veterinary,Grooming,Basah,Whiskas,101,Veterinary
+Kucing,Persia,4.2,15,3,Grooming,Veterinary,Kering,OriCat,105,Veterinary
+Kucing,Sphynx,7.3,72,2,"Pet Hotel","Pet Hotel",Kering,Whiskas,323,"Pet Hotel"
+Kucing,Persia,4.1,120,0.3,Grooming,"Pet Hotel",Kering,Friskies,56,Grooming
+Kucing,Sphynx,6.1,20,3,Grooming,"Pet Hotel",Basah,Friskies,61,Grooming
+Kucing,"Maine Coon",6.5,36,1,"Pet Hotel",Veterinary,Kering,OriCat,127,Veterinary
+Kucing,Persia,7.3,9,1,Veterinary,"Pet Hotel",Basah,OriCat,252,Veterinary
+Kucing,Sphynx,7.8,60,1,"Pet Hotel",Veterinary,Kering,Equilibrio,140,Veterinary
+Kucing,"British Shorthair",2,22,0.3,"Pet Hotel",Veterinary,Basah,"Royal Canin",252,Veterinary
+Kucing,"Maine Coon",6.4,6,2,"Pet Hotel",Veterinary,Kering,OriCat,172,Veterinary
+Kucing,"Maine Coon",7.1,15,0.3,Grooming,Grooming,Kering,Me-O,263,Grooming
+Kucing,"Maine Coon",5.9,36,1,Veterinary,Veterinary,Basah,"Royal Canin",312,Veterinary
+Kucing,Persia,3.8,84,3,Grooming,Veterinary,Kering,Me-O,71,Grooming
+Kucing,Sphynx,6.7,24,2,"Pet Hotel","Pet Hotel",Kering,Whiskas,251,"Pet Hotel"
+Kucing,"Scottish Fold",2.8,9,1,Grooming,Grooming,Kering,Friskies,337,Veterinary
+Kucing,"Scottish Fold",3.7,7,1,"Pet Hotel",Veterinary,Basah,Me-O,44,Veterinary
+Kucing,"Maine Coon",4,7,2,Veterinary,Grooming,Kering,"Royal Canin",91,Veterinary
+Kucing,Anggora,7.7,72,2,Veterinary,"Pet Hotel",Kering,Whiskas,232,Veterinary
+Kucing,Sphynx,5.3,48,2,"Pet Hotel",Grooming,Kering,Me-O,267,"Pet Hotel"
+Kucing,Persia,6.8,36,3,Veterinary,"Pet Hotel",Kering,OriCat,60,Veterinary
+Kucing,"Scottish Fold",3.4,108,0.3,Veterinary,Veterinary,Kering,OriCat,270,Veterinary
+Kucing,Anggora,7.9,9,1,Grooming,Veterinary,Kering,Whiskas,112,Veterinary
+Kucing,"Scottish Fold",6.9,36,1,Veterinary,Veterinary,Basah,Friskies,341,Veterinary
+Kucing,Sphynx,7.3,7,0.3,"Pet Hotel","Pet Hotel",Kering,Equilibrio,4,"Pet Hotel"
+Kucing,"British Shorthair",6.2,36,2,"Pet Hotel",Grooming,Kering,OriCat,133,"Pet Hotel"
+Kucing,Persia,3.4,23,2,Veterinary,Grooming,Basah,OriCat,175,Grooming
+Kucing,"Scottish Fold",5.2,24,2,Grooming,Veterinary,Kering,"Royal Canin",87,Grooming
+Kucing,Persia,5.1,96,2,Veterinary,Veterinary,Kering,OriCat,269,Veterinary
+Kucing,"Scottish Fold",3.5,24,2,Veterinary,Veterinary,Basah,Equilibrio,100,Veterinary
+Kucing,"Scottish Fold",4.6,24,2,Veterinary,Grooming,Basah,OriCat,201,Grooming
+Kucing,"Maine Coon",8,72,3,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",281,"Pet Hotel"
+Kucing,Anggora,3,108,1,"Pet Hotel",Veterinary,Basah,Whiskas,70,"Pet Hotel"
+Kucing,"Maine Coon",4.8,22,3,"Pet Hotel","Pet Hotel",Kering,OriCat,180,"Pet Hotel"
+Anjing,Beagle,13,24,2,"Pet Hotel",Veterinary,Kering,"Happy Dog",347,Veterinary
+Anjing,"Siberian Husky",23,96,2,Veterinary,"Pet Hotel",Kering,"Royal Canin",213,Veterinary
+Anjing,"Siberian Husky",20.6,11,2,Veterinary,Veterinary,Kering,Equilibrio,217,Veterinary
+Anjing,"Shih Tzu",13.1,6,0.3,"Pet Hotel",Veterinary,Basah,"Royal Canin",12,Veterinary
+Anjing,Beagle,17.5,36,2,Veterinary,"Pet Hotel",Kering,SmartHeart,194,Veterinary
+Anjing,"Siberian Husky",11.6,120,3,Veterinary,Grooming,Kering,"Royal Canin",275,Grooming
+Anjing,Bulldog,6.3,18,3,Veterinary,"Pet Hotel",Basah,"Happy Dog",241,Veterinary
+Anjing,Bulldog,7.7,14,1,Veterinary,"Pet Hotel",Basah,"Happy Dog",302,Veterinary
+Anjing,Beagle,13.7,48,0.3,Veterinary,"Pet Hotel",Basah,Equilibrio,10,"Pet Hotel"
+Anjing,Beagle,21.3,12,1,"Pet Hotel",Veterinary,Kering,"Happy Dog",41,Veterinary
+Anjing,"Shih Tzu",15.9,16,0.3,Grooming,Veterinary,Kering,Equilibrio,219,Veterinary
+Anjing,Pomeranian,20,72,2,"Pet Hotel",Veterinary,Kering,Equilibrio,40,Veterinary
+Anjing,"Siberian Husky",16.5,108,0.3,Veterinary,Grooming,Kering,Pedigree,345,Veterinary
+Anjing,"Siberian Husky",9.1,11,2,"Pet Hotel",Veterinary,Kering,"Royal Canin",267,Veterinary
+Anjing,"Shih Tzu",8.6,36,1,Veterinary,Grooming,Kering,Pedigree,134,Veterinary
+Anjing,Pomeranian,7.4,13,2,"Pet Hotel",Grooming,Kering,"Dog Choize",60,Grooming
+Anjing,"Shih Tzu",5.5,96,2,"Pet Hotel","Pet Hotel",Kering,SmartHeart,211,"Pet Hotel"
+Anjing,"Shih Tzu",19.7,16,3,Veterinary,Grooming,Kering,"Happy Dog",317,Grooming
+Anjing,"Golden Retriever",19.4,20,3,"Pet Hotel",Veterinary,Basah,"Royal Canin",27,Veterinary
+Anjing,"Siberian Husky",11.3,24,3,Grooming,Grooming,Basah,"Happy Dog",239,Grooming
+Anjing,Bulldog,15,15,1,"Pet Hotel",Grooming,Basah,Pedigree,276,"Pet Hotel"
+Anjing,Bulldog,19,11,1,"Pet Hotel","Pet Hotel",Basah,SmartHeart,13,"Pet Hotel"
+Anjing,Pomeranian,4.6,120,3,Veterinary,"Pet Hotel",Basah,"Dog Choize",85,Veterinary
+Anjing,"Siberian Husky",8.6,10,2,"Pet Hotel","Pet Hotel",Basah,"Royal Canin",54,Veterinary
+Anjing,Pomeranian,24,84,3,Veterinary,"Pet Hotel",Kering,Equilibrio,144,Veterinary
+Anjing,Pomeranian,19.7,21,0.3,"Pet Hotel","Pet Hotel",Basah,"Dog Choize",273,"Pet Hotel"
+Anjing,"Golden Retriever",16.5,108,1,Grooming,"Pet Hotel",Basah,"Happy Dog",103,Grooming
+Anjing,Beagle,12.2,60,3,"Pet Hotel","Pet Hotel",Basah,Equilibrio,171,"Pet Hotel"
+Anjing,"Siberian Husky",4.2,23,2,Veterinary,"Pet Hotel",Basah,Equilibrio,331,Veterinary
+Anjing,Beagle,8.6,108,1,"Pet Hotel",Veterinary,Kering,"Royal Canin",293,Veterinary
+Anjing,Bulldog,8.2,108,3,Grooming,"Pet Hotel",Kering,"Dog Choize",105,Grooming
+Anjing,"Shih Tzu",17.7,48,2,Grooming,"Pet Hotel",Kering,"Dog Choize",23,Grooming
+Anjing,"Shih Tzu",22.7,48,0.3,"Pet Hotel",Grooming,Basah,"Happy Dog",17,Grooming
+Anjing,"Golden Retriever",7,60,3,Grooming,"Pet Hotel",Basah,"Dog Choize",69,Grooming
+Anjing,Bulldog,18.1,14,2,Veterinary,Veterinary,Kering,Pedigree,73,Veterinary
+Anjing,Bulldog,23.3,14,2,Grooming,Veterinary,Kering,Equilibrio,32,Grooming
+Anjing,"Shih Tzu",18.9,48,1,Veterinary,Veterinary,Kering,Equilibrio,292,Veterinary
+Anjing,"Shih Tzu",22.8,20,1,Veterinary,Grooming,Kering,SmartHeart,216,Veterinary
+Anjing,"Shih Tzu",7.1,16,0.3,Veterinary,Veterinary,Basah,"Royal Canin",344,Veterinary
+Anjing,"Golden Retriever",19.3,6,3,Grooming,"Pet Hotel",Kering,"Happy Dog",254,Grooming
+Anjing,Pomeranian,12.4,36,3,Veterinary,Grooming,Kering,"Happy Dog",305,Grooming
+Anjing,"Shih Tzu",19.4,36,1,"Pet Hotel",Veterinary,Kering,"Happy Dog",35,Veterinary
+Anjing,Pomeranian,15,12,1,Veterinary,Grooming,Kering,SmartHeart,57,Veterinary
+Anjing,"Golden Retriever",8.1,14,1,Grooming,"Pet Hotel",Basah,"Royal Canin",300,Grooming
+Anjing,"Golden Retriever",21.3,120,1,Veterinary,"Pet Hotel",Kering,Equilibrio,223,Veterinary
+Anjing,Beagle,18.2,7,0.3,"Pet Hotel",Veterinary,Kering,Pedigree,171,Veterinary
+Anjing,Bulldog,5.1,13,0.3,"Pet Hotel","Pet Hotel",Kering,Pedigree,185,"Pet Hotel"
+Anjing,"Shih Tzu",22.2,24,0.3,"Pet Hotel",Veterinary,Kering,Pedigree,202,Veterinary
+Anjing,"Siberian Husky",24.3,16,1,Grooming,Grooming,Kering,Pedigree,83,Grooming
+Anjing,Beagle,5.3,24,3,Veterinary,Grooming,Basah,Pedigree,85,Grooming
+Anjing,"Siberian Husky",10.6,24,0.3,Grooming,"Pet Hotel",Basah,"Dog Choize",27,"Pet Hotel"
+Anjing,Pomeranian,9.8,20,0.3,Grooming,Grooming,Kering,Equilibrio,8,Grooming
+Anjing,Pomeranian,22.7,13,0.3,Grooming,"Pet Hotel",Basah,Pedigree,26,"Pet Hotel"
+Anjing,Pomeranian,19.9,60,0.3,Veterinary,Grooming,Basah,"Dog Choize",225,Veterinary
+Anjing,"Siberian Husky",16.3,20,2,"Pet Hotel",Grooming,Kering,"Happy Dog",133,"Pet Hotel"
+Anjing,"Shih Tzu",21.7,7,0.3,Grooming,Grooming,Basah,"Dog Choize",7,Grooming
+Anjing,"Siberian Husky",15,11,1,Grooming,Veterinary,Kering,SmartHeart,222,Veterinary
+Anjing,"Golden Retriever",6.2,16,1,Veterinary,Veterinary,Basah,SmartHeart,248,Veterinary
+Anjing,"Siberian Husky",24.2,22,1,Veterinary,"Pet Hotel",Kering,Equilibrio,79,Veterinary
+Anjing,"Shih Tzu",10.5,96,2,Veterinary,Veterinary,Basah,"Dog Choize",236,Veterinary
+Anjing,Beagle,16,11,1,Grooming,Veterinary,Kering,"Royal Canin",333,Veterinary
+Anjing,Bulldog,13.8,20,3,Veterinary,"Pet Hotel",Kering,Pedigree,82,Veterinary
+Anjing,"Golden Retriever",23.8,96,1,"Pet Hotel",Veterinary,Basah,"Happy Dog",131,Veterinary
+Anjing,"Golden Retriever",18,16,0.3,"Pet Hotel",Veterinary,Kering,SmartHeart,96,Veterinary
+Anjing,"Shih Tzu",7,120,2,"Pet Hotel",Veterinary,Kering,"Royal Canin",345,Veterinary
+Anjing,"Shih Tzu",12,96,2,"Pet Hotel","Pet Hotel",Kering,"Happy Dog",265,"Pet Hotel"
+Anjing,"Golden Retriever",9,120,2,"Pet Hotel","Pet Hotel",Basah,SmartHeart,81,"Pet Hotel"
+Anjing,"Golden Retriever",25,96,0.3,Grooming,"Pet Hotel",Basah,"Dog Choize",109,Grooming
+Anjing,"Shih Tzu",23.9,96,2,Grooming,Grooming,Kering,"Happy Dog",114,Grooming
+Anjing,"Golden Retriever",24,22,1,Grooming,Grooming,Kering,"Dog Choize",140,Grooming
+Anjing,Pomeranian,22,60,1,Grooming,Grooming,Kering,Pedigree,318,Grooming
+Anjing,"Siberian Husky",15.2,108,3,Grooming,"Pet Hotel",Kering,"Dog Choize",214,Grooming
+Anjing,Beagle,18,24,1,Grooming,Veterinary,Kering,SmartHeart,298,Veterinary
+Anjing,"Golden Retriever",20.1,60,3,Grooming,"Pet Hotel",Basah,"Royal Canin",348,Grooming
+Anjing,"Shih Tzu",21.1,12,0.3,Veterinary,"Pet Hotel",Basah,Equilibrio,1,"Pet Hotel"
+Anjing,Bulldog,6.8,108,2,"Pet Hotel",Veterinary,Kering,"Happy Dog",334,Veterinary
+Anjing,Beagle,17.5,120,1,Grooming,"Pet Hotel",Basah,Equilibrio,235,Grooming
+Anjing,"Shih Tzu",12,96,2,Veterinary,"Pet Hotel",Basah,"Dog Choize",48,Veterinary
+Anjing,Beagle,20.7,24,1,Veterinary,Veterinary,Kering,"Happy Dog",286,Veterinary
+Anjing,Bulldog,18.3,48,2,Grooming,Veterinary,Basah,Equilibrio,195,Veterinary
+Anjing,"Shih Tzu",23.4,22,2,"Pet Hotel",Veterinary,Basah,SmartHeart,161,Veterinary
+Anjing,Beagle,17.1,23,0.3,"Pet Hotel","Pet Hotel",Basah,SmartHeart,89,"Pet Hotel"
+Anjing,"Shih Tzu",16.1,48,3,Grooming,Grooming,Basah,"Royal Canin",338,Grooming
+Anjing,Beagle,18.7,14,2,Grooming,"Pet Hotel",Kering,"Dog Choize",322,Grooming
+Anjing,Pomeranian,17.9,16,3,Veterinary,Veterinary,Basah,"Dog Choize",4,Veterinary
+Anjing,Beagle,15.3,14,2,"Pet Hotel",Grooming,Basah,"Royal Canin",80,"Pet Hotel"
+Anjing,"Siberian Husky",15.7,19,0.3,Veterinary,"Pet Hotel",Basah,SmartHeart,53,Veterinary
+Anjing,Pomeranian,12.5,24,1,Grooming,Veterinary,Kering,"Happy Dog",42,Veterinary
+Anjing,"Shih Tzu",13.8,17,0.3,"Pet Hotel",Veterinary,Kering,"Happy Dog",256,Veterinary
+Anjing,Bulldog,7,11,3,"Pet Hotel",Veterinary,Kering,Equilibrio,115,Veterinary
+Anjing,"Golden Retriever",19.8,20,0.3,Veterinary,"Pet Hotel",Kering,Equilibrio,5,"Pet Hotel"
+Anjing,"Siberian Husky",14.6,60,2,"Pet Hotel",Grooming,Kering,SmartHeart,57,Grooming
+Anjing,"Golden Retriever",23.6,120,3,Grooming,Veterinary,Kering,"Dog Choize",293,Veterinary
+Anjing,Pomeranian,20.7,120,1,Veterinary,Grooming,Basah,"Dog Choize",325,Veterinary
+Anjing,"Shih Tzu",21.9,9,3,"Pet Hotel","Pet Hotel",Basah,Pedigree,146,"Pet Hotel"
+Anjing,"Siberian Husky",11.9,23,0.3,Grooming,Veterinary,Basah,"Dog Choize",222,Veterinary
+Anjing,Bulldog,20.7,108,2,Grooming,"Pet Hotel",Basah,SmartHeart,122,Grooming
+Anjing,Bulldog,17.6,84,3,"Pet Hotel",Grooming,Basah,Equilibrio,303,"Pet Hotel"
+Anjing,Beagle,20.8,24,1,Veterinary,Grooming,Basah,"Happy Dog",35,Grooming
+Anjing,"Shih Tzu",19.6,24,0.3,"Pet Hotel",Veterinary,Kering,"Happy Dog",172,Veterinary
+Anjing,"Shih Tzu",15.6,15,1,Veterinary,"Pet Hotel",Basah,"Royal Canin",12,"Pet Hotel"
+Anjing,Bulldog,21.8,18,2,Veterinary,"Pet Hotel",Kering,"Royal Canin",42,"Pet Hotel"
+Anjing,"Shih Tzu",7.3,6,0.3,"Pet Hotel","Pet Hotel",Basah,Pedigree,39,Veterinary
+Anjing,"Siberian Husky",19.9,11,3,"Pet Hotel",Veterinary,Kering,"Royal Canin",153,Veterinary
+Anjing,Beagle,4.5,60,1,Veterinary,"Pet Hotel",Kering,Pedigree,328,Veterinary
+Anjing,"Golden Retriever",17.2,15,1,Veterinary,Grooming,Kering,"Royal Canin",73,Veterinary
+Anjing,Pomeranian,17.5,7,2,"Pet Hotel",Veterinary,Kering,"Happy Dog",36,Veterinary
+Anjing,"Golden Retriever",18.8,6,2,Grooming,Veterinary,Basah,SmartHeart,339,Veterinary
+Anjing,Pomeranian,23.3,15,0.3,Grooming,Grooming,Kering,Equilibrio,286,Grooming
+Anjing,Beagle,20.3,72,1,"Pet Hotel","Pet Hotel",Kering,"Happy Dog",275,"Pet Hotel"
+Anjing,"Shih Tzu",15.5,19,3,"Pet Hotel",Veterinary,Kering,Equilibrio,130,Veterinary
+Anjing,"Siberian Husky",16.9,72,1,Grooming,Veterinary,Kering,"Happy Dog",63,Grooming
+Anjing,Pomeranian,5.6,108,3,Grooming,Veterinary,Basah,"Royal Canin",19,Grooming
+Anjing,Bulldog,20.7,36,0.3,Grooming,"Pet Hotel",Kering,"Dog Choize",196,Grooming
+Anjing,"Shih Tzu",14.3,13,0.3,Veterinary,"Pet Hotel",Basah,Equilibrio,152,Veterinary
+Anjing,"Siberian Husky",22.6,12,2,Veterinary,"Pet Hotel",Basah,"Dog Choize",174,Veterinary
+Anjing,"Siberian Husky",16.3,36,0.3,Grooming,"Pet Hotel",Kering,Equilibrio,101,Grooming
+Anjing,Beagle,15.6,24,1,Grooming,Grooming,Basah,SmartHeart,3,Grooming
+Anjing,Bulldog,21.3,13,2,Veterinary,Veterinary,Kering,Pedigree,179,Veterinary
+Anjing,"Siberian Husky",4.1,24,3,Grooming,"Pet Hotel",Basah,"Royal Canin",309,Grooming
+Anjing,Pomeranian,9.8,7,0.3,Grooming,"Pet Hotel",Kering,"Royal Canin",104,Veterinary
+Anjing,"Siberian Husky",13.5,6,3,Grooming,"Pet Hotel",Kering,"Happy Dog",116,Grooming
+Anjing,Pomeranian,5.3,36,0.3,"Pet Hotel","Pet Hotel",Kering,Equilibrio,68,"Pet Hotel"
+Anjing,"Golden Retriever",13.3,108,1,Veterinary,"Pet Hotel",Basah,"Happy Dog",307,Veterinary
+Anjing,Beagle,9.2,17,3,Veterinary,"Pet Hotel",Kering,Pedigree,32,"Pet Hotel"
+Anjing,"Golden Retriever",20.7,96,3,Veterinary,Grooming,Basah,Equilibrio,89,Grooming
+Anjing,Beagle,9.3,72,1,"Pet Hotel",Grooming,Basah,SmartHeart,333,"Pet Hotel"
+Anjing,Pomeranian,13.4,96,3,Veterinary,Veterinary,Basah,Equilibrio,293,Veterinary
+Anjing,"Siberian Husky",14.8,19,1,Veterinary,"Pet Hotel",Kering,"Dog Choize",74,Veterinary
+Anjing,"Golden Retriever",23,9,2,Veterinary,Grooming,Basah,"Dog Choize",256,Veterinary
+Anjing,"Siberian Husky",19.6,20,0.3,"Pet Hotel","Pet Hotel",Kering,"Royal Canin",113,"Pet Hotel"
+Anjing,Beagle,7.7,20,3,"Pet Hotel",Grooming,Kering,SmartHeart,288,"Pet Hotel"
+Anjing,Beagle,21.6,9,1,Grooming,Grooming,Basah,"Royal Canin",238,Veterinary
+Anjing,"Golden Retriever",10.8,24,1,Veterinary,"Pet Hotel",Basah,Equilibrio,60,Veterinary
+Anjing,Beagle,17.6,84,2,Grooming,"Pet Hotel",Kering,"Happy Dog",326,Grooming
+Anjing,"Siberian Husky",21.6,24,3,"Pet Hotel","Pet Hotel",Kering,"Happy Dog",311,"Pet Hotel"
+Anjing,Bulldog,22.7,48,0.3,Grooming,Veterinary,Basah,SmartHeart,59,Grooming
+Anjing,"Siberian Husky",11.2,108,2,"Pet Hotel",Grooming,Basah,Pedigree,97,"Pet Hotel"
+Anjing,Pomeranian,6.9,10,3,Grooming,Veterinary,Basah,SmartHeart,282,Veterinary
+Anjing,"Siberian Husky",14.2,48,2,Grooming,Veterinary,Basah,"Happy Dog",189,Veterinary
+Anjing,Pomeranian,18.7,11,0.3,Grooming,Veterinary,Kering,"Royal Canin",114,Veterinary
+Anjing,Pomeranian,6.5,9,2,Grooming,"Pet Hotel",Kering,Pedigree,308,Grooming
+Anjing,Bulldog,7.9,36,3,Veterinary,Veterinary,Kering,"Dog Choize",270,Veterinary
+Anjing,Pomeranian,18.6,72,0.3,Veterinary,Grooming,Basah,Equilibrio,63,Veterinary
+Anjing,"Siberian Husky",13.5,18,2,"Pet Hotel","Pet Hotel",Basah,"Dog Choize",225,"Pet Hotel"
+Anjing,Bulldog,5.8,24,0.3,Veterinary,"Pet Hotel",Kering,Pedigree,112,Veterinary
+Anjing,Bulldog,14.7,120,0.3,Veterinary,Grooming,Kering,"Royal Canin",33,Grooming
+Anjing,"Shih Tzu",8.1,21,2,Grooming,Grooming,Basah,"Happy Dog",48,Grooming
+Anjing,Pomeranian,10.9,24,1,"Pet Hotel",Grooming,Kering,"Happy Dog",297,"Pet Hotel"
+Anjing,"Shih Tzu",18.7,72,1,Grooming,"Pet Hotel",Basah,Pedigree,262,Grooming

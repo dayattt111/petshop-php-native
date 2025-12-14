@@ -185,7 +185,7 @@ function testPrediction($modelFile) {
 
 // Check if running from command line
 if (php_sapi_name() === 'cli') {
-    $csvFile = $argv[1] ?? __DIR__ . '/Dataset_Hewan_Petshop_Makassar_2024.csv';
+    $csvFile = $argv[1] ?? __DIR__ . '/Dataset_Hewan_Petshop_Processed.csv';
     $modelFile = $argv[2] ?? __DIR__ . '/model_petshop.json';
     
     $result = trainModel($csvFile, $modelFile);
@@ -199,7 +199,7 @@ if (php_sapi_name() === 'cli') {
     // Running from web browser
     echo "<pre>";
     
-    $csvFile = __DIR__ . '/Dataset_Hewan_Petshop_Makassar_2024.csv';
+    $csvFile = __DIR__ . '/Dataset_Hewan_Petshop_Processed.csv';
     $modelFile = __DIR__ . '/model_petshop.json';
     
     if (isset($_GET['action']) && $_GET['action'] === 'train') {
