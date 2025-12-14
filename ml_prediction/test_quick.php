@@ -38,11 +38,11 @@ $accuracy = $model->calculateAccuracy($data, $labels);
 echo "Training Accuracy: " . round($accuracy, 2) . "%\n\n";
 
 // Test 2: Petshop Data (if CSV exists)
-if (file_exists(__DIR__ . '/data_training.csv')) {
+if (file_exists(__DIR__ . '/Dataset_Hewan_Petshop_Makassar_2024.csv')) {
     echo "[Test 2] Petshop Data Training\n";
     
     $preprocessor = new DataPreprocessor();
-    $preprocessor->loadCSV(__DIR__ . '/data_training.csv', true);
+    $preprocessor->loadCSV(__DIR__ . '/Dataset_Hewan_Petshop_Makassar_2024.csv', true);
     
     echo "Loaded " . count($preprocessor->getData()) . " samples\n";
     
@@ -85,7 +85,7 @@ if (file_exists(__DIR__ . '/data_training.csv')) {
     echo "  Confidence: {$result['confidence']}%\n";
     
 } else {
-    echo "[Test 2] SKIPPED - data_training.csv not found\n";
+    echo "[Test 2] SKIPPED - Dataset_Hewan_Petshop_Makassar_2024.csv not found\n";
 }
 
 echo "\n=== TEST COMPLETED ===\n";

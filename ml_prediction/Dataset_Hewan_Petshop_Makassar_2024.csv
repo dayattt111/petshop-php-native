@@ -1,0 +1,501 @@
+﻿No,Jenis Hewan,Ras,Berat Badan (Kg),Usia (Bulan/Tahun),Frekuensi Kunjungan,Jenis Layanan yang Sering Digunakan,Layanan Terakhir yang Digunakan,Jenis Pakan,Merek Pakan,Tanggal Kunjungan Terakhir (2024)
+1,Kucing,Maine Coon,3.6,18 bulan,2x/bulan,Grooming (bersihkan telinga),Penitipan Hewan,Kering,OriCat,2024-01-09
+2,Kucing,Persia,6.1,5 tahun,3x/bulan,"Veterinary (cek up, sterilisasi)",Veterinary (cek up),Kering,Whiskas,2024-04-19
+3,Kucing,Scottish Fold,2.8,19 bulan,2x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Kering,Royal Canin,2024-04-19
+4,Kucing,Sphynx,5.8,7 tahun,1x/bulan,"Veterinary (cek up, pengobatan dasar)",Penitipan Hewan,Basah,Royal Canin,2024-10-14
+5,Kucing,Scottish Fold,3.8,24 bulan,1x/bulan,"Veterinary (sterilisasi, cek up)",Grooming (potong kuku),Basah,Me-O,2024-02-10
+6,Kucing,Maine Coon,5.7,9 tahun,3x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Basah,Friskies,2024-05-21
+7,Kucing,Persia,5.7,7 bulan,1x/3 bulan,"Grooming (bersihkan gigi, perawatan jamur dan kutu, perawatan bulu)",Penitipan Hewan,Basah,Equilibrio,2024-02-02
+8,Kucing,Persia,5.3,16 bulan,2x/bulan,"Veterinary (sterilisasi, cek up)",Veterinary (sterilisasi),Basah,Friskies,2024-06-24
+9,Kucing,Maine Coon,5.6,18 bulan,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Kering,OriCat,2024-11-21
+10,Kucing,Sphynx,7.4,6 tahun,3x/bulan,Veterinary (cek up),Penitipan Hewan,Basah,Royal Canin,2024-10-06
+11,Kucing,Sphynx,5.2,7 tahun,1x/bulan,"Veterinary (cek up, sterilisasi)",Veterinary (cek up),Kering,Royal Canin,2024-09-22
+12,Kucing,Maine Coon,7.8,13 bulan,1x/3 bulan,Grooming (potong kuku),Grooming (mandi),Basah,OriCat,2024-11-21
+13,Kucing,Anggora,6.2,19 bulan,1x/3 bulan,"Grooming (potong kuku, perawatan bulu)",Grooming (bersihkan telinga),Basah,Equilibrio,2024-01-18
+14,Kucing,British Shorthair,7.9,8 tahun,2x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Basah,Equilibrio,2024-12-22
+15,Kucing,Sphynx,7.6,4 tahun,1x/3 bulan,Veterinary (pengobatan dasar),Veterinary (pengobatan dasar),Kering,Me-O,2024-07-12
+16,Kucing,Scottish Fold,4.6,24 bulan,2x/bulan,"Veterinary (sterilisasi, cek up)",Penitipan Hewan,Kering,Whiskas,2024-07-27
+17,Kucing,Maine Coon,4.3,9 bulan,3x/bulan,"Veterinary (cek up, sterilisasi)",Veterinary (pengobatan dasar),Basah,Royal Canin,2024-01-27
+18,Kucing,Persia,3.2,6 bulan,2x/bulan,"Veterinary (sterilisasi, cek up)",Penitipan Hewan,Basah,OriCat,2024-03-13
+19,Kucing,Scottish Fold,6.8,10 tahun,3x/bulan,Grooming (mandi),Penitipan Hewan,Kering,OriCat,2024-10-13
+20,Kucing,Anggora,7.7,6 bulan,2x/bulan,Penitipan Harian,Grooming (potong kuku),Basah,Royal Canin,2024-07-04
+21,Kucing,Scottish Fold,2,9 tahun,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Me-O,2024-04-28
+22,Kucing,Sphynx,6.1,23 bulan,3x/bulan,"Grooming (potong kuku, mandi)",Veterinary (pengobatan dasar),Basah,Equilibrio,2024-09-23
+23,Kucing,Persia,5.6,17 bulan,2x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Equilibrio,2024-05-26
+24,Kucing,Anggora,6,10 tahun,3x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Grooming (mandi),Basah,Friskies,2024-01-13
+25,Kucing,Anggora,3.5,2 tahun,1x/bulan,Grooming (mandi),Penitipan Hewan,Kering,Whiskas,2024-09-09
+26,Kucing,British Shorthair,6.4,6 tahun,1x/3 bulan,"Veterinary (sterilisasi, cek up)",Penitipan Hewan,Kering,Royal Canin,2024-04-28
+27,Kucing,British Shorthair,4.7,3 tahun,2x/bulan,Veterinary (cek up),Penitipan Hewan,Basah,Me-O,2024-08-15
+28,Kucing,Anggora,3.5,12 bulan,3x/bulan,Penitipan Harian,Veterinary (sterilisasi),Basah,Friskies,2024-07-18
+29,Kucing,Anggora,3.2,20 bulan,1x/3 bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga)",Veterinary (sterilisasi),Basah,Whiskas,2024-02-11
+30,Kucing,Scottish Fold,4.3,5 tahun,1x/bulan,"Veterinary (cek up, sterilisasi)",Veterinary (cek up),Kering,Me-O,2024-01-06
+31,Kucing,Sphynx,3.2,6 bulan,1x/3 bulan,Grooming (perawatan jamur dan kutu),Grooming (bersihkan gigi),Kering,Whiskas,2024-10-02
+32,Kucing,British Shorthair,7.4,10 bulan,1x/3 bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Basah,Me-O,2024-03-02
+33,Kucing,Persia,7.6,6 tahun,3x/bulan,"Grooming (bersihkan telinga, perawatan jamur dan kutu, mandi)",Grooming (bersihkan gigi),Kering,Equilibrio,2024-12-15
+34,Kucing,Sphynx,3.7,14 bulan,1x/bulan,Veterinary (cek up),Penitipan Hewan,Kering,Royal Canin,2024-11-03
+35,Kucing,Scottish Fold,6.3,2 tahun,1x/3 bulan,Penitipan Harian,Grooming (perawatan bulu),Basah,Friskies,2024-01-07
+36,Kucing,Sphynx,6.2,21 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga)",Penitipan Hewan,Basah,Whiskas,2024-11-03
+37,Kucing,Persia,3.2,7 tahun,2x/bulan,"Veterinary (cek up, sterilisasi)",Grooming (perawatan jamur dan kutu),Basah,OriCat,2024-07-18
+38,Kucing,Anggora,7.4,19 bulan,1x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Royal Canin,2024-08-04
+39,Kucing,Sphynx,3.3,21 bulan,1x/bulan,Penitipan Harian,Grooming (mandi),Kering,Equilibrio,2024-05-05
+40,Kucing,Anggora,5.3,11 bulan,1x/3 bulan,"Veterinary (pengobatan dasar, cek up)",Veterinary (sterilisasi),Basah,Whiskas,2024-09-06
+41,Kucing,Scottish Fold,5,20 bulan,3x/bulan,Penitipan Harian,Grooming (bersihkan gigi),Kering,Friskies,2024-05-07
+42,Kucing,British Shorthair,6.8,10 tahun,1x/3 bulan,"Veterinary (pengobatan dasar, cek up)",Penitipan Hewan,Kering,Me-O,2024-04-12
+43,Kucing,Sphynx,3.1,5 tahun,1x/3 bulan,"Grooming (mandi, perawatan jamur dan kutu)",Penitipan Hewan,Kering,Whiskas,2024-03-02
+44,Kucing,Scottish Fold,4.9,9 tahun,1x/bulan,Veterinary (cek up),Veterinary (pengobatan dasar),Kering,OriCat,2024-12-28
+45,Kucing,Persia,3.9,8 bulan,2x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (pengobatan dasar),Kering,Me-O,2024-10-13
+46,Kucing,Sphynx,6.4,22 bulan,3x/bulan,Grooming (perawatan jamur dan kutu),Veterinary (cek up),Basah,Royal Canin,2024-11-14
+47,Kucing,Anggora,6.7,10 bulan,1x/bulan,"Veterinary (pengobatan dasar, cek up)",Grooming (perawatan bulu),Basah,Friskies,2024-06-17
+48,Kucing,Maine Coon,6.8,6 tahun,2x/bulan,"Grooming (bersihkan gigi, mandi, perawatan bulu)",Grooming (perawatan bulu),Kering,Royal Canin,2024-06-20
+49,Kucing,Scottish Fold,2.1,6 tahun,3x/bulan,"Veterinary (sterilisasi, cek up)",Grooming (perawatan bulu),Kering,Equilibrio,2024-10-15
+50,Kucing,Maine Coon,7.4,10 tahun,2x/bulan,Veterinary (cek up),Grooming (perawatan jamur dan kutu),Basah,Equilibrio,2024-12-06
+51,Kucing,Maine Coon,4.8,22 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, potong kuku)",Veterinary (pengobatan dasar),Kering,Equilibrio,2024-06-17
+52,Kucing,Maine Coon,4,9 tahun,3x/bulan,"Veterinary (cek up, sterilisasi)",Grooming (perawatan bulu),Basah,Royal Canin,2024-02-19
+53,Kucing,British Shorthair,2.8,3 tahun,2x/bulan,Veterinary (sterilisasi),Grooming (mandi),Kering,Friskies,2024-12-22
+54,Kucing,Anggora,6.1,7 bulan,2x/bulan,Veterinary (sterilisasi),Grooming (perawatan bulu),Basah,Whiskas,2024-07-04
+55,Kucing,Persia,5.2,3 tahun,3x/bulan,Grooming (bersihkan gigi),Penitipan Hewan,Basah,OriCat,2024-12-03
+56,Kucing,Scottish Fold,5,3 tahun,3x/bulan,Grooming (perawatan jamur dan kutu),Penitipan Hewan,Basah,Equilibrio,2024-10-13
+57,Kucing,Scottish Fold,4.8,6 tahun,3x/bulan,Penitipan Harian,Veterinary (sterilisasi),Kering,OriCat,2024-12-12
+58,Kucing,Scottish Fold,5.4,6 tahun,3x/bulan,Penitipan Mingguan,Veterinary (cek up),Basah,Equilibrio,2024-10-17
+59,Kucing,Maine Coon,5.2,9 bulan,2x/bulan,Veterinary (cek up),Grooming (bersihkan telinga),Kering,Friskies,2024-01-25
+60,Kucing,Persia,4.6,6 bulan,1x/bulan,Penitipan Mingguan,Grooming (bersihkan gigi),Kering,Friskies,2024-01-07
+61,Kucing,British Shorthair,7.2,2 tahun,3x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Basah,Me-O,2024-10-08
+62,Kucing,Anggora,2.4,8 bulan,2x/bulan,Penitipan Mingguan,Grooming (perawatan bulu),Kering,Whiskas,2024-01-17
+63,Kucing,Anggora,5.1,4 tahun,3x/bulan,Veterinary (pengobatan dasar),Grooming (mandi),Kering,OriCat,2024-10-13
+64,Kucing,British Shorthair,4.1,19 bulan,1x/bulan,Veterinary (sterilisasi),Veterinary (pengobatan dasar),Basah,OriCat,2024-12-23
+65,Kucing,Maine Coon,3.6,9 bulan,3x/bulan,Grooming (mandi),Grooming (potong kuku),Kering,Friskies,2024-07-27
+66,Kucing,Persia,5.6,5 tahun,3x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Me-O,2024-01-12
+67,Kucing,British Shorthair,7.2,10 bulan,2x/bulan,Penitipan Harian,Grooming (mandi),Basah,Equilibrio,2024-06-01
+68,Kucing,Sphynx,3.6,5 tahun,2x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Whiskas,2024-09-09
+69,Kucing,Scottish Fold,7,9 tahun,3x/bulan,"Veterinary (sterilisasi, cek up)",Grooming (bersihkan telinga),Kering,OriCat,2024-06-12
+70,Kucing,British Shorthair,7.9,6 tahun,1x/3 bulan,"Grooming (mandi, bersihkan telinga)",Grooming (potong kuku),Basah,Whiskas,2024-12-25
+71,Kucing,British Shorthair,5.9,8 tahun,2x/bulan,Penitipan Harian,Veterinary (cek up),Basah,Me-O,2024-01-17
+72,Kucing,Persia,5.4,6 tahun,1x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Equilibrio,2024-04-01
+73,Kucing,Persia,7,10 tahun,3x/bulan,Grooming (mandi),Veterinary (pengobatan dasar),Kering,Whiskas,2024-10-09
+74,Kucing,British Shorthair,2.5,20 bulan,2x/bulan,"Grooming (perawatan jamur dan kutu, potong kuku)",Veterinary (pengobatan dasar),Kering,Equilibrio,2024-05-10
+75,Kucing,Persia,7.3,11 bulan,2x/bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Basah,Royal Canin,2024-07-17
+76,Kucing,British Shorthair,7.3,3 tahun,1x/bulan,Veterinary (cek up),Veterinary (pengobatan dasar),Kering,Royal Canin,2024-05-03
+77,Kucing,Persia,6.8,6 tahun,1x/bulan,Grooming (mandi),Grooming (bersihkan telinga),Basah,Me-O,2024-11-12
+78,Kucing,Scottish Fold,4.4,10 tahun,3x/bulan,Veterinary (cek up),Grooming (bersihkan telinga),Kering,Me-O,2024-08-06
+79,Kucing,Persia,7.1,10 tahun,1x/3 bulan,Penitipan Mingguan,Grooming (bersihkan telinga),Basah,Friskies,2024-01-17
+80,Kucing,Maine Coon,7.2,2 tahun,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Kering,Royal Canin,2024-09-17
+81,Kucing,Scottish Fold,3.1,6 tahun,3x/bulan,"Grooming (bersihkan telinga, potong kuku)",Penitipan Hewan,Basah,Royal Canin,2024-06-19
+82,Kucing,Maine Coon,7.2,13 bulan,1x/3 bulan,"Grooming (perawatan jamur dan kutu, mandi, perawatan bulu)",Penitipan Hewan,Kering,Friskies,2024-07-28
+83,Kucing,Sphynx,7.8,21 bulan,2x/bulan,Penitipan Harian,Grooming (bersihkan gigi),Kering,Me-O,2024-06-21
+84,Kucing,Sphynx,4.6,8 bulan,3x/bulan,"Veterinary (cek up, sterilisasi)",Penitipan Hewan,Kering,Whiskas,2024-02-25
+85,Kucing,Persia,3.6,5 tahun,1x/3 bulan,"Grooming (mandi, perawatan jamur dan kutu)",Veterinary (cek up),Kering,Friskies,2024-10-08
+86,Kucing,Scottish Fold,7.4,18 bulan,2x/bulan,"Veterinary (cek up, sterilisasi)",Penitipan Hewan,Basah,Equilibrio,2024-02-08
+87,Kucing,British Shorthair,5.6,15 bulan,2x/bulan,Penitipan Harian,Veterinary (cek up),Kering,Friskies,2024-05-06
+88,Kucing,Anggora,5.1,7 tahun,2x/bulan,Grooming (bersihkan gigi),Veterinary (cek up),Basah,Me-O,2024-10-08
+89,Kucing,Persia,2.4,7 tahun,3x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,OriCat,2024-10-07
+90,Kucing,Maine Coon,7.3,8 tahun,1x/3 bulan,"Grooming (bersihkan gigi, bersihkan telinga)",Veterinary (cek up),Basah,OriCat,2024-10-20
+91,Kucing,Scottish Fold,3.1,4 tahun,3x/bulan,"Grooming (perawatan jamur dan kutu, potong kuku, bersihkan telinga)",Penitipan Hewan,Kering,OriCat,2024-10-18
+92,Kucing,Persia,5.3,10 bulan,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Basah,Royal Canin,2024-08-10
+93,Kucing,Persia,6.3,3 tahun,1x/3 bulan,"Grooming (bersihkan telinga, mandi, potong kuku)",Veterinary (pengobatan dasar),Kering,OriCat,2024-11-24
+94,Kucing,Anggora,3.3,2 tahun,1x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Equilibrio,2024-06-11
+95,Kucing,Anggora,4.8,9 tahun,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Equilibrio,2024-09-08
+96,Kucing,Sphynx,4.7,20 bulan,2x/bulan,"Grooming (perawatan bulu, potong kuku, perawatan jamur dan kutu)",Penitipan Hewan,Basah,Whiskas,2024-12-04
+97,Kucing,Persia,2.4,23 bulan,1x/bulan,Penitipan Harian,Grooming (potong kuku),Kering,Equilibrio,2024-11-08
+98,Kucing,Anggora,5.1,5 tahun,3x/bulan,"Veterinary (cek up, pengobatan dasar)",Veterinary (pengobatan dasar),Kering,Equilibrio,2024-05-28
+99,Kucing,Scottish Fold,4.9,4 tahun,3x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Equilibrio,2024-07-03
+100,Kucing,Scottish Fold,4.8,18 bulan,1x/3 bulan,Penitipan Mingguan,Grooming (perawatan jamur dan kutu),Basah,Equilibrio,2024-12-28
+101,Kucing,Scottish Fold,4.1,19 bulan,1x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Royal Canin,2024-07-01
+102,Kucing,Maine Coon,6.8,6 bulan,3x/bulan,Penitipan Harian,Veterinary (pengobatan dasar),Basah,Whiskas,2024-06-16
+103,Kucing,Sphynx,5.1,14 bulan,1x/bulan,Penitipan Mingguan,Grooming (perawatan jamur dan kutu),Basah,Me-O,2024-04-10
+104,Kucing,Sphynx,2.3,20 bulan,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Basah,OriCat,2024-07-08
+105,Kucing,Persia,7.8,23 bulan,2x/bulan,"Grooming (perawatan jamur dan kutu, perawatan bulu, mandi)",Grooming (perawatan bulu),Basah,Friskies,2024-09-06
+106,Kucing,Persia,4.5,4 tahun,1x/3 bulan,Grooming (bersihkan telinga),Veterinary (pengobatan dasar),Kering,Equilibrio,2024-11-13
+107,Kucing,Persia,3.7,6 tahun,3x/bulan,"Veterinary (cek up, pengobatan dasar)",Veterinary (cek up),Kering,Royal Canin,2024-04-25
+108,Kucing,Persia,3.5,22 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan gigi)",Penitipan Hewan,Kering,Equilibrio,2024-11-16
+109,Kucing,Persia,6.2,2 tahun,2x/bulan,Penitipan Harian,Grooming (perawatan bulu),Basah,Friskies,2024-03-07
+110,Kucing,Maine Coon,7.3,8 tahun,3x/bulan,Grooming (mandi),Veterinary (sterilisasi),Kering,Royal Canin,2024-09-12
+111,Kucing,Scottish Fold,3.2,9 bulan,2x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Friskies,2024-06-23
+112,Kucing,Maine Coon,2.9,10 tahun,1x/3 bulan,Penitipan Harian,Grooming (potong kuku),Basah,Friskies,2024-06-21
+113,Kucing,Persia,6.4,21 bulan,1x/3 bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Royal Canin,2024-06-04
+114,Kucing,Persia,4.5,6 tahun,1x/3 bulan,Grooming (perawatan jamur dan kutu),Veterinary (sterilisasi),Kering,OriCat,2024-07-26
+115,Kucing,Maine Coon,4.2,2 tahun,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Kering,Equilibrio,2024-12-03
+116,Kucing,Persia,4.4,6 bulan,2x/bulan,Penitipan Mingguan,Grooming (bersihkan gigi),Basah,OriCat,2024-07-24
+117,Kucing,Maine Coon,3.6,6 tahun,1x/bulan,"Grooming (potong kuku, mandi, perawatan bulu)",Grooming (perawatan jamur dan kutu),Basah,Equilibrio,2024-06-23
+118,Kucing,Sphynx,6.8,11 bulan,3x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Penitipan Hewan,Basah,Equilibrio,2024-01-11
+119,Kucing,Persia,2.1,9 tahun,2x/bulan,Veterinary (cek up),Veterinary (sterilisasi),Basah,Royal Canin,2024-05-17
+120,Kucing,Anggora,6.1,7 tahun,1x/3 bulan,"Grooming (bersihkan telinga, potong kuku, mandi)",Veterinary (sterilisasi),Basah,Royal Canin,2024-01-07
+121,Kucing,Anggora,6.2,2 tahun,1x/3 bulan,"Grooming (bersihkan telinga, mandi, potong kuku)",Grooming (perawatan jamur dan kutu),Kering,Royal Canin,2024-06-10
+122,Kucing,British Shorthair,2,2 tahun,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Grooming (mandi),Basah,OriCat,2024-08-20
+123,Kucing,Anggora,6.6,6 bulan,2x/bulan,Penitipan Harian,Grooming (potong kuku),Basah,Friskies,2024-11-02
+124,Kucing,Scottish Fold,5.9,5 tahun,1x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Friskies,2024-05-20
+125,Kucing,Persia,5.8,6 bulan,2x/bulan,Grooming (potong kuku),Grooming (perawatan bulu),Basah,Me-O,2024-07-06
+126,Kucing,British Shorthair,7.8,6 tahun,3x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Basah,Equilibrio,2024-01-24
+127,Kucing,Persia,6.1,3 tahun,1x/3 bulan,"Grooming (bersihkan gigi, perawatan jamur dan kutu, mandi)",Grooming (bersihkan gigi),Basah,OriCat,2024-10-07
+128,Kucing,Maine Coon,2.5,22 bulan,3x/bulan,Penitipan Harian,Grooming (potong kuku),Basah,Whiskas,2024-02-09
+129,Kucing,Sphynx,5.4,3 tahun,1x/bulan,Penitipan Harian,Veterinary (pengobatan dasar),Kering,Whiskas,2024-04-06
+130,Kucing,Persia,6.3,14 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga)",Penitipan Hewan,Basah,Equilibrio,2024-07-26
+131,Kucing,Sphynx,3.5,11 bulan,1x/3 bulan,Penitipan Mingguan,Grooming (perawatan bulu),Kering,OriCat,2024-12-07
+132,Kucing,Persia,5.2,9 tahun,1x/3 bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Kering,Equilibrio,2024-07-25
+133,Kucing,Scottish Fold,4.8,15 bulan,1x/3 bulan,"Grooming (bersihkan gigi, bersihkan telinga)",Penitipan Hewan,Kering,Friskies,2024-09-25
+134,Kucing,Scottish Fold,7,8 tahun,2x/bulan,"Grooming (perawatan bulu, bersihkan telinga)",Grooming (perawatan jamur dan kutu),Kering,OriCat,2024-07-13
+135,Kucing,Scottish Fold,4.3,5 tahun,1x/3 bulan,"Veterinary (sterilisasi, cek up)",Penitipan Hewan,Kering,Me-O,2024-07-11
+136,Kucing,British Shorthair,3.1,8 tahun,1x/3 bulan,"Grooming (mandi, perawatan bulu)",Penitipan Hewan,Kering,Royal Canin,2024-03-05
+137,Kucing,Anggora,3.2,7 tahun,1x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Basah,Whiskas,2024-10-14
+138,Kucing,Maine Coon,6.3,9 bulan,1x/bulan,"Veterinary (cek up, sterilisasi)",Veterinary (sterilisasi),Basah,Whiskas,2024-06-10
+139,Kucing,Maine Coon,6.3,9 tahun,1x/3 bulan,"Veterinary (pengobatan dasar, sterilisasi)",Veterinary (pengobatan dasar),Basah,OriCat,2024-03-08
+140,Kucing,British Shorthair,6.2,18 bulan,3x/bulan,Penitipan Harian,Grooming (mandi),Kering,Equilibrio,2024-05-21
+141,Kucing,Sphynx,4.3,3 tahun,3x/bulan,"Grooming (bersihkan telinga, bersihkan gigi)",Grooming (potong kuku),Basah,Equilibrio,2024-08-28
+142,Kucing,Scottish Fold,7.3,21 bulan,1x/3 bulan,Penitipan Harian,Veterinary (cek up),Basah,OriCat,2024-01-23
+143,Kucing,British Shorthair,4.3,14 bulan,2x/bulan,"Veterinary (cek up, sterilisasi)",Penitipan Hewan,Kering,Royal Canin,2024-11-21
+144,Kucing,Persia,3.8,13 bulan,3x/bulan,"Grooming (mandi, bersihkan gigi)",Veterinary (sterilisasi),Kering,Equilibrio,2024-02-22
+145,Kucing,Maine Coon,6.3,10 bulan,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Kering,Royal Canin,2024-08-28
+146,Kucing,Anggora,4.4,15 bulan,1x/3 bulan,"Grooming (perawatan jamur dan kutu, perawatan bulu, potong kuku)",Grooming (mandi),Kering,Me-O,2024-11-15
+147,Kucing,Scottish Fold,6,17 bulan,3x/bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Basah,Friskies,2024-01-15
+148,Kucing,Maine Coon,5.9,4 tahun,3x/bulan,Penitipan Harian,Grooming (mandi),Basah,Friskies,2024-05-13
+149,Kucing,Anggora,2.3,7 bulan,3x/bulan,"Grooming (bersihkan gigi, perawatan jamur dan kutu, bersihkan telinga)",Penitipan Hewan,Basah,Friskies,2024-10-03
+150,Kucing,Scottish Fold,7.4,8 tahun,3x/bulan,"Grooming (potong kuku, bersihkan telinga)",Penitipan Hewan,Basah,Royal Canin,2024-10-03
+151,Kucing,Sphynx,3.9,5 tahun,1x/3 bulan,Veterinary (sterilisasi),Grooming (bersihkan telinga),Basah,Friskies,2024-05-25
+152,Kucing,Scottish Fold,3.4,7 tahun,2x/bulan,"Grooming (potong kuku, bersihkan gigi, perawatan jamur dan kutu)",Grooming (bersihkan telinga),Basah,Royal Canin,2024-10-22
+153,Kucing,Persia,2.9,9 bulan,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (sterilisasi),Kering,Whiskas,2024-08-28
+154,Kucing,Scottish Fold,5.6,8 tahun,2x/bulan,Grooming (perawatan bulu),Grooming (bersihkan gigi),Kering,Me-O,2024-07-18
+155,Kucing,Maine Coon,6.7,7 bulan,3x/bulan,"Veterinary (pengobatan dasar, cek up)",Veterinary (pengobatan dasar),Kering,Friskies,2024-06-01
+156,Kucing,Sphynx,2.1,17 bulan,1x/3 bulan,"Veterinary (cek up, sterilisasi)",Grooming (perawatan bulu),Kering,Equilibrio,2024-04-16
+157,Kucing,Anggora,6.7,14 bulan,1x/bulan,Veterinary (cek up),Penitipan Hewan,Basah,Friskies,2024-05-14
+158,Kucing,British Shorthair,6.8,4 tahun,2x/bulan,"Grooming (mandi, perawatan bulu)",Grooming (potong kuku),Basah,Royal Canin,2024-12-03
+159,Kucing,Maine Coon,7.9,20 bulan,2x/bulan,Penitipan Harian,Grooming (bersihkan telinga),Kering,OriCat,2024-10-07
+160,Kucing,Anggora,7.4,13 bulan,1x/3 bulan,"Veterinary (cek up, pengobatan dasar)",Penitipan Hewan,Kering,OriCat,2024-12-17
+161,Kucing,British Shorthair,4.1,17 bulan,1x/3 bulan,"Grooming (potong kuku, perawatan jamur dan kutu)",Veterinary (cek up),Basah,Me-O,2024-04-20
+162,Kucing,Persia,7.9,20 bulan,1x/bulan,Veterinary (pengobatan dasar),Grooming (potong kuku),Basah,Me-O,2024-12-21
+163,Kucing,Anggora,3.6,4 tahun,1x/3 bulan,Grooming (potong kuku),Veterinary (pengobatan dasar),Kering,OriCat,2024-10-12
+164,Kucing,Persia,5.6,13 bulan,1x/3 bulan,Penitipan Mingguan,Grooming (potong kuku),Kering,Royal Canin,2024-09-01
+165,Kucing,Maine Coon,4.9,6 tahun,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Royal Canin,2024-12-22
+166,Kucing,Anggora,4.1,9 tahun,2x/bulan,Veterinary (sterilisasi),Veterinary (sterilisasi),Kering,Friskies,2024-04-28
+167,Kucing,Sphynx,6.9,10 tahun,2x/bulan,Veterinary (pengobatan dasar),Veterinary (sterilisasi),Basah,OriCat,2024-05-17
+168,Kucing,Maine Coon,5.5,24 bulan,3x/bulan,"Veterinary (pengobatan dasar, cek up)",Veterinary (sterilisasi),Basah,Royal Canin,2024-03-07
+169,Kucing,British Shorthair,2.9,6 tahun,3x/bulan,Penitipan Mingguan,Veterinary (cek up),Kering,OriCat,2024-07-23
+170,Kucing,Anggora,4.6,9 bulan,2x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Equilibrio,2024-09-08
+171,Kucing,Scottish Fold,6.7,11 bulan,3x/bulan,Veterinary (sterilisasi),Grooming (mandi),Basah,Royal Canin,2024-10-21
+172,Kucing,Persia,3.5,13 bulan,1x/3 bulan,Grooming (potong kuku),Grooming (perawatan jamur dan kutu),Basah,Royal Canin,2024-06-03
+173,Kucing,British Shorthair,2.8,5 tahun,1x/3 bulan,Veterinary (sterilisasi),Grooming (potong kuku),Kering,Equilibrio,2024-10-14
+174,Kucing,Anggora,6.5,18 bulan,1x/bulan,Penitipan Mingguan,Veterinary (cek up),Kering,Me-O,2024-03-17
+175,Kucing,Maine Coon,5.1,9 tahun,1x/bulan,Veterinary (cek up),Grooming (bersihkan telinga),Kering,Equilibrio,2024-05-04
+176,Kucing,Scottish Fold,5.6,7 bulan,3x/bulan,Grooming (mandi),Penitipan Hewan,Kering,Equilibrio,2024-06-12
+177,Kucing,Sphynx,5.2,17 bulan,1x/bulan,Veterinary (cek up),Grooming (bersihkan gigi),Basah,Whiskas,2024-08-08
+178,Kucing,Scottish Fold,3.1,6 tahun,3x/bulan,Veterinary (cek up),Penitipan Hewan,Kering,Royal Canin,2024-02-22
+179,Kucing,Persia,3.2,4 tahun,2x/bulan,Grooming (mandi),Veterinary (pengobatan dasar),Kering,Me-O,2024-07-05
+180,Kucing,British Shorthair,4.7,8 tahun,3x/bulan,"Grooming (potong kuku, mandi, bersihkan telinga)",Veterinary (sterilisasi),Kering,Equilibrio,2024-01-24
+181,Kucing,British Shorthair,4.1,12 bulan,2x/bulan,"Grooming (bersihkan gigi, perawatan bulu)",Veterinary (pengobatan dasar),Basah,OriCat,2024-05-17
+182,Kucing,Maine Coon,5.4,18 bulan,1x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Me-O,2024-08-26
+183,Kucing,Scottish Fold,3.2,15 bulan,2x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Kering,Me-O,2024-03-25
+184,Kucing,British Shorthair,5.2,10 tahun,1x/3 bulan,"Veterinary (pengobatan dasar, cek up)",Penitipan Hewan,Kering,Me-O,2024-02-18
+185,Kucing,Maine Coon,3.5,10 tahun,3x/bulan,Grooming (bersihkan telinga),Grooming (mandi),Kering,Whiskas,2024-01-15
+186,Kucing,Anggora,5.7,3 tahun,1x/bulan,Penitipan Harian,Veterinary (cek up),Kering,Friskies,2024-12-18
+187,Kucing,Sphynx,7.5,3 tahun,3x/bulan,Grooming (potong kuku),Grooming (mandi),Basah,Equilibrio,2024-02-11
+188,Kucing,Persia,4.7,6 bulan,1x/3 bulan,Penitipan Mingguan,Veterinary (cek up),Kering,Me-O,2024-03-14
+189,Kucing,Maine Coon,5.4,24 bulan,2x/bulan,Veterinary (cek up),Veterinary (cek up),Kering,Me-O,2024-11-10
+190,Kucing,Sphynx,4.7,3 tahun,3x/bulan,Veterinary (cek up),Grooming (mandi),Kering,OriCat,2024-06-22
+191,Kucing,Persia,7.9,12 bulan,1x/bulan,"Grooming (bersihkan telinga, potong kuku)",Veterinary (sterilisasi),Kering,Friskies,2024-09-09
+192,Kucing,Anggora,2.9,14 bulan,1x/3 bulan,Penitipan Harian,Veterinary (sterilisasi),Kering,Friskies,2024-02-28
+193,Kucing,Anggora,3,8 tahun,3x/bulan,Penitipan Harian,Veterinary (pengobatan dasar),Kering,Friskies,2024-05-15
+194,Kucing,British Shorthair,7.7,7 tahun,1x/3 bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Kering,Me-O,2024-01-08
+195,Kucing,British Shorthair,2.2,9 tahun,1x/3 bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (pengobatan dasar),Kering,Friskies,2024-05-18
+196,Kucing,Maine Coon,6.5,6 bulan,2x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Grooming (mandi),Basah,Whiskas,2024-09-11
+197,Kucing,Maine Coon,4.6,8 tahun,1x/3 bulan,Penitipan Mingguan,Grooming (bersihkan gigi),Kering,Me-O,2024-01-18
+198,Kucing,Maine Coon,6.9,8 tahun,3x/bulan,Veterinary (pengobatan dasar),Grooming (bersihkan gigi),Kering,OriCat,2024-04-01
+199,Kucing,Scottish Fold,6.9,19 bulan,1x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Kering,Equilibrio,2024-03-12
+200,Kucing,British Shorthair,2.2,7 tahun,2x/bulan,"Veterinary (cek up, pengobatan dasar)",Grooming (perawatan bulu),Kering,Equilibrio,2024-05-01
+201,Kucing,Scottish Fold,7.2,7 tahun,3x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Penitipan Hewan,Basah,OriCat,2024-05-21
+202,Kucing,Anggora,5.5,8 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga, bersihkan gigi)",Penitipan Hewan,Basah,OriCat,2024-11-07
+203,Kucing,Sphynx,5.4,5 tahun,3x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Royal Canin,2024-04-26
+204,Kucing,Persia,4.6,20 bulan,2x/bulan,Penitipan Mingguan,Grooming (mandi),Kering,OriCat,2024-08-06
+205,Kucing,British Shorthair,3.3,3 tahun,2x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Royal Canin,2024-02-11
+206,Kucing,Sphynx,2.5,6 tahun,1x/3 bulan,Penitipan Harian,Grooming (perawatan jamur dan kutu),Basah,Royal Canin,2024-01-09
+207,Kucing,Sphynx,6,10 tahun,1x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Veterinary (pengobatan dasar),Kering,Royal Canin,2024-12-11
+208,Kucing,Anggora,5.2,10 tahun,1x/bulan,Veterinary (sterilisasi),Veterinary (cek up),Basah,OriCat,2024-11-28
+209,Kucing,Scottish Fold,3.2,8 bulan,3x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Kering,Royal Canin,2024-01-08
+210,Kucing,British Shorthair,7.9,6 tahun,3x/bulan,Penitipan Harian,Veterinary (sterilisasi),Basah,Me-O,2024-06-01
+211,Kucing,Persia,4.2,17 bulan,1x/3 bulan,"Veterinary (pengobatan dasar, cek up)",Grooming (bersihkan gigi),Basah,Equilibrio,2024-11-04
+212,Kucing,Scottish Fold,7.7,17 bulan,2x/bulan,Penitipan Mingguan,Grooming (perawatan jamur dan kutu),Basah,OriCat,2024-01-03
+213,Kucing,Persia,4,13 bulan,1x/3 bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Basah,Friskies,2024-05-06
+214,Kucing,Sphynx,5.5,4 tahun,3x/bulan,"Veterinary (cek up, sterilisasi)",Penitipan Hewan,Kering,Equilibrio,2024-10-05
+215,Kucing,Sphynx,6.4,8 tahun,2x/bulan,"Veterinary (cek up, pengobatan dasar)",Veterinary (pengobatan dasar),Basah,Equilibrio,2024-08-05
+216,Kucing,British Shorthair,7.6,6 tahun,1x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Friskies,2024-06-05
+217,Kucing,British Shorthair,5,24 bulan,2x/bulan,"Veterinary (sterilisasi, cek up)",Veterinary (cek up),Basah,Me-O,2024-02-01
+218,Kucing,Scottish Fold,6.1,14 bulan,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (sterilisasi),Basah,Whiskas,2024-09-28
+219,Kucing,Anggora,7.1,12 bulan,1x/bulan,Veterinary (sterilisasi),Grooming (bersihkan gigi),Kering,Me-O,2024-06-02
+220,Kucing,Persia,7.5,3 tahun,2x/bulan,"Veterinary (pengobatan dasar, cek up)",Veterinary (cek up),Kering,Whiskas,2024-05-28
+221,Kucing,Maine Coon,4,15 bulan,1x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Basah,OriCat,2024-06-20
+222,Kucing,British Shorthair,4,2 tahun,1x/bulan,"Grooming (perawatan jamur dan kutu, mandi, potong kuku)",Veterinary (cek up),Basah,Equilibrio,2024-05-16
+223,Kucing,Persia,2.9,7 bulan,2x/bulan,"Grooming (bersihkan telinga, mandi)",Veterinary (sterilisasi),Kering,Friskies,2024-07-17
+224,Kucing,Sphynx,4.3,10 bulan,1x/3 bulan,Veterinary (sterilisasi),Veterinary (pengobatan dasar),Kering,Whiskas,2024-01-01
+225,Kucing,British Shorthair,5.6,11 bulan,2x/bulan,Grooming (potong kuku),Grooming (bersihkan gigi),Basah,Whiskas,2024-08-02
+226,Kucing,Persia,7.2,11 bulan,1x/bulan,"Grooming (perawatan jamur dan kutu, potong kuku, perawatan bulu)",Penitipan Hewan,Basah,Equilibrio,2024-10-02
+227,Kucing,Sphynx,3,24 bulan,1x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan gigi, mandi)",Penitipan Hewan,Kering,Equilibrio,2024-05-01
+228,Kucing,Anggora,5.8,20 bulan,1x/3 bulan,"Grooming (perawatan bulu, bersihkan gigi)",Grooming (bersihkan gigi),Kering,Royal Canin,2024-04-25
+229,Kucing,Scottish Fold,7.8,8 tahun,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Whiskas,2024-06-17
+230,Kucing,Scottish Fold,2.3,5 tahun,1x/bulan,"Veterinary (sterilisasi, cek up)",Penitipan Hewan,Basah,Me-O,2024-12-03
+231,Kucing,Anggora,5.3,15 bulan,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Grooming (perawatan bulu),Basah,OriCat,2024-06-20
+232,Kucing,Sphynx,6.1,10 tahun,3x/bulan,Grooming (mandi),Veterinary (pengobatan dasar),Kering,Equilibrio,2024-04-08
+233,Kucing,Sphynx,6.9,21 bulan,1x/bulan,Veterinary (pengobatan dasar),Veterinary (cek up),Basah,OriCat,2024-12-10
+234,Kucing,Sphynx,6.9,8 tahun,2x/bulan,"Grooming (potong kuku, mandi)",Veterinary (sterilisasi),Basah,Whiskas,2024-05-04
+235,Kucing,Maine Coon,7.9,18 bulan,3x/bulan,Penitipan Harian,Grooming (mandi),Basah,Whiskas,2024-11-13
+236,Kucing,Scottish Fold,5.1,13 bulan,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,OriCat,2024-09-15
+237,Kucing,Sphynx,7.4,10 bulan,2x/bulan,Veterinary (pengobatan dasar),Grooming (perawatan bulu),Kering,Whiskas,2024-12-07
+238,Kucing,Sphynx,4.5,2 tahun,3x/bulan,Penitipan Harian,Grooming (bersihkan telinga),Kering,Equilibrio,2024-10-20
+239,Kucing,Scottish Fold,2.4,8 bulan,2x/bulan,"Veterinary (cek up, pengobatan dasar)",Grooming (potong kuku),Basah,Whiskas,2024-01-27
+240,Kucing,Maine Coon,7.8,18 bulan,3x/bulan,"Veterinary (cek up, pengobatan dasar)",Grooming (potong kuku),Kering,Equilibrio,2024-04-07
+241,Kucing,Sphynx,3.5,21 bulan,3x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Friskies,2024-08-03
+242,Kucing,British Shorthair,7.6,14 bulan,2x/bulan,"Grooming (bersihkan telinga, perawatan jamur dan kutu, bersihkan gigi)",Grooming (mandi),Kering,Royal Canin,2024-02-07
+243,Kucing,Sphynx,6,12 bulan,3x/bulan,"Veterinary (cek up, pengobatan dasar)",Grooming (mandi),Basah,Equilibrio,2024-01-27
+244,Kucing,Maine Coon,2.8,9 tahun,1x/bulan,"Grooming (bersihkan telinga, perawatan jamur dan kutu)",Grooming (bersihkan telinga),Kering,OriCat,2024-06-14
+245,Kucing,Sphynx,3.1,23 bulan,2x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Basah,Friskies,2024-08-12
+246,Kucing,Sphynx,3.9,11 bulan,2x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Equilibrio,2024-08-09
+247,Kucing,British Shorthair,5.3,10 tahun,3x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,OriCat,2024-09-07
+248,Kucing,Maine Coon,2.3,10 tahun,3x/bulan,"Grooming (bersihkan telinga, perawatan jamur dan kutu, potong kuku)",Grooming (perawatan jamur dan kutu),Basah,Equilibrio,2024-08-24
+249,Kucing,Persia,6.7,24 bulan,1x/3 bulan,"Grooming (bersihkan telinga, mandi, perawatan bulu)",Veterinary (pengobatan dasar),Basah,Friskies,2024-11-22
+250,Kucing,Scottish Fold,6.2,2 tahun,1x/bulan,"Grooming (perawatan bulu, perawatan jamur dan kutu)",Veterinary (cek up),Basah,Equilibrio,2024-09-08
+251,Kucing,Sphynx,3,9 tahun,2x/bulan,Penitipan Harian,Grooming (perawatan bulu),Kering,Friskies,2024-09-05
+252,Kucing,Persia,7.8,17 bulan,2x/bulan,Veterinary (cek up),Grooming (mandi),Basah,Whiskas,2024-07-27
+253,Kucing,Scottish Fold,4.9,9 tahun,1x/3 bulan,"Grooming (perawatan jamur dan kutu, mandi, bersihkan telinga)",Penitipan Hewan,Kering,Friskies,2024-10-01
+254,Kucing,Persia,6.4,23 bulan,3x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Kering,Equilibrio,2024-07-12
+255,Kucing,British Shorthair,2.7,6 bulan,1x/3 bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Basah,Me-O,2024-06-04
+256,Kucing,Scottish Fold,4.9,9 tahun,2x/bulan,Grooming (bersihkan gigi),Veterinary (cek up),Basah,Whiskas,2024-02-18
+257,Kucing,British Shorthair,6.4,7 bulan,1x/bulan,"Grooming (potong kuku, mandi, bersihkan gigi)",Penitipan Hewan,Kering,Me-O,2024-08-04
+258,Kucing,Anggora,7.6,5 tahun,2x/bulan,"Grooming (mandi, bersihkan gigi)",Veterinary (cek up),Basah,Royal Canin,2024-02-28
+259,Kucing,Maine Coon,3.4,7 tahun,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Basah,Whiskas,2024-10-18
+260,Kucing,British Shorthair,3.3,12 bulan,1x/3 bulan,"Grooming (bersihkan telinga, potong kuku)",Penitipan Hewan,Kering,Equilibrio,2024-01-21
+261,Kucing,Persia,6.7,4 tahun,1x/3 bulan,"Grooming (perawatan bulu, bersihkan telinga)",Penitipan Hewan,Kering,Equilibrio,2024-11-14
+262,Kucing,British Shorthair,3.5,7 tahun,3x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Royal Canin,2024-12-04
+263,Kucing,Maine Coon,2.7,9 tahun,1x/bulan,"Grooming (bersihkan telinga, bersihkan gigi)",Veterinary (cek up),Basah,Friskies,2024-12-17
+264,Kucing,Maine Coon,7.8,9 tahun,1x/bulan,Penitipan Harian,Grooming (bersihkan gigi),Kering,Me-O,2024-02-06
+265,Kucing,Maine Coon,5.9,9 bulan,2x/bulan,"Grooming (bersihkan gigi, perawatan bulu, perawatan jamur dan kutu)",Penitipan Hewan,Basah,Whiskas,2024-03-28
+266,Kucing,Anggora,6.7,2 tahun,1x/3 bulan,Penitipan Harian,Grooming (bersihkan gigi),Kering,Equilibrio,2024-03-18
+267,Kucing,Maine Coon,4.8,13 bulan,1x/3 bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (sterilisasi),Basah,Equilibrio,2024-11-20
+268,Kucing,British Shorthair,7.9,6 tahun,1x/bulan,Grooming (bersihkan telinga),Penitipan Hewan,Basah,Friskies,2024-08-11
+269,Kucing,Anggora,6.9,6 tahun,3x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Kering,Royal Canin,2024-04-26
+270,Kucing,Anggora,2.8,6 tahun,2x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Me-O,2024-12-20
+271,Kucing,Sphynx,2.9,6 bulan,2x/bulan,"Grooming (perawatan bulu, bersihkan telinga)",Grooming (bersihkan gigi),Basah,Whiskas,2024-08-26
+272,Kucing,Maine Coon,4.8,7 tahun,3x/bulan,"Grooming (bersihkan telinga, mandi)",Penitipan Hewan,Basah,Equilibrio,2024-04-18
+273,Kucing,Anggora,6.5,14 bulan,1x/3 bulan,"Grooming (bersihkan telinga, mandi, perawatan bulu)",Veterinary (pengobatan dasar),Basah,Equilibrio,2024-05-28
+274,Kucing,Sphynx,2.3,10 tahun,3x/bulan,Penitipan Harian,Grooming (perawatan bulu),Kering,Whiskas,2024-08-02
+275,Kucing,Scottish Fold,7.6,10 bulan,1x/3 bulan,Penitipan Harian,Grooming (perawatan jamur dan kutu),Basah,Royal Canin,2024-10-17
+276,Kucing,Persia,7.1,18 bulan,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Royal Canin,2024-09-12
+277,Kucing,Anggora,6.8,2 tahun,3x/bulan,Grooming (potong kuku),Penitipan Hewan,Basah,OriCat,2024-10-15
+278,Kucing,Scottish Fold,6.3,19 bulan,3x/bulan,Penitipan Mingguan,Grooming (perawatan jamur dan kutu),Basah,Friskies,2024-12-24
+279,Kucing,Sphynx,5.1,6 tahun,1x/bulan,"Grooming (perawatan bulu, bersihkan gigi)",Penitipan Hewan,Kering,Equilibrio,2024-11-17
+280,Kucing,Sphynx,4.8,12 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, potong kuku, bersihkan gigi)",Penitipan Hewan,Basah,OriCat,2024-07-19
+281,Kucing,Anggora,7.8,10 tahun,3x/bulan,"Grooming (perawatan jamur dan kutu, mandi)",Grooming (perawatan bulu),Kering,Friskies,2024-10-23
+282,Kucing,Maine Coon,4.7,9 tahun,2x/bulan,Grooming (bersihkan telinga),Veterinary (sterilisasi),Basah,Royal Canin,2024-02-21
+283,Kucing,British Shorthair,5.8,16 bulan,1x/3 bulan,Veterinary (cek up),Veterinary (sterilisasi),Kering,OriCat,2024-04-07
+284,Kucing,Persia,7.3,7 tahun,2x/bulan,"Veterinary (sterilisasi, cek up)",Grooming (mandi),Basah,Whiskas,2024-04-16
+285,Kucing,Scottish Fold,7.7,9 tahun,3x/bulan,Veterinary (sterilisasi),Grooming (potong kuku),Kering,OriCat,2024-01-07
+286,Kucing,Sphynx,7.8,9 bulan,2x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Kering,OriCat,2024-02-12
+287,Kucing,Scottish Fold,2.1,17 bulan,1x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Royal Canin,2024-11-05
+288,Kucing,British Shorthair,4.9,20 bulan,3x/bulan,"Grooming (bersihkan gigi, bersihkan telinga)",Veterinary (pengobatan dasar),Kering,Whiskas,2024-07-16
+289,Kucing,Maine Coon,3.4,22 bulan,1x/3 bulan,Penitipan Mingguan,Grooming (potong kuku),Kering,Me-O,2024-09-20
+290,Kucing,Sphynx,7.7,3 tahun,3x/bulan,Penitipan Harian,Grooming (mandi),Basah,OriCat,2024-07-19
+291,Kucing,Maine Coon,3.3,2 tahun,3x/bulan,"Grooming (potong kuku, perawatan jamur dan kutu)",Grooming (bersihkan gigi),Kering,Friskies,2024-11-28
+292,Kucing,Anggora,4.2,18 bulan,3x/bulan,Penitipan Harian,Grooming (potong kuku),Kering,Me-O,2024-06-24
+293,Kucing,Sphynx,4.5,8 tahun,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Equilibrio,2024-09-13
+294,Kucing,Maine Coon,3.1,6 tahun,1x/3 bulan,"Veterinary (cek up, pengobatan dasar)",Penitipan Hewan,Basah,OriCat,2024-11-08
+295,Kucing,British Shorthair,3.7,3 tahun,3x/bulan,Penitipan Mingguan,Veterinary (cek up),Kering,Me-O,2024-04-07
+296,Kucing,Anggora,7.3,8 tahun,1x/bulan,"Grooming (perawatan jamur dan kutu, mandi)",Grooming (mandi),Kering,Me-O,2024-05-01
+297,Kucing,Anggora,5.6,8 bulan,1x/3 bulan,Veterinary (sterilisasi),Veterinary (cek up),Kering,OriCat,2024-12-23
+298,Kucing,Scottish Fold,2.4,21 bulan,1x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Me-O,2024-09-14
+299,Kucing,Sphynx,6.6,4 tahun,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (pengobatan dasar),Kering,OriCat,2024-11-21
+300,Kucing,Persia,5,7 tahun,1x/bulan,"Grooming (mandi, perawatan jamur dan kutu)",Grooming (bersihkan gigi),Basah,Royal Canin,2024-02-13
+301,Kucing,British Shorthair,5.9,14 bulan,1x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Equilibrio,2024-06-22
+302,Kucing,Persia,4.8,15 bulan,2x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Friskies,2024-04-25
+303,Kucing,Maine Coon,2.6,8 bulan,1x/bulan,Veterinary (pengobatan dasar),Veterinary (pengobatan dasar),Basah,Friskies,2024-11-07
+304,Kucing,Scottish Fold,5.4,23 bulan,3x/bulan,"Veterinary (sterilisasi, cek up)",Veterinary (pengobatan dasar),Kering,Royal Canin,2024-05-09
+305,Kucing,Persia,4.6,12 bulan,1x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Equilibrio,2024-10-16
+306,Kucing,British Shorthair,3.2,3 tahun,3x/bulan,Grooming (bersihkan gigi),Veterinary (sterilisasi),Basah,Me-O,2024-08-15
+307,Kucing,Sphynx,2.9,7 tahun,2x/bulan,"Grooming (potong kuku, perawatan jamur dan kutu)",Grooming (perawatan bulu),Kering,Equilibrio,2024-08-18
+308,Kucing,Maine Coon,5.1,12 bulan,1x/3 bulan,Veterinary (pengobatan dasar),Grooming (bersihkan gigi),Kering,Whiskas,2024-02-12
+309,Kucing,Scottish Fold,4.6,8 tahun,2x/bulan,Penitipan Harian,Veterinary (sterilisasi),Basah,OriCat,2024-05-26
+310,Kucing,Scottish Fold,3.9,5 tahun,1x/3 bulan,Veterinary (cek up),Grooming (perawatan jamur dan kutu),Kering,Friskies,2024-01-25
+311,Kucing,Persia,4.5,22 bulan,1x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Kering,OriCat,2024-01-07
+312,Kucing,Sphynx,4.7,9 tahun,3x/bulan,Veterinary (cek up),Grooming (perawatan bulu),Kering,Friskies,2024-05-17
+313,Kucing,Persia,3.3,23 bulan,3x/bulan,Penitipan Harian,Penitipan Hewan,Basah,OriCat,2024-09-08
+314,Kucing,Sphynx,6,17 bulan,3x/bulan,Penitipan Mingguan,Veterinary (cek up),Kering,Friskies,2024-07-04
+315,Kucing,Sphynx,4.8,6 bulan,1x/bulan,Veterinary (pengobatan dasar),Veterinary (cek up),Kering,Me-O,2024-09-21
+316,Kucing,Sphynx,7.6,19 bulan,1x/3 bulan,"Grooming (bersihkan telinga, bersihkan gigi)",Grooming (bersihkan gigi),Basah,Equilibrio,2024-01-21
+317,Kucing,Sphynx,3.8,8 tahun,2x/bulan,Grooming (potong kuku),Penitipan Hewan,Basah,Equilibrio,2024-08-28
+318,Kucing,Sphynx,2.9,8 tahun,1x/bulan,Veterinary (pengobatan dasar),Grooming (perawatan jamur dan kutu),Basah,Whiskas,2024-09-05
+319,Kucing,Persia,4.2,15 bulan,3x/bulan,"Grooming (bersihkan gigi, mandi, perawatan bulu)",Veterinary (sterilisasi),Kering,OriCat,2024-09-01
+320,Kucing,Sphynx,7.3,6 tahun,2x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Whiskas,2024-01-27
+321,Kucing,Persia,4.1,10 tahun,1x/3 bulan,"Grooming (mandi, bersihkan gigi, potong kuku)",Penitipan Hewan,Kering,Friskies,2024-10-20
+322,Kucing,Sphynx,6.1,20 bulan,3x/bulan,Grooming (perawatan jamur dan kutu),Penitipan Hewan,Basah,Friskies,2024-10-15
+323,Kucing,Maine Coon,6.5,3 tahun,1x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Kering,OriCat,2024-08-10
+324,Kucing,Persia,7.3,9 bulan,1x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Basah,OriCat,2024-04-07
+325,Kucing,Sphynx,7.8,5 tahun,1x/bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Kering,Equilibrio,2024-07-28
+326,Kucing,British Shorthair,2,22 bulan,1x/3 bulan,Penitipan Harian,Veterinary (pengobatan dasar),Basah,Royal Canin,2024-04-07
+327,Kucing,Maine Coon,6.4,6 bulan,2x/bulan,Penitipan Harian,Veterinary (sterilisasi),Kering,OriCat,2024-06-26
+328,Kucing,Maine Coon,7.1,15 bulan,1x/3 bulan,"Grooming (perawatan jamur dan kutu, mandi, potong kuku)",Grooming (bersihkan telinga),Kering,Me-O,2024-03-27
+329,Kucing,Maine Coon,5.9,3 tahun,1x/bulan,"Veterinary (cek up, pengobatan dasar)",Veterinary (cek up),Basah,Royal Canin,2024-02-07
+330,Kucing,Persia,3.8,7 tahun,3x/bulan,"Grooming (perawatan bulu, perawatan jamur dan kutu)",Veterinary (cek up),Kering,Me-O,2024-10-05
+331,Kucing,Sphynx,6.7,24 bulan,2x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Whiskas,2024-04-08
+332,Kucing,Scottish Fold,2.8,9 bulan,1x/bulan,"Grooming (perawatan bulu, potong kuku)",Grooming (mandi),Kering,Friskies,2024-01-13
+333,Kucing,Scottish Fold,3.7,7 bulan,1x/bulan,Penitipan Harian,Veterinary (sterilisasi),Basah,Me-O,2024-11-01
+334,Kucing,Maine Coon,4,7 bulan,2x/bulan,"Veterinary (cek up, sterilisasi)",Grooming (bersihkan telinga),Kering,Royal Canin,2024-09-15
+335,Kucing,Anggora,7.7,6 tahun,2x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Kering,Whiskas,2024-04-27
+336,Kucing,Sphynx,5.3,4 tahun,2x/bulan,Penitipan Mingguan,Grooming (perawatan bulu),Kering,Me-O,2024-03-23
+337,Kucing,Persia,6.8,3 tahun,3x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Kering,OriCat,2024-10-16
+338,Kucing,Scottish Fold,3.4,9 tahun,1x/3 bulan,"Veterinary (cek up, sterilisasi)",Veterinary (cek up),Kering,OriCat,2024-03-20
+339,Kucing,Anggora,7.9,9 bulan,1x/bulan,"Grooming (perawatan bulu, mandi, potong kuku)",Veterinary (sterilisasi),Kering,Whiskas,2024-08-25
+340,Kucing,Scottish Fold,6.9,3 tahun,1x/bulan,"Veterinary (cek up, pengobatan dasar)",Veterinary (pengobatan dasar),Basah,Friskies,2024-01-09
+341,Kucing,Sphynx,7.3,7 bulan,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Equilibrio,2024-12-11
+342,Kucing,British Shorthair,6.2,3 tahun,2x/bulan,Penitipan Harian,Grooming (bersihkan gigi),Kering,OriCat,2024-08-04
+343,Kucing,Persia,3.4,23 bulan,2x/bulan,"Veterinary (cek up, pengobatan dasar)",Grooming (mandi),Basah,OriCat,2024-06-23
+344,Kucing,Scottish Fold,5.2,2 tahun,2x/bulan,"Grooming (mandi, perawatan jamur dan kutu, perawatan bulu)",Veterinary (pengobatan dasar),Kering,Royal Canin,2024-09-19
+345,Kucing,Persia,5.1,8 tahun,2x/bulan,Veterinary (sterilisasi),Veterinary (cek up),Kering,OriCat,2024-03-21
+346,Kucing,Scottish Fold,3.5,2 tahun,2x/bulan,"Veterinary (cek up, sterilisasi)",Veterinary (pengobatan dasar),Basah,Equilibrio,2024-09-06
+347,Kucing,Scottish Fold,4.6,24 bulan,2x/bulan,"Veterinary (cek up, sterilisasi)",Grooming (perawatan jamur dan kutu),Basah,OriCat,2024-05-28
+348,Kucing,Maine Coon,8,6 tahun,3x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Royal Canin,2024-03-09
+349,Kucing,Anggora,3,9 tahun,1x/bulan,Penitipan Harian,Veterinary (cek up),Basah,Whiskas,2024-10-06
+350,Kucing,Maine Coon,4.8,22 bulan,3x/bulan,Penitipan Harian,Penitipan Hewan,Kering,OriCat,2024-06-18
+351,Anjing,Beagle,13,2 tahun,2x/bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Kering,Happy Dog,2024-01-03
+352,Anjing,Siberian Husky,23,8 tahun,2x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Penitipan Hewan,Kering,Royal Canin,2024-05-16
+353,Anjing,Siberian Husky,20.6,11 bulan,2x/bulan,Veterinary (pengobatan dasar),Veterinary (sterilisasi),Kering,Equilibrio,2024-05-12
+354,Anjing,Shih Tzu,13.1,6 bulan,1x/3 bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Basah,Royal Canin,2024-12-27
+355,Anjing,Beagle,17.5,3 tahun,2x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Kering,SmartHeart,2024-06-04
+356,Anjing,Siberian Husky,11.6,10 tahun,3x/bulan,"Veterinary (pengobatan dasar, cek up)",Grooming (mandi),Kering,Royal Canin,2024-03-15
+357,Anjing,Bulldog,6.3,18 bulan,3x/bulan,"Veterinary (sterilisasi, cek up)",Penitipan Hewan,Basah,Happy Dog,2024-04-18
+358,Anjing,Bulldog,7.7,14 bulan,1x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Basah,Happy Dog,2024-02-17
+359,Anjing,Beagle,13.7,4 tahun,1x/3 bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Equilibrio,2024-12-25
+360,Anjing,Beagle,21.3,12 bulan,1x/bulan,Penitipan Harian,Veterinary (sterilisasi),Kering,Happy Dog,2024-11-04
+361,Anjing,Shih Tzu,15.9,16 bulan,1x/3 bulan,Grooming (mandi),Veterinary (cek up),Kering,Equilibrio,2024-05-10
+362,Anjing,Pomeranian,20,6 tahun,2x/bulan,Penitipan Harian,Veterinary (cek up),Kering,Equilibrio,2024-11-05
+363,Anjing,Siberian Husky,16.5,9 tahun,1x/3 bulan,Veterinary (pengobatan dasar),Grooming (perawatan jamur dan kutu),Kering,Pedigree,2024-01-05
+364,Anjing,Siberian Husky,9.1,11 bulan,2x/bulan,Penitipan Harian,Veterinary (sterilisasi),Kering,Royal Canin,2024-03-23
+365,Anjing,Shih Tzu,8.6,3 tahun,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Grooming (mandi),Kering,Pedigree,2024-08-03
+366,Anjing,Pomeranian,7.4,13 bulan,2x/bulan,Penitipan Mingguan,Grooming (potong kuku),Kering,Dog Choize,2024-10-16
+367,Anjing,Shih Tzu,5.5,8 tahun,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,SmartHeart,2024-05-18
+368,Anjing,Shih Tzu,19.7,16 bulan,3x/bulan,Veterinary (sterilisasi),Grooming (mandi),Kering,Happy Dog,2024-02-02
+369,Anjing,Golden Retriever,19.4,20 bulan,3x/bulan,Penitipan Harian,Veterinary (sterilisasi),Basah,Royal Canin,2024-11-18
+370,Anjing,Siberian Husky,11.3,2 tahun,3x/bulan,"Grooming (bersihkan gigi, bersihkan telinga, mandi)",Grooming (bersihkan gigi),Basah,Happy Dog,2024-04-20
+371,Anjing,Bulldog,15,15 bulan,1x/bulan,Penitipan Mingguan,Grooming (perawatan jamur dan kutu),Basah,Pedigree,2024-03-14
+372,Anjing,Bulldog,19,11 bulan,1x/bulan,Penitipan Harian,Penitipan Hewan,Basah,SmartHeart,2024-12-28
+373,Anjing,Pomeranian,4.6,10 tahun,3x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Dog Choize,2024-09-21
+374,Anjing,Siberian Husky,8.6,10 bulan,2x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Royal Canin,2024-10-22
+375,Anjing,Pomeranian,24,7 tahun,3x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Penitipan Hewan,Kering,Equilibrio,2024-07-24
+376,Anjing,Pomeranian,19.7,21 bulan,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Dog Choize,2024-03-17
+377,Anjing,Golden Retriever,16.5,9 tahun,1x/bulan,"Grooming (perawatan bulu, mandi)",Penitipan Hewan,Basah,Happy Dog,2024-09-03
+378,Anjing,Beagle,12.2,5 tahun,3x/bulan,Penitipan Harian,Penitipan Hewan,Basah,Equilibrio,2024-06-27
+379,Anjing,Siberian Husky,4.2,23 bulan,2x/bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Equilibrio,2024-01-19
+380,Anjing,Beagle,8.6,9 tahun,1x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Kering,Royal Canin,2024-02-26
+381,Anjing,Bulldog,8.2,9 tahun,3x/bulan,"Grooming (perawatan jamur dan kutu, potong kuku, bersihkan gigi)",Penitipan Hewan,Kering,Dog Choize,2024-09-01
+382,Anjing,Shih Tzu,17.7,4 tahun,2x/bulan,Grooming (potong kuku),Penitipan Hewan,Kering,Dog Choize,2024-11-22
+383,Anjing,Shih Tzu,22.7,4 tahun,1x/3 bulan,Penitipan Harian,Grooming (bersihkan telinga),Basah,Happy Dog,2024-11-28
+384,Anjing,Golden Retriever,7,5 tahun,3x/bulan,"Grooming (perawatan bulu, potong kuku)",Penitipan Hewan,Basah,Dog Choize,2024-10-07
+385,Anjing,Bulldog,18.1,14 bulan,2x/bulan,Veterinary (pengobatan dasar),Veterinary (pengobatan dasar),Kering,Pedigree,2024-10-03
+386,Anjing,Bulldog,23.3,14 bulan,2x/bulan,Grooming (perawatan bulu),Veterinary (cek up),Kering,Equilibrio,2024-11-13
+387,Anjing,Shih Tzu,18.9,4 tahun,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (cek up),Kering,Equilibrio,2024-02-27
+388,Anjing,Shih Tzu,22.8,20 bulan,1x/bulan,"Veterinary (pengobatan dasar, cek up)",Grooming (perawatan jamur dan kutu),Kering,SmartHeart,2024-05-13
+389,Anjing,Shih Tzu,7.1,16 bulan,1x/3 bulan,Veterinary (sterilisasi),Veterinary (pengobatan dasar),Basah,Royal Canin,2024-01-06
+390,Anjing,Golden Retriever,19.3,6 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga)",Penitipan Hewan,Kering,Happy Dog,2024-04-05
+391,Anjing,Pomeranian,12.4,3 tahun,3x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Grooming (perawatan bulu),Kering,Happy Dog,2024-02-14
+392,Anjing,Shih Tzu,19.4,3 tahun,1x/bulan,Penitipan Harian,Veterinary (pengobatan dasar),Kering,Happy Dog,2024-11-10
+393,Anjing,Pomeranian,15,12 bulan,1x/bulan,Veterinary (sterilisasi),Grooming (mandi),Kering,SmartHeart,2024-10-19
+394,Anjing,Golden Retriever,8.1,14 bulan,1x/bulan,Grooming (bersihkan telinga),Penitipan Hewan,Basah,Royal Canin,2024-02-19
+395,Anjing,Golden Retriever,21.3,10 tahun,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Penitipan Hewan,Kering,Equilibrio,2024-05-06
+396,Anjing,Beagle,18.2,7 bulan,1x/3 bulan,Penitipan Harian,Veterinary (pengobatan dasar),Kering,Pedigree,2024-06-27
+397,Anjing,Bulldog,5.1,13 bulan,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Kering,Pedigree,2024-06-13
+398,Anjing,Shih Tzu,22.2,2 tahun,1x/3 bulan,Penitipan Mingguan,Veterinary (cek up),Kering,Pedigree,2024-05-27
+399,Anjing,Siberian Husky,24.3,16 bulan,1x/bulan,Grooming (perawatan jamur dan kutu),Grooming (perawatan bulu),Kering,Pedigree,2024-09-23
+400,Anjing,Beagle,5.3,24 bulan,3x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Grooming (perawatan jamur dan kutu),Basah,Pedigree,2024-09-21
+401,Anjing,Siberian Husky,10.6,24 bulan,1x/3 bulan,"Grooming (perawatan bulu, potong kuku)",Penitipan Hewan,Basah,Dog Choize,2024-11-18
+402,Anjing,Pomeranian,9.8,20 bulan,1x/3 bulan,"Grooming (perawatan bulu, bersihkan telinga)",Grooming (bersihkan telinga),Kering,Equilibrio,2024-12-23
+403,Anjing,Pomeranian,22.7,13 bulan,1x/3 bulan,Grooming (perawatan jamur dan kutu),Penitipan Hewan,Basah,Pedigree,2024-11-19
+404,Anjing,Pomeranian,19.9,5 tahun,1x/3 bulan,Veterinary (pengobatan dasar),Grooming (mandi),Basah,Dog Choize,2024-05-04
+405,Anjing,Siberian Husky,16.3,20 bulan,2x/bulan,Penitipan Harian,Grooming (bersihkan telinga),Kering,Happy Dog,2024-08-04
+406,Anjing,Shih Tzu,21.7,7 bulan,1x/3 bulan,Grooming (potong kuku),Grooming (bersihkan gigi),Basah,Dog Choize,2024-12-22
+407,Anjing,Siberian Husky,15,11 bulan,1x/bulan,"Grooming (mandi, potong kuku, bersihkan telinga)",Veterinary (pengobatan dasar),Kering,SmartHeart,2024-05-07
+408,Anjing,Golden Retriever,6.2,16 bulan,1x/bulan,Veterinary (pengobatan dasar),Veterinary (sterilisasi),Basah,SmartHeart,2024-04-11
+409,Anjing,Siberian Husky,24.2,22 bulan,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Penitipan Hewan,Kering,Equilibrio,2024-09-27
+410,Anjing,Shih Tzu,10.5,8 tahun,2x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Veterinary (sterilisasi),Basah,Dog Choize,2024-04-23
+411,Anjing,Beagle,16,11 bulan,1x/bulan,"Grooming (perawatan jamur dan kutu, mandi)",Veterinary (sterilisasi),Kering,Royal Canin,2024-01-17
+412,Anjing,Bulldog,13.8,20 bulan,3x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Kering,Pedigree,2024-09-24
+413,Anjing,Golden Retriever,23.8,8 tahun,1x/bulan,Penitipan Mingguan,Veterinary (cek up),Basah,Happy Dog,2024-08-06
+414,Anjing,Golden Retriever,18,16 bulan,1x/3 bulan,Penitipan Mingguan,Veterinary (cek up),Kering,SmartHeart,2024-09-10
+415,Anjing,Shih Tzu,7,10 tahun,2x/bulan,Penitipan Mingguan,Veterinary (cek up),Kering,Royal Canin,2024-01-05
+416,Anjing,Shih Tzu,12,8 tahun,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Happy Dog,2024-03-25
+417,Anjing,Golden Retriever,9,10 tahun,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,SmartHeart,2024-09-25
+418,Anjing,Golden Retriever,25,8 tahun,1x/3 bulan,"Grooming (perawatan bulu, potong kuku, perawatan jamur dan kutu)",Penitipan Hewan,Basah,Dog Choize,2024-08-28
+419,Anjing,Shih Tzu,23.9,8 tahun,2x/bulan,"Grooming (bersihkan telinga, bersihkan gigi, perawatan jamur dan kutu)",Grooming (bersihkan telinga),Kering,Happy Dog,2024-08-23
+420,Anjing,Golden Retriever,24,22 bulan,1x/bulan,Grooming (perawatan bulu),Grooming (mandi),Kering,Dog Choize,2024-07-28
+421,Anjing,Pomeranian,22,5 tahun,1x/bulan,Grooming (potong kuku),Grooming (bersihkan telinga),Kering,Pedigree,2024-02-01
+422,Anjing,Siberian Husky,15.2,9 tahun,3x/bulan,"Grooming (potong kuku, bersihkan telinga, bersihkan gigi)",Penitipan Hewan,Kering,Dog Choize,2024-05-15
+423,Anjing,Beagle,18,24 bulan,1x/bulan,"Grooming (bersihkan telinga, potong kuku)",Veterinary (pengobatan dasar),Kering,SmartHeart,2024-02-21
+424,Anjing,Golden Retriever,20.1,5 tahun,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga)",Penitipan Hewan,Basah,Royal Canin,2024-01-02
+425,Anjing,Shih Tzu,21.1,12 bulan,1x/3 bulan,"Veterinary (sterilisasi, cek up)",Penitipan Hewan,Basah,Equilibrio,2024-12-16
+426,Anjing,Bulldog,6.8,9 tahun,2x/bulan,Penitipan Mingguan,Veterinary (sterilisasi),Kering,Happy Dog,2024-01-16
+427,Anjing,Beagle,17.5,10 tahun,1x/bulan,"Grooming (mandi, perawatan bulu, bersihkan telinga)",Penitipan Hewan,Basah,Equilibrio,2024-04-24
+428,Anjing,Shih Tzu,12,8 tahun,2x/bulan,"Veterinary (cek up, pengobatan dasar)",Penitipan Hewan,Basah,Dog Choize,2024-10-28
+429,Anjing,Beagle,20.7,2 tahun,1x/bulan,Veterinary (pengobatan dasar),Veterinary (pengobatan dasar),Kering,Happy Dog,2024-03-04
+430,Anjing,Bulldog,18.3,4 tahun,2x/bulan,Grooming (bersihkan gigi),Veterinary (cek up),Basah,Equilibrio,2024-06-03
+431,Anjing,Shih Tzu,23.4,22 bulan,2x/bulan,Penitipan Harian,Veterinary (sterilisasi),Basah,SmartHeart,2024-07-07
+432,Anjing,Beagle,17.1,23 bulan,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Basah,SmartHeart,2024-09-17
+433,Anjing,Shih Tzu,16.1,4 tahun,3x/bulan,"Grooming (potong kuku, perawatan jamur dan kutu, mandi)",Grooming (perawatan jamur dan kutu),Basah,Royal Canin,2024-01-12
+434,Anjing,Beagle,18.7,14 bulan,2x/bulan,"Grooming (bersihkan gigi, perawatan jamur dan kutu)",Penitipan Hewan,Kering,Dog Choize,2024-01-28
+435,Anjing,Pomeranian,17.9,16 bulan,3x/bulan,Veterinary (cek up),Veterinary (pengobatan dasar),Basah,Dog Choize,2024-12-11
+436,Anjing,Beagle,15.3,14 bulan,2x/bulan,Penitipan Mingguan,Grooming (bersihkan gigi),Basah,Royal Canin,2024-09-26
+437,Anjing,Siberian Husky,15.7,19 bulan,1x/3 bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Basah,SmartHeart,2024-10-23
+438,Anjing,Pomeranian,12.5,2 tahun,1x/bulan,Grooming (bersihkan telinga),Veterinary (cek up),Kering,Happy Dog,2024-11-03
+439,Anjing,Shih Tzu,13.8,17 bulan,1x/3 bulan,Penitipan Harian,Veterinary (sterilisasi),Kering,Happy Dog,2024-04-03
+440,Anjing,Bulldog,7,11 bulan,3x/bulan,Penitipan Harian,Veterinary (pengobatan dasar),Kering,Equilibrio,2024-08-22
+441,Anjing,Golden Retriever,19.8,20 bulan,1x/3 bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Kering,Equilibrio,2024-12-20
+442,Anjing,Siberian Husky,14.6,5 tahun,2x/bulan,Penitipan Harian,Grooming (perawatan bulu),Kering,SmartHeart,2024-10-19
+443,Anjing,Golden Retriever,23.6,10 tahun,3x/bulan,"Grooming (potong kuku, bersihkan telinga)",Veterinary (pengobatan dasar),Kering,Dog Choize,2024-02-26
+444,Anjing,Pomeranian,20.7,10 tahun,1x/bulan,Veterinary (cek up),Grooming (bersihkan gigi),Basah,Dog Choize,2024-01-25
+445,Anjing,Shih Tzu,21.9,9 bulan,3x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Pedigree,2024-07-22
+446,Anjing,Siberian Husky,11.9,23 bulan,1x/3 bulan,"Grooming (bersihkan telinga, perawatan jamur dan kutu)",Veterinary (pengobatan dasar),Basah,Dog Choize,2024-05-07
+447,Anjing,Bulldog,20.7,9 tahun,2x/bulan,Grooming (bersihkan telinga),Penitipan Hewan,Basah,SmartHeart,2024-08-15
+448,Anjing,Bulldog,17.6,7 tahun,3x/bulan,Penitipan Harian,Grooming (bersihkan gigi),Basah,Equilibrio,2024-02-16
+449,Anjing,Beagle,20.8,2 tahun,1x/bulan,"Veterinary (sterilisasi, cek up)",Grooming (potong kuku),Basah,Happy Dog,2024-11-10
+450,Anjing,Shih Tzu,19.6,2 tahun,1x/3 bulan,Penitipan Mingguan,Veterinary (sterilisasi),Kering,Happy Dog,2024-06-26
+451,Anjing,Shih Tzu,15.6,15 bulan,1x/bulan,"Veterinary (cek up, pengobatan dasar)",Penitipan Hewan,Basah,Royal Canin,2024-12-27
+452,Anjing,Bulldog,21.8,18 bulan,2x/bulan,"Veterinary (pengobatan dasar, cek up)",Penitipan Hewan,Kering,Royal Canin,2024-11-03
+453,Anjing,Shih Tzu,7.3,6 bulan,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Pedigree,2024-11-06
+454,Anjing,Siberian Husky,19.9,11 bulan,3x/bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Kering,Royal Canin,2024-07-15
+455,Anjing,Beagle,4.5,5 tahun,1x/bulan,Veterinary (cek up),Penitipan Hewan,Kering,Pedigree,2024-01-22
+456,Anjing,Golden Retriever,17.2,15 bulan,1x/bulan,Veterinary (cek up),Grooming (bersihkan gigi),Kering,Royal Canin,2024-10-03
+457,Anjing,Pomeranian,17.5,7 bulan,2x/bulan,Penitipan Mingguan,Veterinary (pengobatan dasar),Kering,Happy Dog,2024-11-09
+458,Anjing,Golden Retriever,18.8,6 bulan,2x/bulan,"Grooming (potong kuku, mandi)",Veterinary (sterilisasi),Basah,SmartHeart,2024-01-11
+459,Anjing,Pomeranian,23.3,15 bulan,1x/3 bulan,"Grooming (bersihkan gigi, potong kuku)",Grooming (bersihkan gigi),Kering,Equilibrio,2024-03-04
+460,Anjing,Beagle,20.3,6 tahun,1x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Happy Dog,2024-03-15
+461,Anjing,Shih Tzu,15.5,19 bulan,3x/bulan,Penitipan Harian,Veterinary (pengobatan dasar),Kering,Equilibrio,2024-08-07
+462,Anjing,Siberian Husky,16.9,6 tahun,1x/bulan,Grooming (bersihkan telinga),Veterinary (pengobatan dasar),Kering,Happy Dog,2024-10-13
+463,Anjing,Pomeranian,5.6,9 tahun,3x/bulan,Grooming (perawatan jamur dan kutu),Veterinary (sterilisasi),Basah,Royal Canin,2024-11-26
+464,Anjing,Bulldog,20.7,3 tahun,1x/3 bulan,Grooming (potong kuku),Penitipan Hewan,Kering,Dog Choize,2024-06-02
+465,Anjing,Shih Tzu,14.3,13 bulan,1x/3 bulan,Veterinary (sterilisasi),Penitipan Hewan,Basah,Equilibrio,2024-07-16
+466,Anjing,Siberian Husky,22.6,12 bulan,2x/bulan,"Veterinary (cek up, sterilisasi)",Penitipan Hewan,Basah,Dog Choize,2024-06-24
+467,Anjing,Siberian Husky,16.3,3 tahun,1x/3 bulan,"Grooming (bersihkan telinga, perawatan bulu)",Penitipan Hewan,Kering,Equilibrio,2024-09-05
+468,Anjing,Beagle,15.6,2 tahun,1x/bulan,Grooming (perawatan jamur dan kutu),Grooming (bersihkan gigi),Basah,SmartHeart,2024-12-18
+469,Anjing,Bulldog,21.3,13 bulan,2x/bulan,Veterinary (pengobatan dasar),Veterinary (cek up),Kering,Pedigree,2024-06-19
+470,Anjing,Siberian Husky,4.1,2 tahun,3x/bulan,Grooming (perawatan jamur dan kutu),Penitipan Hewan,Basah,Royal Canin,2024-02-10
+471,Anjing,Pomeranian,9.8,7 bulan,1x/3 bulan,"Grooming (perawatan bulu, perawatan jamur dan kutu)",Penitipan Hewan,Kering,Royal Canin,2024-09-02
+472,Anjing,Siberian Husky,13.5,6 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga, mandi)",Penitipan Hewan,Kering,Happy Dog,2024-08-21
+473,Anjing,Pomeranian,5.3,3 tahun,1x/3 bulan,Penitipan Harian,Penitipan Hewan,Kering,Equilibrio,2024-10-08
+474,Anjing,Golden Retriever,13.3,9 tahun,1x/bulan,"Veterinary (cek up, sterilisasi)",Penitipan Hewan,Basah,Happy Dog,2024-02-12
+475,Anjing,Beagle,9.2,17 bulan,3x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Penitipan Hewan,Kering,Pedigree,2024-11-13
+476,Anjing,Golden Retriever,20.7,8 tahun,3x/bulan,Veterinary (cek up),Grooming (potong kuku),Basah,Equilibrio,2024-09-17
+477,Anjing,Beagle,9.3,6 tahun,1x/bulan,Penitipan Harian,Grooming (potong kuku),Basah,SmartHeart,2024-01-17
+478,Anjing,Pomeranian,13.4,8 tahun,3x/bulan,"Veterinary (pengobatan dasar, sterilisasi)",Veterinary (sterilisasi),Basah,Equilibrio,2024-02-26
+479,Anjing,Siberian Husky,14.8,19 bulan,1x/bulan,"Veterinary (sterilisasi, pengobatan dasar)",Penitipan Hewan,Kering,Dog Choize,2024-10-02
+480,Anjing,Golden Retriever,23,9 bulan,2x/bulan,"Veterinary (cek up, sterilisasi)",Grooming (perawatan bulu),Basah,Dog Choize,2024-04-03
+481,Anjing,Siberian Husky,19.6,20 bulan,1x/3 bulan,Penitipan Mingguan,Penitipan Hewan,Kering,Royal Canin,2024-08-24
+482,Anjing,Beagle,7.7,20 bulan,3x/bulan,Penitipan Mingguan,Grooming (bersihkan gigi),Kering,SmartHeart,2024-03-02
+483,Anjing,Beagle,21.6,9 bulan,1x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan gigi, perawatan bulu)",Grooming (perawatan bulu),Basah,Royal Canin,2024-04-21
+484,Anjing,Golden Retriever,10.8,24 bulan,1x/bulan,Veterinary (pengobatan dasar),Penitipan Hewan,Basah,Equilibrio,2024-10-16
+485,Anjing,Beagle,17.6,7 tahun,2x/bulan,Grooming (potong kuku),Penitipan Hewan,Kering,Happy Dog,2024-01-24
+486,Anjing,Siberian Husky,21.6,24 bulan,3x/bulan,Penitipan Harian,Penitipan Hewan,Kering,Happy Dog,2024-02-08
+487,Anjing,Bulldog,22.7,4 tahun,1x/3 bulan,"Grooming (bersihkan telinga, perawatan jamur dan kutu, bersihkan gigi)",Veterinary (sterilisasi),Basah,SmartHeart,2024-10-17
+488,Anjing,Siberian Husky,11.2,9 tahun,2x/bulan,Penitipan Harian,Grooming (bersihkan telinga),Basah,Pedigree,2024-09-09
+489,Anjing,Pomeranian,6.9,10 bulan,3x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan telinga, mandi)",Veterinary (pengobatan dasar),Basah,SmartHeart,2024-03-08
+490,Anjing,Siberian Husky,14.2,4 tahun,2x/bulan,"Grooming (bersihkan telinga, potong kuku)",Veterinary (pengobatan dasar),Basah,Happy Dog,2024-06-09
+491,Anjing,Pomeranian,18.7,11 bulan,1x/3 bulan,Grooming (bersihkan gigi),Veterinary (sterilisasi),Kering,Royal Canin,2024-08-23
+492,Anjing,Pomeranian,6.5,9 bulan,2x/bulan,"Grooming (bersihkan telinga, perawatan jamur dan kutu)",Penitipan Hewan,Kering,Pedigree,2024-02-11
+493,Anjing,Bulldog,7.9,3 tahun,3x/bulan,Veterinary (cek up),Veterinary (cek up),Kering,Dog Choize,2024-03-20
+494,Anjing,Pomeranian,18.6,6 tahun,1x/3 bulan,"Veterinary (pengobatan dasar, cek up)",Grooming (potong kuku),Basah,Equilibrio,2024-10-13
+495,Anjing,Siberian Husky,13.5,18 bulan,2x/bulan,Penitipan Mingguan,Penitipan Hewan,Basah,Dog Choize,2024-05-04
+496,Anjing,Bulldog,5.8,2 tahun,1x/3 bulan,"Veterinary (cek up, sterilisasi)",Penitipan Hewan,Kering,Pedigree,2024-08-25
+497,Anjing,Bulldog,14.7,10 tahun,1x/3 bulan,Veterinary (cek up),Grooming (mandi),Kering,Royal Canin,2024-11-12
+498,Anjing,Shih Tzu,8.1,21 bulan,2x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan gigi, mandi)",Grooming (potong kuku),Basah,Happy Dog,2024-10-28
+499,Anjing,Pomeranian,10.9,24 bulan,1x/bulan,Penitipan Mingguan,Grooming (potong kuku),Kering,Happy Dog,2024-02-22
+500,Anjing,Shih Tzu,18.7,6 tahun,1x/bulan,"Grooming (perawatan jamur dan kutu, bersihkan gigi)",Penitipan Hewan,Basah,Pedigree,2024-03-28

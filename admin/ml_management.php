@@ -200,7 +200,7 @@ if (isset($_POST['train_model'])) {
                                     🔄 Retrain Model
                                 </button>
                             </form>
-                            <a href="../ml_prediction/data_training.csv" class="btn btn-success" download>
+                            <a href="../ml_prediction/Dataset_Hewan_Petshop_Makassar_2024.csv" class="btn btn-success" download>
                                 📥 Download Training Data
                             </a>
                             <a href="../ml_prediction/model_petshop.json" class="btn btn-info" download>
