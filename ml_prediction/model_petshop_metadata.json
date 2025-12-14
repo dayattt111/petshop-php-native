@@ -1,0 +1,35 @@
+{
+    "training_date": "2025-12-14 19:20:48",
+    "training_samples": 500,
+    "features": [
+        "Jenis Hewan",
+        "Ras",
+        "Berat Badan (Kg)",
+        "Usia (Bulan)",
+        "Frekuensi Kunjungan",
+        "Layanan Sering",
+        "Layanan Terakhir",
+        "Jenis Pakan",
+        "Merek Pakan",
+        "Hari Sejak Kunjungan"
+    ],
+    "target_classes": [
+        "Grooming",
+        "Veterinary",
+        "Pet Hotel"
+    ],
+    "accuracy": 100,
+    "feature_importance": {
+        "Hari Sejak Kunjungan": 60.68,
+        "Ras": 20.15,
+        "Jenis Hewan": 9.1,
+        "Usia (Bulan)": 4.25,
+        "Layanan Terakhir": 1.94,
+        "Berat Badan (Kg)": 1.46,
+        "Frekuensi Kunjungan": 1.21,
+        "Layanan Sering": 0.85,
+        "Merek Pakan": 0.36,
+        "Jenis Pakan": 0
+    },
+    "training_time_seconds": 0.02
+}

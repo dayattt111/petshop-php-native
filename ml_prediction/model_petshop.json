@@ -1,0 +1,4389 @@
+{
+    "tree": {
+        "type": "node",
+        "feature": 9,
+        "feature_name": "Hari Sejak Kunjungan",
+        "branches": {
+            "341": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "240": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "62": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 3,
+                "distribution": {
+                    "Veterinary": 3
+                }
+            },
+            "309": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "208": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "317": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "174": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Siberian Husky": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "24": {
+                "type": "node",
+                "feature": 6,
+                "feature_name": "Layanan Terakhir",
+                "branches": {
+                    "Pet Hotel": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 2,
+                        "distribution": {
+                            "Pet Hotel": 2
+                        }
+                    },
+                    "Grooming": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Veterinary": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "70": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "84": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "332": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "7": {
+                "type": "node",
+                "feature": 6,
+                "feature_name": "Layanan Terakhir",
+                "branches": {
+                    "Veterinary": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Grooming": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 2,
+                        "distribution": {
+                            "Grooming": 2
+                        }
+                    },
+                    "Pet Hotel": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "156": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "141": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "323": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    },
+                    "Remaja": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Tua": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "277": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "63": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 2,
+                        "distribution": {
+                            "Grooming": 2
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Siberian Husky": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 6
+            },
+            "164": {
+                "type": "node",
+                "feature": 8,
+                "feature_name": "Merek Pakan",
+                "branches": {
+                    "Royal Canin": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Whiskas": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Friskies": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "231": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "83": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 2,
+                "distribution": {
+                    "Grooming": 2
+                }
+            },
+            "203": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "337": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "97": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Siberian Husky": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "122": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "150": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "308": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "344": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "74": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 3,
+                "distribution": {
+                    "Veterinary": 3
+                }
+            },
+            "288": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Beagle": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "0": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "42": {
+                "type": "node",
+                "feature": 2,
+                "feature_name": "Berat Badan (Kg)",
+                "branches": {
+                    "Kecil": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Sedang": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Besar": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Sangat Besar": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "343": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Dewasa": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Tua": {
+                        "type": "node",
+                        "feature": 1,
+                        "feature_name": "Ras",
+                        "branches": {
+                            "Anggora": {
+                                "type": "leaf",
+                                "class": "Veterinary",
+                                "samples": 1,
+                                "distribution": {
+                                    "Veterinary": 1
+                                }
+                            },
+                            "Scottish Fold": {
+                                "type": "leaf",
+                                "class": "Grooming",
+                                "samples": 1,
+                                "distribution": {
+                                    "Grooming": 1
+                                }
+                            }
+                        },
+                        "samples": 2
+                    },
+                    "Remaja": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 5
+            },
+            "133": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Remaja": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 2,
+                        "distribution": {
+                            "Pet Hotel": 2
+                        }
+                    },
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Dewasa": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "224": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "100": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "222": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "247": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "13": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Tua": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Remaja": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "31": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "181": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "178": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Tua": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Remaja": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "61": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 3,
+                "distribution": {
+                    "Grooming": 3
+                }
+            },
+            "9": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 2,
+                "distribution": {
+                    "Grooming": 2
+                }
+            },
+            "300": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 2,
+                "distribution": {
+                    "Grooming": 2
+                }
+            },
+            "12": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Shih Tzu": {
+                        "type": "node",
+                        "feature": 3,
+                        "feature_name": "Usia (Bulan)",
+                        "branches": {
+                            "Muda": {
+                                "type": "leaf",
+                                "class": "Veterinary",
+                                "samples": 1,
+                                "distribution": {
+                                    "Veterinary": 1
+                                }
+                            },
+                            "Remaja": {
+                                "type": "leaf",
+                                "class": "Pet Hotel",
+                                "samples": 1,
+                                "distribution": {
+                                    "Pet Hotel": 1
+                                }
+                            }
+                        },
+                        "samples": 2
+                    }
+                },
+                "samples": 6
+            },
+            "3": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "59": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Tua": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Dewasa": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "325": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 3,
+                "distribution": {
+                    "Veterinary": 3
+                }
+            },
+            "68": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "333": {
+                "type": "node",
+                "feature": 6,
+                "feature_name": "Layanan Terakhir",
+                "branches": {
+                    "Grooming": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 3,
+                        "distribution": {
+                            "Pet Hotel": 3
+                        }
+                    },
+                    "Veterinary": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    }
+                },
+                "samples": 5
+            },
+            "8": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 2,
+                        "distribution": {
+                            "Grooming": 2
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 5
+            },
+            "338": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "197": {
+                "type": "node",
+                "feature": 4,
+                "feature_name": "Frekuensi Kunjungan",
+                "branches": {
+                    "Sedang": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Sering": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "186": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 2,
+                "distribution": {
+                    "Grooming": 2
+                }
+            },
+            "10": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "258": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "67": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "219": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "151": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "226": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "33": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 2,
+                "distribution": {
+                    "Grooming": 2
+                }
+            },
+            "131": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Golden Retriever": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "89": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Beagle": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Golden Retriever": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "179": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "140": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Golden Retriever": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "177": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 2,
+                "distribution": {
+                    "Pet Hotel": 2
+                }
+            },
+            "294": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "311": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "223": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 3,
+                "distribution": {
+                    "Veterinary": 3
+                }
+            },
+            "69": {
+                "type": "node",
+                "feature": 5,
+                "feature_name": "Layanan Sering",
+                "branches": {
+                    "Pet Hotel": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 2,
+                        "distribution": {
+                            "Pet Hotel": 2
+                        }
+                    },
+                    "Grooming": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 2,
+                        "distribution": {
+                            "Grooming": 2
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "56": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 3,
+                "distribution": {
+                    "Grooming": 3
+                }
+            },
+            "58": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "127": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "21": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "187": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "98": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Tua": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Dewasa": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Remaja": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "11": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "37": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "201": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "165": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "167": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "182": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "249": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "160": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "32": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Bulldog": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Beagle": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "234": {
+                "type": "node",
+                "feature": 4,
+                "feature_name": "Frekuensi Kunjungan",
+                "branches": {
+                    "Sering": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Jarang": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Sedang": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "29": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "283": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "94": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "175": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "194": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 3,
+                "distribution": {
+                    "Veterinary": 3
+                }
+            },
+            "142": {
+                "type": "node",
+                "feature": 2,
+                "feature_name": "Berat Badan (Kg)",
+                "branches": {
+                    "Kecil": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Sedang": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "144": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "339": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "212": {
+                "type": "node",
+                "feature": 4,
+                "feature_name": "Frekuensi Kunjungan",
+                "branches": {
+                    "Sedang": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 3,
+                        "distribution": {
+                            "Veterinary": 3
+                        }
+                    },
+                    "Sering": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "188": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "117": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "43": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "209": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "162": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "326": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "310": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "253": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "143": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "81": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "155": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "157": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "285": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "282": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "109": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 2,
+                        "distribution": {
+                            "Grooming": 2
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Golden Retriever": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 5
+            },
+            "327": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "297": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "30": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "335": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "216": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "73": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 2,
+                        "distribution": {
+                            "Grooming": 2
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 2,
+                        "distribution": {
+                            "Veterinary": 2
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "204": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "54": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "243": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "215": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "2": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "239": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "6": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "64": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "105": {
+                "type": "node",
+                "feature": 6,
+                "feature_name": "Layanan Terakhir",
+                "branches": {
+                    "Grooming": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Veterinary": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Pet Hotel": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "145": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "55": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "195": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "273": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "225": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Siberian Husky": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "129": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "163": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "111": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "265": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "301": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "276": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "35": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Shih Tzu": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Beagle": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "176": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "291": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "214": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "342": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "211": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "95": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "278": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "228": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 3,
+                "distribution": {
+                    "Grooming": 3
+                }
+            },
+            "38": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "233": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "4": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Sangat Tua": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Remaja": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "17": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Shih Tzu": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "41": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "347": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "71": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "132": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "193": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "318": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "78": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "196": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "213": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "349": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "135": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "251": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Sangat Tua": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Dewasa": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "5": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anggora": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Golden Retriever": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "91": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Scottish Fold": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "252": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 3,
+                        "distribution": {
+                            "Veterinary": 3
+                        }
+                    },
+                    "Persia": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 5
+            },
+            "134": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "312": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "British Shorthair": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Maine Coon": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "184": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "125": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "128": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "99": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "113": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "23": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "101": {
+                "type": "node",
+                "feature": 5,
+                "feature_name": "Layanan Sering",
+                "branches": {
+                    "Pet Hotel": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Veterinary": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Grooming": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "75": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "329": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 2,
+                "distribution": {
+                    "Grooming": 2
+                }
+            },
+            "313": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "262": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 2,
+                "distribution": {
+                    "Grooming": 2
+                }
+            },
+            "272": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "25": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "126": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "241": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "28": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "149": {
+                "type": "node",
+                "feature": 2,
+                "feature_name": "Berat Badan (Kg)",
+                "branches": {
+                    "Kecil": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Sedang": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "53": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "298": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "307": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 3,
+                "distribution": {
+                    "Veterinary": 3
+                }
+            },
+            "40": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "152": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "86": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "93": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "92": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "306": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "220": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "60": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Persia": {
+                        "type": "node",
+                        "feature": 2,
+                        "feature_name": "Berat Badan (Kg)",
+                        "branches": {
+                            "Kecil": {
+                                "type": "leaf",
+                                "class": "Pet Hotel",
+                                "samples": 1,
+                                "distribution": {
+                                    "Pet Hotel": 1
+                                }
+                            },
+                            "Sedang": {
+                                "type": "leaf",
+                                "class": "Veterinary",
+                                "samples": 1,
+                                "distribution": {
+                                    "Veterinary": 1
+                                }
+                            }
+                        },
+                        "samples": 2
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Golden Retriever": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 4
+            },
+            "119": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "85": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Sphynx": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Beagle": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 3
+            },
+            "172": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "263": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "44": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "232": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "267": {
+                "type": "node",
+                "feature": 0,
+                "feature_name": "Jenis Hewan",
+                "branches": {
+                    "Kucing": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Anjing": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "270": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "112": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "87": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "269": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "281": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "180": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "217": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "275": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Siberian Husky": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Beagle": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "302": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "345": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "27": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Golden Retriever": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Siberian Husky": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "103": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "171": {
+                "type": "node",
+                "feature": 3,
+                "feature_name": "Usia (Bulan)",
+                "branches": {
+                    "Tua": {
+                        "type": "leaf",
+                        "class": "Pet Hotel",
+                        "samples": 1,
+                        "distribution": {
+                            "Pet Hotel": 1
+                        }
+                    },
+                    "Muda": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "331": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "293": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 3,
+                "distribution": {
+                    "Veterinary": 3
+                }
+            },
+            "292": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "254": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "305": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "57": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Siberian Husky": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "185": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "202": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "26": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "248": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "79": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "236": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "82": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "96": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "114": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Shih Tzu": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "348": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "1": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "334": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "235": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "48": {
+                "type": "node",
+                "feature": 2,
+                "feature_name": "Berat Badan (Kg)",
+                "branches": {
+                    "Besar": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Sedang": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "286": {
+                "type": "node",
+                "feature": 1,
+                "feature_name": "Ras",
+                "branches": {
+                    "Beagle": {
+                        "type": "leaf",
+                        "class": "Veterinary",
+                        "samples": 1,
+                        "distribution": {
+                            "Veterinary": 1
+                        }
+                    },
+                    "Pomeranian": {
+                        "type": "leaf",
+                        "class": "Grooming",
+                        "samples": 1,
+                        "distribution": {
+                            "Grooming": 1
+                        }
+                    }
+                },
+                "samples": 2
+            },
+            "161": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "322": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "80": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "256": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 2,
+                "distribution": {
+                    "Veterinary": 2
+                }
+            },
+            "115": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "146": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "303": {
+                "type": "leaf",
+                "class": "Pet Hotel",
+                "samples": 1,
+                "distribution": {
+                    "Pet Hotel": 1
+                }
+            },
+            "39": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "153": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "328": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "36": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "130": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "19": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "104": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "116": {
+                "type": "leaf",
+                "class": "Grooming",
+                "samples": 1,
+                "distribution": {
+                    "Grooming": 1
+                }
+            },
+            "238": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            },
+            "189": {
+                "type": "leaf",
+                "class": "Veterinary",
+                "samples": 1,
+                "distribution": {
+                    "Veterinary": 1
+                }
+            }
+        },
+        "samples": 500
+    },
+    "maxDepth": 10,
+    "minSamplesLeaf": 2,
+    "created_at": "2025-12-14 19:20:48"
+}
