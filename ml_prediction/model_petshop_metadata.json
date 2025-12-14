@@ -1,5 +1,5 @@
 {
-    "training_date": "2025-12-14 19:20:48",
+    "training_date": "2025-12-14 20:03:35",
     "training_samples": 500,
     "features": [
         "Jenis Hewan",
@@ -31,5 +31,5 @@
         "Merek Pakan": 0.36,
         "Jenis Pakan": 0
     },
-    "training_time_seconds": 0.02
+    "training_time_seconds": 0.03
 }

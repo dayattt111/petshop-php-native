@@ -32,6 +32,18 @@ function sidebarLink($href, $icon, $text, $mode) {
   echo sidebarLink('periksa.php', 'bi-journal-text', 'Data Pemeriksaan', $mode);
   echo sidebarLink('transaksi.php', 'bi-journal-text', 'Transaksi', $mode);
   ?>
+  
+  <hr class="text-light my-3">
+  
+  <!-- ML System Menu -->
+  <div class="mb-2">
+    <div class="text-info fw-bold px-3 py-2" style="font-size: 0.85rem;">
+      <i class="bi bi-robot me-2"></i> ML SYSTEM
+    </div>
+    <?php
+    echo sidebarLink('ai_assistant.php', 'bi-capsule', 'AI Medical Assistant', $mode);
+    ?>
+  </div>
 </div>
 
 <style>

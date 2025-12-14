@@ -56,6 +56,9 @@ $foto_user = $_SESSION['user']['foto_212238'];
         <li class="nav-item">
           <a class="nav-link" href="data_periksa.php">Data Pemeriksaan</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link text-primary fw-bold" href="prediksi_layanan.php">🤖 AI Prediksi</a>
+        </li>
       </ul>
     </div>
 

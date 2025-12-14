@@ -7,8 +7,8 @@
 session_start();
 require_once __DIR__ . '/../ml_prediction/PredictionService.php';
 
-// Check if dokter is logged in
-if (!isset($_SESSION['username_212238']) || $_SESSION['role_212238'] !== 'dokter') {
+// Check if dokter or admin is logged in
+if (!isset($_SESSION['username_212238']) || !in_array($_SESSION['role_212238'], ['dokter', 'admin'])) {
     header('Location: ../login.php');
     exit;
 }

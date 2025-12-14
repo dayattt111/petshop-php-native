@@ -28,6 +28,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if ($is_valid_212238) {
             $_SESSION["user"] = $user;
+            $_SESSION["id_212238"] = $user["id_212238"];
+            $_SESSION["username_212238"] = $user["username_212238"];
+            $_SESSION["nama_212238"] = $user["nama_212238"];
+            $_SESSION["role_212238"] = $user["role_212238"];
+            $_SESSION["email_212238"] = $user["email_212238"];
             $success = "Login berhasil sebagai $role_212238";
 
             // Redirect berdasarkan role
