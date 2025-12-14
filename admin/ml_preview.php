@@ -198,7 +198,7 @@ try {
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <h6 class="text-muted">Training Samples</h6>
-                                            <h2><?= $adminResult['model_info']['samples_count'] ?></h2>
+                                            <h2><?= $adminResult['model_info']['training_samples'] ?></h2>
                                         </div>
                                     </div>
                                 </div>
