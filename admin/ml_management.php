@@ -8,7 +8,7 @@ session_start();
 require_once __DIR__ . '/../ml_prediction/PredictionService.php';
 
 // Check if admin is logged in
-if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
+if (!isset($_SESSION['username']) || $_SESSION['level'] !== 'admin') {
     header('Location: ../login.php');
     exit;
 }

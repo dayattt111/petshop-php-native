@@ -9,7 +9,7 @@ require_once __DIR__ . '/../ml_prediction/PredictionService.php';
 require_once __DIR__ . '/../config/koneksi.php';
 
 // Check if kasir is logged in
-if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'kasir') {
+if (!isset($_SESSION['username']) || $_SESSION['level'] !== 'kasir') {
     header('Location: ../login.php');
     exit;
 }
@@ -17,19 +17,19 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'kasir') {
 // Get customer/pet ID from request
 $petId = $_GET['pet_id'] ?? null;
 
-// Sample data - in production, fetch from database
+// Sample data - sesuai dataset Makassar
 $petData = [
-    'pet_name' => 'Milo',
-    'customer_name' => 'Bu Sari',
-    'jenis_hewan' => 'Anjing',
-    'ras' => 'Golden Retriever',
-    'berat_badan' => 25,
-    'usia_bulan' => 36,
-    'frekuensi_kunjungan' => 8,
+    'pet_name' => 'Luna',
+    'customer_name' => 'Ibu Sari',
+    'jenis_hewan' => 'Kucing',
+    'ras' => 'Maine Coon',
+    'berat_badan' => 5.6,
+    'usia_bulan' => 18,
+    'frekuensi_kunjungan' => 2,
     'layanan_sering' => 'Grooming',
-    'layanan_terakhir' => 'Grooming',
-    'jenis_pakan' => 'Pedigree Adult',
-    'merek_pakan' => 'Pedigree',
+    'layanan_terakhir' => 'Pet Hotel',
+    'jenis_pakan' => 'Kering',
+    'merek_pakan' => 'OriCat',
     'hari_sejak_kunjungan' => 45
 ];
 

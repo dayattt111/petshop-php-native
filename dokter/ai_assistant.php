@@ -8,25 +8,25 @@ session_start();
 require_once __DIR__ . '/../ml_prediction/PredictionService.php';
 
 // Check if dokter is logged in
-if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'dokter') {
+if (!isset($_SESSION['username']) || $_SESSION['level'] !== 'dokter') {
     header('Location: ../login.php');
     exit;
 }
 
-// Sample patient data
+// Sample patient data - sesuai dataset Makassar
 $petData = [
-    'pet_name' => 'Luna',
-    'customer_name' => 'Pak Budi',
+    'pet_name' => 'Bella',
+    'customer_name' => 'Bapak Ahmad',
     'jenis_hewan' => 'Kucing',
-    'ras' => 'Anggora',
-    'berat_badan' => 3.5,
-    'usia_bulan' => 24,
+    'ras' => 'Persia',
+    'berat_badan' => 6.1,
+    'usia_bulan' => 60,
     'frekuensi_kunjungan' => 3,
-    'layanan_sering' => 'Vaksinasi',
-    'layanan_terakhir' => 'Vaksinasi',
-    'jenis_pakan' => 'Royal Canin',
-    'merek_pakan' => 'Royal Canin',
-    'hari_sejak_kunjungan' => 90
+    'layanan_sering' => 'Veterinary',
+    'layanan_terakhir' => 'Veterinary',
+    'jenis_pakan' => 'Kering',
+    'merek_pakan' => 'Whiskas',
+    'hari_sejak_kunjungan' => 120
 ];
 
 try {

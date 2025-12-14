@@ -9,23 +9,23 @@ require_once __DIR__ . '/../ml_prediction/PredictionService.php';
 require_once __DIR__ . '/../config/koneksi.php';
 
 // Check if user is logged in
-if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'user') {
+if (!isset($_SESSION['username']) || $_SESSION['level'] !== 'user') {
     header('Location: ../login.php');
     exit;
 }
 
-$userId = $_SESSION['user_id'];
+$username = $_SESSION['username'];
 
-// Sample pet data - in production, fetch from database
+// Sample pet data - sesuai dataset Makassar
 $petData = [
     'jenis_hewan' => 'Kucing',
     'ras' => 'Persia',
     'berat_badan' => 4.5,
     'usia_bulan' => 18,
-    'frekuensi_kunjungan' => 5,
+    'frekuensi_kunjungan' => 2,
     'layanan_sering' => 'Grooming',
     'layanan_terakhir' => 'Grooming',
-    'jenis_pakan' => 'Whiskas Premium',
+    'jenis_pakan' => 'Kering',
     'merek_pakan' => 'Whiskas',
     'hari_sejak_kunjungan' => 30
 ];
