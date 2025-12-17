@@ -280,19 +280,44 @@ Contoh hasil feature importance (persentase kontribusi, dari metadata yang dihas
 
 Integrasi UI sudah dilakukan pada beberapa file:
 
-- Admin: [admin/ml_management.php](admin/ml_management.php)  
-  Dashboard untuk melihat akurasi, jumlah sampel, fitur, kelas target, dan feature importance.
+- Admin: [admin/ml_management.php](admin/ml_management.php) dan [admin/ml_preview.php](admin/ml_preview.php)  
+   Dashboard untuk melihat akurasi, jumlah sampel, fitur, kelas target, feature importance, dan **preview tampilan semua role** dalam satu halaman.
 
 - User: [user/prediksi_layanan.php](user/prediksi_layanan.php)  
-  Menampilkan kartu rekomendasi layanan dengan pesan ramah, confidence score, dan alternative services.
+   Menampilkan kartu rekomendasi layanan dengan pesan ramah, confidence score, dan alternative services.
 
 - Kasir: [kasir/prediksi_penjualan.php](kasir/prediksi_penjualan.php)  
-  Menampilkan rekomendasi layanan + skrip penjualan dan item upselling.
+   Menampilkan rekomendasi layanan + skrip penjualan dan item upselling.
 
 - Dokter: [dokter/ai_assistant.php](dokter/ai_assistant.php)  
-  Menampilkan rekomendasi AI, catatan medis, check points, dan form validasi dokter.
+   Menampilkan rekomendasi AI, catatan medis, check points, dan form validasi dokter.
 
 Menu integrasi dirangkum di [ml_prediction/MENU_INTEGRATION.md](ml_prediction/MENU_INTEGRATION.md).
+
+### 7.1 Tampilan Antarmuka Admin
+
+Pada role **admin**, terdapat dua halaman utama terkait modul ML:
+
+1. **Halaman ML Management** – [admin/ml_management.php](admin/ml_management.php)  
+    - Layout menggunakan sidebar kiri (Admin Panel) dan konten kanan.  
+    - Bagian atas menampilkan **4 kartu ringkasan**:  
+       - Model Accuracy (%).  
+       - Training Samples.  
+       - Features.  
+       - Target Classes.  
+    - Di bawahnya terdapat **kartu Model Information** yang menampilkan nama file model, tanggal training, algoritma, dan daftar kelas target.  
+    - Berikutnya ada **bagian Feature Importance** berupa daftar bar dengan progress bar persentase kontribusi tiap fitur (misalnya Hari Sejak Kunjungan, Ras, Jenis Hewan).  
+    - Admin juga dapat menekan tombol untuk melakukan retrain model melalui script `train_model.php`.
+
+2. **Halaman ML System Preview** – [admin/ml_preview.php](admin/ml_preview.php)  
+    - Menyediakan **tab interface** untuk melihat tampilan keluaran AI dari perspektif keempat role tanpa harus login sebagai role tersebut:  
+       - Tab **Admin Dashboard**: ringkasan akurasi, training samples, fitur, target classes, serta top 5 feature importance dengan progress bar.  
+       - Tab **Kasir View**: menampilkan contoh customer & pet info, prediksi layanan utama, confidence %, skrip penjualan, dan daftar upselling items beserta harga.  
+       - Tab **Dokter View**: menampilkan informasi pasien (jenis hewan, ras, usia, berat, hari sejak kunjungan), rekomendasi AI, confidence %, concern level, dan daftar check points medis yang perlu divalidasi.  
+       - Tab **User View**: menampilkan kartu rekomendasi layanan (judul, ikon emoji, pesan, confidence badge), tombol aksi (action button), serta daftar alternative services dengan progress bar probabilitas.  
+    - Di bagian bawah terdapat **kartu ringkasan** yang menjelaskan fokus informasi tiap role (Admin, Kasir, Dokter, User) sehingga memudahkan penjelasan di jurnal tentang perbedaan sudut pandang UI per role.
+
+Tampilan ini bisa dijadikan bahan di jurnal pada subbab **Implementasi Sistem** (desain UI/UX admin) maupun **Hasil dan Pembahasan** (bagaimana admin memonitor dan mengevaluasi performa model). 
 
 ---
 

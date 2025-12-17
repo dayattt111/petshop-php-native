@@ -273,12 +273,15 @@ try {
                                     <strong>🎁 Upselling Opportunities</strong>
                                 </div>
                                 <div class="card-body">
-                                    <?php foreach ($kasirResult['upselling_items'] as $item): ?>
-                                        <div class="upsell-item">
-                                            <strong><?= $item['item'] ?></strong> - Rp <?= number_format($item['price'], 0, ',', '.') ?>
-                                            <p class="mb-0 text-muted"><?= $item['reason'] ?></p>
-                                        </div>
-                                    <?php endforeach; ?>
+                                    <?php if (!empty($kasirResult['upsell_opportunities']) && is_array($kasirResult['upsell_opportunities'])): ?>
+                                        <?php foreach ($kasirResult['upsell_opportunities'] as $itemName => $price): ?>
+                                            <div class="upsell-item">
+                                                <strong><?= htmlspecialchars($itemName) ?></strong> - <?= htmlspecialchars($price) ?>
+                                            </div>
+                                        <?php endforeach; ?>
+                                    <?php else: ?>
+                                        <p class="text-muted mb-0">Belum ada rekomendasi upselling untuk prediksi ini.</p>
+                                    <?php endif; ?>
                                 </div>
                             </div>
                             
