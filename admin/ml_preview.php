@@ -301,13 +301,13 @@ try {
                                     <div class="row">
                                         <div class="col-md-6">
                                             <p><strong>Owner:</strong> <?= $sampleDataDokter['customer_name'] ?></p>
-                                            <p><strong>Species:</strong> <?= $dokterResult['patient_history']['jenis_hewan'] ?></p>
-                                            <p><strong>Breed:</strong> <?= $dokterResult['patient_history']['ras'] ?></p>
+                                            <p><strong>Species:</strong> <?= $dokterResult['patient_history']['jenis_hewan'] ?? '-' ?></p>
+                                            <p><strong>Breed:</strong> <?= $dokterResult['patient_history']['ras'] ?? '-' ?></p>
                                         </div>
                                         <div class="col-md-6">
-                                            <p><strong>Age:</strong> <?= $dokterResult['patient_history']['usia_kategori'] ?></p>
-                                            <p><strong>Weight:</strong> <?= $dokterResult['patient_history']['berat_badan'] ?> kg</p>
-                                            <p><strong>Last Visit:</strong> <?= $dokterResult['patient_history']['hari_sejak_kunjungan'] ?> days ago</p>
+                                            <p><strong>Age:</strong> <?= $dokterResult['patient_history']['usia_kategori'] ?? '-' ?></p>
+                                            <p><strong>Weight:</strong> <?= $dokterResult['patient_history']['berat_badan'] ?? '-' ?> kg</p>
+                                            <p><strong>Last Visit:</strong> <?= $sampleDataDokter['hari_sejak_kunjungan'] ?> days ago</p>
                                         </div>
                                     </div>
                                 </div>
@@ -333,12 +333,15 @@ try {
                                     <strong>✅ Health Check Points</strong>
                                 </div>
                                 <div class="card-body">
-                                    <?php foreach ($dokterResult['health_checks'] as $check): ?>
-                                        <div class="alert alert-light">
-                                            <strong><?= $check['check'] ?></strong>
-                                            <p class="mb-0"><?= $check['detail'] ?></p>
-                                        </div>
-                                    <?php endforeach; ?>
+                                    <?php if (!empty($dokterResult['medical_validation']['check_points'])): ?>
+                                        <?php foreach ($dokterResult['medical_validation']['check_points'] as $point): ?>
+                                            <div class="alert alert-light">
+                                                ✓ <?= htmlspecialchars($point) ?>
+                                            </div>
+                                        <?php endforeach; ?>
+                                    <?php else: ?>
+                                        <p class="text-muted mb-0">No specific check points defined.</p>
+                                    <?php endif; ?>
                                 </div>
                             </div>
                             
@@ -353,14 +356,15 @@ try {
                         <div class="preview-card">
                             <span class="role-badge badge-user">👤 USER - Service Recommendation</span>
                             
+                            <?php $petInfo = $userResult['pet_info'] ?? []; ?>
                             <div class="card user-service-card mb-3">
                                 <div class="card-header bg-info text-white">
                                     <strong>🐾 Your Pet: <?= htmlspecialchars($sampleDataUser['pet_name']) ?></strong>
                                 </div>
                                 <div class="card-body">
-                                    <p><strong>Type:</strong> <?= $userResult['pet_info']['jenis_hewan'] ?> - <?= $userResult['pet_info']['ras'] ?></p>
-                                    <p><strong>Age:</strong> <?= $userResult['pet_info']['usia_kategori'] ?></p>
-                                    <p><strong>Weight:</strong> <?= $userResult['pet_info']['berat_badan'] ?> kg</p>
+                                    <p><strong>Type:</strong> <?= $petInfo['jenis_hewan'] ?? '-' ?> - <?= $petInfo['ras'] ?? '-' ?></p>
+                                    <p><strong>Age:</strong> <?= $petInfo['usia_kategori'] ?? '-' ?></p>
+                                    <p><strong>Weight:</strong> <?= $petInfo['berat_badan'] ?? '-' ?> kg</p>
                                 </div>
                             </div>
                             
@@ -381,9 +385,12 @@ try {
                                     <strong>📅 Next Actions</strong>
                                 </div>
                                 <div class="card-body">
-                                    <?php foreach ($userResult['action_buttons'] as $action): ?>
+                                    <?php
+                                    // Di service user hanya ada satu action_text; bungkus sebagai list untuk preview
+                                    $actions = [$userResult['action_text'] ?? 'Lihat Detail Layanan'];
+                                    foreach ($actions as $action): ?>
                                         <button class="btn btn-outline-primary btn-sm mb-2 w-100">
-                                            <?= $action ?>
+                                            <?= htmlspecialchars($action) ?>
                                         </button>
                                     <?php endforeach; ?>
                                 </div>
@@ -395,12 +402,12 @@ try {
                                         <strong>🔄 Alternative Services</strong>
                                     </div>
                                     <div class="card-body">
-                                        <?php foreach ($userResult['alternative_services'] as $service): ?>
+                                        <?php foreach ($userResult['alternative_services'] as $serviceName => $probability): ?>
                                             <div class="mb-2">
-                                                <strong><?= $service['service'] ?></strong>
+                                                <strong><?= htmlspecialchars($serviceName) ?></strong>
                                                 <div class="progress">
-                                                    <div class="progress-bar" style="width: <?= $service['probability'] ?>%">
-                                                        <?= $service['probability'] ?>%
+                                                    <div class="progress-bar" style="width: <?= $probability ?>%">
+                                                        <?= $probability ?>%
                                                     </div>
                                                 </div>
                                             </div>

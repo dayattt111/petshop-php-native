@@ -213,6 +213,13 @@ class PredictionService {
             'message' => $info['message'],
             'action_text' => $info['action'],
             'icon' => $info['icon'],
+            // Ringkasan info hewan untuk kebutuhan tampilan (admin preview & user)
+            'pet_info' => [
+                'jenis_hewan' => $petData['jenis_hewan'] ?? '-',
+                'ras' => $petData['ras'] ?? '-',
+                'usia_kategori' => $this->getAgeCategory($petData['usia_bulan'] ?? 0),
+                'berat_badan' => $petData['berat_badan'] ?? '-'
+            ],
             'alternative_services' => $result['distribution'],
             'show_notification' => $result['confidence'] > 70
         ];
@@ -409,6 +416,7 @@ class PredictionService {
             ],
             'patient_history' => [
                 'jenis_hewan' => $petData['jenis_hewan'] ?? '-',
+                'ras' => $petData['ras'] ?? '-',
                 'usia_kategori' => $this->getAgeCategory($petData['usia_bulan'] ?? 0),
                 'berat_badan' => $petData['berat_badan'] ?? '-',
                 'frekuensi_kunjungan' => $petData['frekuensi_kunjungan'] ?? 0,
