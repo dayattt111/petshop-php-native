@@ -33,7 +33,12 @@ $foto_user = $_SESSION['user']['foto_212238'];
   <div class="container-fluid justify-content-between">
     
     <!-- Brand -->
-    <a class="navbar-brand fw-bold text-danger ms-3" href="index.php">Petshop Kita</a>
+    <a class="navbar-brand fw-bold text-danger ms-3" href="index.php">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="d-inline-block align-text-top me-1" viewBox="0 0 16 16">
+        <path d="M8 5.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM2.5 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm11 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM8 13a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
+      </svg>
+      PetShop NTI
+    </a>
 
     <!-- Navbar tengah -->
     <div class="d-flex justify-content-center flex-grow-1">

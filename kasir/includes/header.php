@@ -97,8 +97,10 @@ $adminFoto = isset($_SESSION['user']['foto_212238']) && $_SESSION['user']['foto_
 <!-- Header / Topbar -->
 <div class="topbar">
   <div class="logo">
-    <img src="<?= $baseUrl ?>/logo.png" alt="Logo" height="38" style="border-radius: 6px;" />
-    <span class="fw-bold">Petshop Kita</span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" fill="currentColor" viewBox="0 0 16 16">
+      <path d="M8 5.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM2.5 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm11 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM8 13a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
+    </svg>
+    <span class="fw-bold">PetShop NTI</span>
   </div>
   <div class="admin-info">
     <img src="<?= $adminFoto ?>" class="admin-photo" alt="Foto Kasir">

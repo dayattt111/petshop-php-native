@@ -3,7 +3,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Petshop Kita</title>
+  <title>PetShop NTI</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -49,8 +49,10 @@
 <nav class="navbar navbar-expand-lg sticky-top">
   <div class="container">
     <a class="navbar-brand d-flex align-items-center" href="<?= BASE_URL ?>index.php">
-      <img src="<?= BASE_URL ?>assets/logo.png" width="35" class="me-2" alt="Logo">
-      Petshop Kita
+      <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" class="me-2" viewBox="0 0 16 16">
+        <path d="M8 5.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM2.5 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm11 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM8 13a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
+      </svg>
+      PetShop NTI
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
       <span class="navbar-toggler-icon"></span>

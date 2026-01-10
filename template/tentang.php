@@ -5,7 +5,7 @@ include "header.php";
 <div class="container py-5">
   <h2 class="text-center text-maroon fw-bold mb-4">Tentang Kami</h2>
   <p class="text-center mb-5" style="max-width:700px;margin:auto;">
-    Selamat datang di <strong>Petshop Kita</strong> – tempat terbaik untuk memenuhi segala kebutuhan hewan peliharaan Anda. 
+    Selamat datang di <strong>PetShop NTI</strong> – tempat terbaik untuk memenuhi segala kebutuhan hewan peliharaan Anda. 
     Kami hadir sejak tahun 2022 di Bone, Sulawesi Selatan dengan komitmen untuk memberikan pelayanan terbaik melalui produk berkualitas dan layanan profesional.
   </p>
 
