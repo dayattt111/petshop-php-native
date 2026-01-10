@@ -10,7 +10,7 @@
           PetShop NTI
         </h1>
         <h2 class="mb-4">Sahabat Terbaik Hewan Kesayangan Anda</h2>
-        <p class="lead mb-4">Temukan berbagai kebutuhan hewan peliharaan Anda, dari pakan berkualitas hingga aksesoris lengkap dan layanan kesehatan profesional!</p>
+        <p class="lead mb-4">Temukan berbagai kebutuhan hewan peliharaan Anda dengan produk berkualitas dan layanan kesehatan profesional.</p>
         <div class="d-flex gap-3 justify-content-lg-start justify-content-center">
           <a href="<?= BASE_URL ?>login.php" class="btn btn-light btn-lg px-4">Mulai Belanja</a>
           <a href="<?= BASE_URL ?>template/tentang.php" class="btn btn-outline-light btn-lg px-4">Tentang Kami</a>
@@ -47,7 +47,7 @@
       </div>
       <div class="col-md-3 col-sm-6">
         <div class="p-3">
-          <h2 class="fw-bold" style="color: #800000;">4.9★</h2>
+          <h2 class="fw-bold" style="color: #800000;">4.9/5</h2>
           <p class="text-muted mb-0">Rating Pelanggan</p>
         </div>
       </div>
@@ -59,46 +59,43 @@
 <section class="py-5 bg-white">
   <div class="container">
     <h3 class="text-center fw-bold mb-2" style="color: #800000;">Layanan Kami</h3>
-    <p class="text-center text-muted mb-5">Solusi lengkap untuk kebahagiaan hewan peliharaan Anda</p>
+    <p class="text-center text-muted mb-5">Solusi lengkap untuk kebutuhan hewan peliharaan Anda</p>
     <div class="row g-4">
       <div class="col-md-4">
-        <div class="card h-100 border-0 shadow-sm text-center p-4">
+        <div class="card h-100 border-0 shadow-sm p-4">
           <div class="card-body">
-            <div class="mb-3" style="font-size: 3rem; color: #800000;">🛒</div>
-            <h5 class="card-title fw-bold">Produk Berkualitas</h5>
-            <p class="card-text">Pakan premium, aksesoris lengkap, dan produk perawatan hewan terbaik untuk kesayangan Anda.</p>
-            <ul class="list-unstyled text-start mt-3">
-              <li class="mb-2">✓ Pakan Impor & Lokal</li>
-              <li class="mb-2">✓ Aksesoris Lengkap</li>
-              <li class="mb-2">✓ Vitamin & Suplemen</li>
+            <h5 class="card-title fw-bold mb-3">Produk Berkualitas</h5>
+            <p class="card-text text-muted">Pakan premium, aksesoris lengkap, dan produk perawatan hewan terbaik.</p>
+            <ul class="list-unstyled mt-3">
+              <li class="mb-2">Pakan Impor & Lokal</li>
+              <li class="mb-2">Aksesoris Lengkap</li>
+              <li class="mb-2">Vitamin & Suplemen</li>
             </ul>
           </div>
         </div>
       </div>
       <div class="col-md-4">
-        <div class="card h-100 border-0 shadow-sm text-center p-4">
+        <div class="card h-100 border-0 shadow-sm p-4">
           <div class="card-body">
-            <div class="mb-3" style="font-size: 3rem; color: #800000;">🩺</div>
-            <h5 class="card-title fw-bold">Pemeriksaan Kesehatan</h5>
-            <p class="card-text">Layanan pemeriksaan hewan oleh dokter berpengalaman untuk menjaga kesehatan hewan peliharaan.</p>
-            <ul class="list-unstyled text-start mt-3">
-              <li class="mb-2">✓ Konsultasi Gratis</li>
-              <li class="mb-2">✓ Vaksinasi Lengkap</li>
-              <li class="mb-2">✓ Perawatan Harian</li>
+            <h5 class="card-title fw-bold mb-3">Pemeriksaan Kesehatan</h5>
+            <p class="card-text text-muted">Layanan pemeriksaan hewan oleh dokter berpengalaman.</p>
+            <ul class="list-unstyled mt-3">
+              <li class="mb-2">Konsultasi Kesehatan</li>
+              <li class="mb-2">Vaksinasi Lengkap</li>
+              <li class="mb-2">Perawatan Rutin</li>
             </ul>
           </div>
         </div>
       </div>
       <div class="col-md-4">
-        <div class="card h-100 border-0 shadow-sm text-center p-4">
+        <div class="card h-100 border-0 shadow-sm p-4">
           <div class="card-body">
-            <div class="mb-3" style="font-size: 3rem; color: #800000;">🤖</div>
-            <h5 class="card-title fw-bold">AI Prediction</h5>
-            <p class="card-text">Teknologi AI untuk prediksi layanan dan penjualan, memberikan pengalaman terbaik bagi pelanggan.</p>
-            <ul class="list-unstyled text-start mt-3">
-              <li class="mb-2">✓ Prediksi Layanan</li>
-              <li class="mb-2">✓ Rekomendasi Produk</li>
-              <li class="mb-2">✓ Analisis Kesehatan</li>
+            <h5 class="card-title fw-bold mb-3">Sistem AI Prediksi</h5>
+            <p class="card-text text-muted">Teknologi untuk prediksi layanan dan rekomendasi produk.</p>
+            <ul class="list-unstyled mt-3">
+              <li class="mb-2">Prediksi Kebutuhan Layanan</li>
+              <li class="mb-2">Rekomendasi Produk</li>
+              <li class="mb-2">Analisis Data Penjualan</li>
             </ul>
           </div>
         </div>
@@ -107,11 +104,11 @@
   </div>
 </section>
 
-<!-- Product Categories Showcase -->
+<!-- Product Categories -->
 <section class="py-5" style="background-color: #f8f9fa;">
   <div class="container">
     <h3 class="text-center fw-bold mb-2" style="color: #800000;">Kategori Produk</h3>
-    <p class="text-center text-muted mb-5">Jelajahi berbagai kategori produk berkualitas untuk hewan kesayangan</p>
+    <p class="text-center text-muted mb-5">Jelajahi berbagai kategori produk berkualitas</p>
     <div class="row g-4">
       <div class="col-md-6">
         <div class="card border-0 shadow-sm overflow-hidden">
@@ -121,9 +118,9 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title fw-bold" style="color: #800000;">🎀 Aksesoris Hewan</h5>
-                <p class="card-text">Kalung, tali, kandang, mainan, dan berbagai aksesoris lucu untuk hewan peliharaan Anda.</p>
-                <a href="<?= BASE_URL ?>template/aksesoris.php" class="btn btn-sm" style="background-color: #800000; color: white;">Lihat Produk →</a>
+                <h5 class="card-title fw-bold" style="color: #800000;">Aksesoris Hewan</h5>
+                <p class="card-text">Kalung, tali, kandang, mainan, dan berbagai aksesoris untuk hewan peliharaan Anda.</p>
+                <a href="<?= BASE_URL ?>template/aksesoris.php" class="btn btn-sm" style="background-color: #800000; color: white;">Lihat Produk</a>
               </div>
             </div>
           </div>
@@ -137,9 +134,9 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title fw-bold" style="color: #800000;">🍖 Pakan & Makanan</h5>
-                <p class="card-text">Pakan berkualitas tinggi dari berbagai merek terpercaya untuk nutrisi optimal hewan Anda.</p>
-                <a href="<?= BASE_URL ?>template/pakan.php" class="btn btn-sm" style="background-color: #800000; color: white;">Lihat Produk →</a>
+                <h5 class="card-title fw-bold" style="color: #800000;">Pakan & Makanan</h5>
+                <p class="card-text">Pakan berkualitas dari berbagai merek terpercaya untuk nutrisi optimal hewan Anda.</p>
+                <a href="<?= BASE_URL ?>template/pakan.php" class="btn btn-sm" style="background-color: #800000; color: white;">Lihat Produk</a>
               </div>
             </div>
           </div>
@@ -152,33 +149,29 @@
 <!-- Why Choose Us -->
 <section class="py-5 bg-white">
   <div class="container">
-    <h3 class="text-center fw-bold mb-2" style="color: #800000;">Mengapa Memilih PetShop NTI?</h3>
+    <h3 class="text-center fw-bold mb-2" style="color: #800000;">Mengapa Memilih PetShop NTI</h3>
     <p class="text-center text-muted mb-5">Kepercayaan pelanggan adalah prioritas kami</p>
     <div class="row g-4">
-      <div class="col-md-3 col-sm-6 text-center">
-        <div class="p-3">
-          <div class="mb-3" style="font-size: 2.5rem;">✅</div>
+      <div class="col-md-3 col-sm-6">
+        <div class="p-3 text-center">
           <h6 class="fw-bold">Produk Original</h6>
           <p class="text-muted small">100% produk asli dan bergaransi</p>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 text-center">
-        <div class="p-3">
-          <div class="mb-3" style="font-size: 2.5rem;">🚚</div>
+      <div class="col-md-3 col-sm-6">
+        <div class="p-3 text-center">
           <h6 class="fw-bold">Pengiriman Cepat</h6>
           <p class="text-muted small">Pengiriman aman dan tepat waktu</p>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 text-center">
-        <div class="p-3">
-          <div class="mb-3" style="font-size: 2.5rem;">💳</div>
+      <div class="col-md-3 col-sm-6">
+        <div class="p-3 text-center">
           <h6 class="fw-bold">Pembayaran Mudah</h6>
           <p class="text-muted small">Berbagai metode pembayaran</p>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 text-center">
-        <div class="p-3">
-          <div class="mb-3" style="font-size: 2.5rem;">🎁</div>
+      <div class="col-md-3 col-sm-6">
+        <div class="p-3 text-center">
           <h6 class="fw-bold">Promo Menarik</h6>
           <p class="text-muted small">Diskon dan hadiah setiap bulan</p>
         </div>
@@ -191,7 +184,7 @@
 <section class="py-5" style="background-color: #f8f9fa;">
   <div class="container">
     <h3 class="text-center fw-bold mb-2" style="color: #800000;">Testimoni Pelanggan</h3>
-    <p class="text-center text-muted mb-5">Apa kata mereka tentang PetShop NTI</p>
+    <p class="text-center text-muted mb-5">Apa kata pelanggan tentang layanan kami</p>
     <div class="row g-4">
       <div class="col-md-4">
         <div class="card border-0 shadow-sm h-100">
@@ -199,7 +192,7 @@
             <div class="mb-3">
               <span style="color: #ffc107;">★★★★★</span>
             </div>
-            <p class="card-text">"Pelayanan sangat memuaskan! Produk berkualitas dan dokter hewannya sangat berpengalaman. Kucing saya jadi lebih sehat."</p>
+            <p class="card-text">Pelayanan sangat memuaskan. Produk berkualitas dan dokter hewannya berpengalaman. Kucing saya jadi lebih sehat.</p>
             <div class="d-flex align-items-center mt-3">
               <div class="rounded-circle bg-secondary" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; color: white;">AS</div>
               <div class="ms-3">
@@ -216,7 +209,7 @@
             <div class="mb-3">
               <span style="color: #ffc107;">★★★★★</span>
             </div>
-            <p class="card-text">"Pakan yang dijual sangat lengkap dan harganya kompetitif. Sistem AI prediksi layanan juga sangat membantu!"</p>
+            <p class="card-text">Pakan yang dijual sangat lengkap dan harganya kompetitif. Sistem AI prediksi layanan juga membantu.</p>
             <div class="d-flex align-items-center mt-3">
               <div class="rounded-circle bg-secondary" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; color: white;">SP</div>
               <div class="ms-3">
@@ -233,7 +226,7 @@
             <div class="mb-3">
               <span style="color: #ffc107;">★★★★★</span>
             </div>
-            <p class="card-text">"Sudah 2 tahun jadi pelanggan setia. Aksesoris dan mainan untuk kelinci saya selalu beli di sini. Recommended!"</p>
+            <p class="card-text">Sudah 2 tahun jadi pelanggan setia. Aksesoris dan mainan untuk kelinci saya selalu beli di sini.</p>
             <div class="d-flex align-items-center mt-3">
               <div class="rounded-circle bg-secondary" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; color: white;">RH</div>
               <div class="ms-3">
@@ -251,8 +244,8 @@
 <!-- CTA Section -->
 <section class="py-5" style="background: linear-gradient(135deg, #800000 0%, #dc143c 100%); color: white;">
   <div class="container text-center">
-    <h3 class="fw-bold mb-3">Siap Merawat Hewan Kesayangan Anda?</h3>
-    <p class="lead mb-4">Bergabunglah dengan ribuan pelanggan yang telah mempercayai kami untuk kebutuhan hewan peliharaan mereka.</p>
+    <h3 class="fw-bold mb-3">Mulai Belanja Sekarang</h3>
+    <p class="lead mb-4">Daftar sekarang dan dapatkan berbagai keuntungan menjadi member PetShop NTI.</p>
     <a href="<?= BASE_URL ?>register.php" class="btn btn-light btn-lg px-5">Daftar Sekarang</a>
   </div>
 </section>
